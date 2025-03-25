@@ -27,9 +27,10 @@
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
-[url-fabric-img]: <https://fabricmc.net/assets/logo.png>
+[url-curseforge]: <https://www.curseforge.com/>
+[url-curseforge-app]: <https://download.overwolf.com/install/Download>
 [url-modrinth]: <https://modrinth.com/>
-[url-modrinth-img]: <https://cdn.modrinth.com/modrinth-new.png>
+[url-modrinth-app]: <https://launcher-files.modrinth.com/versions/0.9.3/windows/Modrinth%20App_0.9.3_x64-setup.exe>
 <!-- authors -->
 [url-apothicon]: <https://modrinth.com/user/Apothicon>
 [url-blaytheninth]: <https://modrinth.com/user/BlayTheNinth>
