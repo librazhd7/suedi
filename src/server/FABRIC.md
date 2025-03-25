@@ -10,7 +10,7 @@
 | [Forgiving Void][url-forgiving-void] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Balm][url-balm] | [BlayTheNinth][url-blaytheninth] | [Modrinth][url-modrinth] |
 | [Geyser][url-geyser] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Camotoy][url-camotoy] | [Modrinth][url-modrinth] |
 | [Glore][url-glore] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Apothicon][url-apothicon] | [Modrinth][url-modrinth] |
-| [Let Me Despawn][url-let-me-despawn] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [frikinjay][url-frikinjay] | [Modrinth][url-modrinth] |
+| [Let Me Despawn][url-let-me-despawn] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Almanac][url-almanac] | [frikinjay][url-frikinjay] | [Modrinth][url-modrinth] |
 | [Load My F***ing Tags][url-load-my-fucking-tags] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Blodhgarm][url-blodhgarm] | [Modrinth][url-modrinth] |
 | [NetherPortalFix][url-nether-portal-fix] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [BlayTheNinth][url-blayTheNinth] | [Modrinth][url-modrinth] |
 | [Noisium][url-noisium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Steveplays][url-steveplays] | [Modrinth][url-modrinth] |
@@ -54,6 +54,7 @@
 [url-steveplays]: <https://modrinth.com/user/Steveplays>
 [url-tomate0613]: <https://modrinth.com/user/Tomate0613>
 <!-- mods -->
+[url-almanac]: <https://cdn.modrinth.com/data/Gi02250Z/versions/inGMPti6/Almanac-1.21.3-fabric-1.4.4.jar>
 [url-alternate-current]: <https://cdn.modrinth.com/data/r0v8vy1s/versions/DwfiGUVU/alternate-current-mc1.21.2-1.9.1.jar>
 [url-audio-player]: <https://cdn.modrinth.com/data/SRlzjEBS/versions/377C94c4/audioplayer-fabric-1.21.4-1.13.2.jar>
 [url-axes-are-weapons]: <https://cdn.modrinth.com/data/1jvt7RTc/versions/HsVnjewK/AxesAreWeapons-1.9.3-fabric-1.21.3.jar>
