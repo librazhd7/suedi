@@ -1,24 +1,24 @@
-| Mod | Loader | Version | Dependencies | Author | CDN |
-|-----|--------|---------|--------------|--------|-----|
-| [Athena][url-athena] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Terrarium][url-terrarium] | [Modrinth][url-modrinth] |
-| [BadOptimizations][url-bad-optimizations] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [thosea][url-thosea] | [Modrinth][url-modrinth] |
-| [Controlify][url-controlify] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [isxander][url-isxander] | [Modrinth][url-modrinth] |
-| [Dynamic Crosshair][url-dynamic-crosshair] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Crendgrim][url-crendgrim] | [Modrinth][url-modrinth] |
-| [Enhanced Block Entities][url-enhanced-block-entities] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [FoundationGames][url-foundationgames] | [Modrinth][url-modrinth] |
-| [Entity Culling][url-entity-culling] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [tr7zw][url-tr7zw] | [Modrinth][url-modrinth] |
-| [Exordium][url-exordium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [tr7zw][url-tr7zw] | [Modrinth][url-modrinth] |
-| [ImmediatelyFast][url-immediately-fast] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [RaphiMC][url-raphimc] | [Modrinth][url-modrinth] |
-| [Iris Shaders][url-iris-shaders] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [coderbot][url-coderbot] | [Modrinth][url-modrinth] |
-| [Legendary Tooltips][url-legendary-tooltips] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Iceberg][url-iceberg] | [Grend][url-grend] | [Modrinth][url-modrinth] |
-| [Mod Menu][url-mod-menu] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Prospector][url-prospector] | [Modrinth][url-modrinth] |
-| [Not Enough Animations][url-not-enough-animations] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [tr7zw][url-tr7zw] | [Modrinth][url-modrinth] |
-| [Notes][url-notes] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Chaosyr][url-chaosyr] | [Modrinth][url-modrinth] |
-| [Noxesium][url-noxesium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Aeltumn][url-aeltumn] | [Modrinth][url-modrinth] |
-| [Nvidium][url-nvidium] ❌ | [Fabric][url-fabric] | ~~1.21.4~~ | [Fabric API][url-fabric-api], [NVIDIA][url-nvidia] | [cortex][url-cortex]| [Modrinth][url-modrinth] |
-| [Reese's Sodium Options][url-reeses-sodium-options] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [FlashyReese][url-flashy-reese] | [Modrinth][url-modrinth] |
-| [Sodium][url-sodium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [jellysquid3][url-jellysquid3] | [Modrinth][url-modrinth] |
-| [Sodium Extra][url-sodium-extra] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [FlashyReese][url-flashy-reese] | [Modrinth][url-modrinth] |
-| [Visuality][url-visuality] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [PinkGoosik][url-pinkgoosik] | [Modrinth][url-modrinth] |
+| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api]) | Author | CDN |
+|-----|---------|---------------------------------------------------|--------|-----|
+| [Athena][url-athena] | 1.21.4 | | [Terrarium][url-terrarium] | __Modrinth__ |
+| [BadOptimizations][url-bad-optimizations] | 1.21.4 | | [thosea][url-thosea] | __Modrinth__ |
+| [Controlify][url-controlify] | 1.21.4 | | [isxander][url-isxander] | __Modrinth__ |
+| [Dynamic Crosshair][url-dynamic-crosshair] | 1.21.4 | | [Crendgrim][url-crendgrim] | __Modrinth__ |
+| [Enhanced Block Entities][url-enhanced-block-entities] | 1.21.4 | | [FoundationGames][url-foundationgames] | __Modrinth__ |
+| [Entity Culling][url-entity-culling] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [Exordium][url-exordium] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [ImmediatelyFast][url-immediately-fast] | 1.21.4 | | [RaphiMC][url-raphimc] | __Modrinth__ |
+| [Iris Shaders][url-iris-shaders] | 1.21.4 | | [coderbot][url-coderbot] | __Modrinth__ |
+| [Legendary Tooltips][url-legendary-tooltips] | 1.21.4 | [Iceberg][url-iceberg] | [Grend][url-grend] | __Modrinth__ |
+| [Mod Menu][url-mod-menu] | 1.21.4 | | [Prospector][url-prospector] | __Modrinth__ |
+| [Not Enough Animations][url-not-enough-animations] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [Notes][url-notes] | 1.21.4 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
+| [Noxesium][url-noxesium] | 1.21.4 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
+| [Nvidium][url-nvidium] `❌` | ~~1.21.4~~ | [NVIDIA][url-nvidia] | [cortex][url-cortex]| __Modrinth__ |
+| [Reese's Sodium Options][url-reeses-sodium-options] | 1.21.4 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
+| [Sodium][url-sodium] | 1.21.4 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
+| [Sodium Extra][url-sodium-extra] | 1.21.4 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
+| [Visuality][url-visuality] | 1.21.4 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
 
 ## Additional credits
 - [__CodexAdrian__][url-codexadrian]
@@ -33,10 +33,6 @@
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
-[url-curseforge]: <https://www.curseforge.com/>
-[url-curseforge-app]: <https://download.overwolf.com/install/Download>
-[url-modrinth]: <https://modrinth.com/>
-[url-modrinth-app]: <https://launcher-files.modrinth.com/versions/0.9.3/windows/Modrinth%20App_0.9.3_x64-setup.exe>
 <!-- authors -->
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
 [url-chaosyr]: <https://modrinth.com/user/Chaosyr>
