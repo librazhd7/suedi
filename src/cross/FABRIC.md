@@ -32,7 +32,15 @@
 ## Additional credits
 - [__2No2Name__][url-2no2name]
 - [__astei__][url-astei]
+- [__BasiqueEvangelist__][url-basiqueevangelist]
+- [__Blodhgarm__][url-blodhgarm]
 - [__BreadLoaf__][url-breadloaf]
+- [__glisco__][url-glisco]
+- [__modmuss50__][url-modmuss50]
+- [__robotkoer__][url-robotkoer]
+- [__sfPlayer1__][url-sfplayer1]
+- [__shedaniel__][url-shedaniel]
+- [__Stridey__][url-stridey]
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
@@ -46,7 +54,9 @@
 [url-astei]: <https://modrinth.com/user/astei>
 [url-autovw]: <https://modrinth.com/user/Autovw>
 [url-aizistral]: <https://modrinth.com/user/Aizistral>
+[url-basiqueevangelist]: <https://modrinth.com/user/BasiqueEvangelist>
 [url-blaytheninth]: <https://modrinth.com/user/BlayTheNinth>
+[url-blodhgarm]: <https://modrinth.com/user/Blodhgarm>
 [url-breadloaf]: <https://modrinth.com/user/BreadLoaf>
 [url-chaosyr]: <https://modrinth.com/user/Chaosyr>
 [url-creativemd]: <https://modrinth.com/user/creativemd>
@@ -56,6 +66,7 @@
 [url-embeddedt]: <https://modrinth.com/user/embeddedt>
 [url-forstride]: <https://modrinth.com/user/Forstride>
 [url-fuzs]: <https://modrinth.com/user/Fuzs>
+[url-glisco]: <https://modrinth.com/user/glisco>
 [url-henkelmax]: <https://modrinth.com/user/henkelmax>
 [url-ishland]: <https://modrinth.com/user/ishland>
 [url-isxander]: <https://modrinth.com/user/isxander>
@@ -67,6 +78,7 @@
 [url-mysticdrew]: <https://modrinth.com/user/mysticdrew>
 [url-robotkoer]: <https://modrinth.com/user/robotkoer>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
+[url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-smushytaco]: <https://modrinth.com/user/SmushyTaco>
 [url-snownee]: <https://modrinth.com/user/Snownee>
 [url-stevekung]: <https://modrinth.com/user/SteveKunG>
