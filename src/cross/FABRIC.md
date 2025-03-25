@@ -7,7 +7,7 @@
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] | 1.21.4 | | [ishland][url-ishland] | __Modrinth__ |
 | [Debugify][url-debugify] | 1.21.4 | | [isxander][url-isxander] | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] | 1.21.4 | | [KosmX][url-kosmx] | __Modrinth__ |
-| [EnhancedVisuals][url-enhancedvisuals] | 1.21.4 | | [creativemd][url-creativemd] | __Modrinth__ |
+| [EnhancedVisuals][url-enhancedvisuals] | 1.21.4 | [CreativeCore][url-creativecore] | [creativemd][url-creativemd] | __Modrinth__ |
 | [Explorer's Compass][url-explorers-compass] | 1.21.4 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [FerriteCore][url-ferritecore] | 1.21.4 | | [malte0811][url-malte0811] | __Modrinth__ |
 | [Fish of Thieves][url-fish-of-thieves] | 1.21.4 | [Cloth Config API][url-cloth-config-api] | [SteveKunG][url-stevekung] | __Modrinth__ |
@@ -93,6 +93,7 @@
 [url-biomes-o-plenty]: <https://cdn.modrinth.com/data/HXF82T3G/versions/fnWSrWtY/BiomesOPlenty-fabric-1.21.4-21.4.0.22.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar>
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/yGX4O0YU/c2me-fabric-mc1.21.4-0.3.1.1.0.jar>
+[url-creativecore]: <https://cdn.modrinth.com/data/OsZiaDHq/versions/ixu9AXyq/CreativeCore_FABRIC_v2.12.35_mc1.21.4.jar>
 [url-debugify]: <https://cdn.modrinth.com/data/QwxR6Gcd/versions/yjpSgPEw/Debugify-1.21.4%2B1.1.jar>
 [url-emotecraft]: <https://cdn.modrinth.com/data/pZ2wrerK/versions/5XsQ3Xbt/emotecraft-fabric-for-MC1.21.4-2.5.5.jar>
 [url-enhancedvisuals]: <https://cdn.modrinth.com/data/KjL0jE2w/versions/2HAAAG2J/EnhancedVisuals_FABRIC_v1.8.17_mc1.21.4.jar>
