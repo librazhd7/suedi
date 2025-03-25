@@ -113,10 +113,10 @@
 [url-natures-compass]: <https://cdn.modrinth.com/data/fPetb5Kh/versions/fF380mCq/NaturesCompass-1.21.4-2.2.8-fabric.jar>
 [url-neutral-animals]: <https://cdn.modrinth.com/data/w1AXlLHd/versions/Uzy8fWaG/neutral-animals-1.2.10.jar>
 [url-no-chat-reports]: <https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar>
-[url-openblocks-elevator]: <https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/5990832>
+[url-openblocks-elevator]: <https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/download/5990832>
 [url-owo-lib]: <https://cdn.modrinth.com/data/ccKDOlHs/versions/kNCPPFb2/owo-lib-0.12.20%2B1.21.4.jar>
 [url-puzzles-lib]: <https://cdn.modrinth.com/data/QAGBst4M/versions/3rVDYk1s/PuzzlesLib-v21.4.12-1.21.4-Fabric.jar>
-[url-reborn-core]: <https://www.curseforge.com/minecraft/mc-mods/reborncore/files/6136161>
+[url-reborn-core]: <https://www.curseforge.com/minecraft/mc-mods/reborncore/download/6136161>
 [url-serene-seasons]: <https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar>
 [url-servercore]: <https://cdn.modrinth.com/data/4WWQxlQP/versions/uJYh4tBK/servercore-fabric-1.5.8%2B1.21.4.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/X2sypdTL/spark-1.10.121-fabric.jar>
@@ -125,6 +125,6 @@
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar>
 [url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
-[url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/files/6134999>
+[url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/download/6134999>
 [url-waystones]: <https://cdn.modrinth.com/data/LOpKHB2A/versions/NaUj93u7/waystones-fabric-1.21.4-21.4.10.jar>
 [url-yacl]: <https://cdn.modrinth.com/data/1eAoo2KR/versions/XeXZrziK/yet_another_config_lib_v3-3.6.6%2B1.21.4-fabric.jar>
