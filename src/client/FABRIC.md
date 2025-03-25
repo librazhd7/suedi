@@ -18,7 +18,7 @@
 | [Noxesium][url-noxesium] | 1.21.4 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
 | [Nvidium][url-nvidium] `❌` | ~~1.21.4~~ | [NVIDIA][url-nvidia] | [cortex][url-cortex]| __Modrinth__ |
 | [Reese's Sodium Options][url-reeses-sodium-options] | 1.21.4 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
-| [Roughly Enough Items][url-roughly-enough-items] | 1.21.4 | [Architectury-API][url-architectury-api] | [shedaniel][url-shedaniel] | __Modrinth__ |
+| [Roughly Enough Items][url-roughly-enough-items] | 1.21.4 | [Architectury API][url-architectury-api] | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [Sodium][url-sodium] | 1.21.4 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [Sodium Extra][url-sodium-extra] | 1.21.4 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
 | [Visuality][url-visuality] | 1.21.4 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
