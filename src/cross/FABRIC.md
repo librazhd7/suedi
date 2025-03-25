@@ -12,7 +12,7 @@
 | [FerriteCore][url-ferritecore] | 1.21.4 | | [malte0811][url-malte0811] | __Modrinth__ |
 | [Fish of Thieves][url-fish-of-thieves] | 1.21.4 | [Cloth Config API][url-cloth-config-api] | [SteveKunG][url-stevekung] | __Modrinth__ |
 | [Jade][url-jade] | 1.21.4 | | [Snownee][url-snownee] | __Modrinth__ |
-| [Just Enough Items][url-just-enough-items] `✔️` | ~~1.21.4~~ | | [Snownee][url-snownee] | __CurseForge__ |
+| [Just Enough Items][url-just-enough-items] `❌` | ~~1.21.4~~ | | [Snownee][url-snownee] | __CurseForge__ |
 | [JourneyMap][url-journeymap] | 1.21.4 | | [mysticdrew][url-mysticdrew] | __Modrinth__ |
 | [Krypton][url-krypton] | 1.21.4 | | [astei][url-astei] | __Modrinth__ |
 | [Lithium][url-lithium] | 1.21.4 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
