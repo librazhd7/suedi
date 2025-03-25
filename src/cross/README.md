@@ -1,5 +1,3 @@
-# cross
-
 | Mod | Loader | Version | Dependencies | Author | CDN |
 |-----|--------|---------|--------------|--------|-----|
 | [Advanced Netherite][url-advanced-netherite] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [][url-] 👑 | [Modrinth][url-modrinth] |
