@@ -1,5 +1,3 @@
-# server
-
 | Mod | Loader | Version | Dependencies | Author | CDN |
 |-----|--------|---------|--------------|--------|-----|
 | [Alternate Current][url-alternate-current] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Space Walker][url-space-walker] 👑 | [Modrinth][url-modrinth] |
