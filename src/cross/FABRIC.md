@@ -19,15 +19,16 @@
 | [Nature's Compass][url-natures-compass] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Chaosyr][url-chaosyr] | [Modrinth][url-modrinth] |
 | [Neutral Animals][url-neutral-animals] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Fabric Language Kotlin][url-fabric-language-kotlin], [oωo][url-owo-lib] | [SmushyTaco][url-smushytaco] | [Modrinth][url-modrinth] |
 | [No Chat Reports][url-no-chat-reports] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Aizistral][url-aizistral] | [Modrinth][url-modrinth] |
-| [OpenBlocks Elevator][url-openblocks-elevator] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [][url-] | [CurseForge][url-curseforge] |
+| [OpenBlocks Elevator][url-openblocks-elevator] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [vsngarcia][url-vsngarcia] | [CurseForge][url-curseforge] |
 | [Serene Seasons][url-serene-seasons] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [GlitchCore][url-glitchcore] | [Adubbz][url-adubbz] | [Modrinth][url-modrinth] |
 | [spark][url-spark] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api]| [lucko][url-lucko] | [Modrinth][url-modrinth] |
-| [Tech Reborn][url-tech-reborn] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [][url-] | [CurseForge][url-curseforge] |
+| [Tech Reborn][url-tech-reborn] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Reborn Core][url-reborn-core] | [modmuss50][url-modmuss50] | [CurseForge][url-curseforge] |
 | [Tough As Nails][url-tough-as-nails] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [GlitchCore][url-glitchcore] | [Adubbz][url-adubbz] | [Modrinth][url-modrinth] |
 | [Visual Workbench][url-visual-workbench] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Forge Config API Port][url-forge-config-api-port], [Puzzles Lib][url-puzzles-lib] | [Fuzs][url-fuzs] | [Modrinth][url-modrinth] |
 | [Simple Voice Chat][url-simple-voice-chat] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [henkelmax][url-henkelmax] | [Modrinth][url-modrinth] |
-| [Waddles][url-waddles] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [][url-] | [CurseForge][url-curseforge] |
+| [Waddles][url-waddles] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Girafi][url-girafi] | [CurseForge][url-curseforge] |
 | [Waystones][url-waystones] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Balm][url-balm] | [BlayTheNinth][url-blaytheninth] | [Modrinth][url-modrinth] |
+| [YACL][url-yacl] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [isxander][url-isxander] | [Modrinth][url-modrinth] |
 
 ## Additional credits
 - [__2No2Name__][url-2no2name]
@@ -36,7 +37,6 @@
 - [__Blodhgarm__][url-blodhgarm]
 - [__BreadLoaf__][url-breadloaf]
 - [__glisco__][url-glisco]
-- [__modmuss50__][url-modmuss50]
 - [__robotkoer__][url-robotkoer]
 - [__sfPlayer1__][url-sfplayer1]
 - [__shedaniel__][url-shedaniel]
@@ -66,6 +66,7 @@
 [url-embeddedt]: <https://modrinth.com/user/embeddedt>
 [url-forstride]: <https://modrinth.com/user/Forstride>
 [url-fuzs]: <https://modrinth.com/user/Fuzs>
+[url-girafi]: <https://www.curseforge.com/members/girafi>
 [url-glisco]: <https://modrinth.com/user/glisco>
 [url-henkelmax]: <https://modrinth.com/user/henkelmax>
 [url-ishland]: <https://modrinth.com/user/ishland>
@@ -84,6 +85,7 @@
 [url-stevekung]: <https://modrinth.com/user/SteveKunG>
 [url-stridey]: <https://modrinth.com/user/Stridey>
 [url-squeek502]: <https://modrinth.com/user/squeek502>
+[url-vsngarcia]: <https://www.curseforge.com/members/vsngarcia>
 <!-- mods -->
 [url-advanced-netherite]: <https://cdn.modrinth.com/data/CFX9ftUJ/versions/o2Yh8wg9/advancednetherite-fabric-2.2.2-1.21.4.jar>
 [url-appleskin]: <https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar>
@@ -113,11 +115,13 @@
 [url-openblocks-elevator]: <https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/files/5990832>
 [url-owo-lib]: <https://cdn.modrinth.com/data/ccKDOlHs/versions/kNCPPFb2/owo-lib-0.12.20%2B1.21.4.jar>
 [url-puzzles-lib]: <https://cdn.modrinth.com/data/QAGBst4M/versions/3rVDYk1s/PuzzlesLib-v21.4.12-1.21.4-Fabric.jar>
+[url-reborn-core]: <https://www.curseforge.com/minecraft/mc-mods/reborncore/files/6136161>
 [url-serene-seasons]: <https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/X2sypdTL/spark-1.10.121-fabric.jar>
 [url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6136162>
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
-[url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar>
+[url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
 [url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/files/6134999>
 [url-waystones]: <https://cdn.modrinth.com/data/LOpKHB2A/versions/NaUj93u7/waystones-fabric-1.21.4-21.4.10.jar>
+[url-yacl]: <https://cdn.modrinth.com/data/1eAoo2KR/versions/XeXZrziK/yet_another_config_lib_v3-3.6.6%2B1.21.4-fabric.jar>
