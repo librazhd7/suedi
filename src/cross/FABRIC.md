@@ -22,6 +22,7 @@
 | [No Chat Reports][url-no-chat-reports] | 1.21.4 | | [Aizistral][url-aizistral] | __Modrinth__ |
 | [OpenBlocks Elevator][url-openblocks-elevator] | 1.21.4 | | [vsngarcia][url-vsngarcia] | __CurseForge__ |
 | [Serene Seasons][url-serene-seasons] | 1.21.4 | [GlitchCore][url-glitchcore] | [Adubbz][url-adubbz] | __Modrinth__ |
+| [ServerCore][url-servercore] | 1.21.4 | | [Wesley1808][url-wesley1808] | __Modrinth__ |
 | [spark][url-spark] | 1.21.4 | | [lucko][url-lucko] | __Modrinth__ |
 | [Tech Reborn][url-tech-reborn] | 1.21.4 | [Reborn Core][url-reborn-core] | [modmuss50][url-modmuss50] | __CurseForge__ |
 | [Tough As Nails][url-tough-as-nails] | 1.21.4 | [GlitchCore][url-glitchcore] | [Adubbz][url-adubbz] | __Modrinth__ |
@@ -83,6 +84,7 @@
 [url-stridey]: <https://modrinth.com/user/Stridey>
 [url-squeek502]: <https://modrinth.com/user/squeek502>
 [url-vsngarcia]: <https://www.curseforge.com/members/vsngarcia>
+[url-wesley1808]: <https://www.curseforge.com/members/Wesley1808>
 <!-- mods -->
 [url-advanced-netherite]: <https://cdn.modrinth.com/data/CFX9ftUJ/versions/o2Yh8wg9/advancednetherite-fabric-2.2.2-1.21.4.jar>
 [url-appleskin]: <https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar>
@@ -115,6 +117,7 @@
 [url-puzzles-lib]: <https://cdn.modrinth.com/data/QAGBst4M/versions/3rVDYk1s/PuzzlesLib-v21.4.12-1.21.4-Fabric.jar>
 [url-reborn-core]: <https://www.curseforge.com/minecraft/mc-mods/reborncore/files/6136161>
 [url-serene-seasons]: <https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar>
+[url-servercore]: <https://cdn.modrinth.com/data/4WWQxlQP/versions/uJYh4tBK/servercore-fabric-1.5.8%2B1.21.4.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/X2sypdTL/spark-1.10.121-fabric.jar>
 [url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6136162>
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
