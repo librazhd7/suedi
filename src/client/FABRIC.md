@@ -13,7 +13,7 @@
 | [Mod Menu][url-mod-menu] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Prospector][url-prospector] | [Modrinth][url-modrinth] |
 | [Not Enough Animations][url-not-enough-animations] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [tr7zw][url-tr7zw] | [Modrinth][url-modrinth] |
 | [Noxesium][url-noxesium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Aeltumn][url-aeltumn] | [Modrinth][url-modrinth] |
-| [Nvidium][url-nvidium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [cortex][url-cortex]| [Modrinth][url-modrinth] |
+| [Nvidium][url-nvidium] ❌ | [Fabric][url-fabric] | ~~1.21.4~~ | [Fabric API][url-fabric-api], [NVIDIA][url-nvidia] | [cortex][url-cortex]| [Modrinth][url-modrinth] |
 | [Reese's Sodium Options][url-reeses-sodium-options] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [FlashyReese][url-flashy-reese] | [Modrinth][url-modrinth] |
 | [Sodium][url-sodium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [jellysquid3][url-jellysquid3] | [Modrinth][url-modrinth] |
 | [Sodium Extra][url-sodium-extra] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [FlashyReese][url-flashy-reese] | [Modrinth][url-modrinth] |
@@ -21,7 +21,6 @@
 
 ## Additional credits
 - [__CodexAdrian__][url-codexadrian]
-- [__drouarb__][url-drouarb]
 - [__IMS__][url-ims]
 - [__katietheqt__][url-katietheqt]
 - [__modmuss50__][url-modmuss50]
@@ -43,7 +42,6 @@
 [url-codexadrian]: <https://modrinth.com/user/CodexAdrian>
 [url-cortex]: <https://modrinth.com/user/cortex>
 [url-crendgrim]: <https://modrinth.com/user/Crendgrim>
-[url-drouarb]: <https://github.com/drouarb>
 [url-flashy-reese]: <https://modrinth.com/user/FlashyReese>
 [url-foundationgames]: <https://modrinth.com/user/FoundationGames>
 [url-grend]: <https://modrinth.com/user/Grend>
@@ -79,7 +77,8 @@
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/7iGb2ltH/modmenu-13.0.3.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/CGUU69su/notenoughanimations-fabric-1.9.2-mc1.21.4.jar>
 [url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/TKTiiwCx/noxesium-fabric-2.6.2.jar>
-[url-nvidium]: <https://github.com/drouarb/nvidium/releases/download/0.4.0-beta7/nvidium-0.4.0-beta7.jar>
+[url-nvidia]: <https://www.nvidia.com/en-us/software/nvidia-app/>
+[url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/FRXt5xaI/sodium-fabric-0.6.10%2Bmc1.21.4.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/f4TfteNb/sodium-extra-fabric-0.6.1%2Bmc1.21.4.jar>
