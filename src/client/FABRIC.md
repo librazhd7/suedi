@@ -8,6 +8,7 @@
 | [Entity Culling][url-entity-culling] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Exordium][url-exordium] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [ImmediatelyFast][url-immediately-fast] | 1.21.4 | | [RaphiMC][url-raphimc] | __Modrinth__ |
+| [Inventory HUD+][url-inventory-hud-plus] | 1.21.4 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
 | [Iris Shaders][url-iris-shaders] | 1.21.4 | | [coderbot][url-coderbot] | __Modrinth__ |
 | [Legendary Tooltips][url-legendary-tooltips] | 1.21.4 | [Iceberg][url-iceberg], [Prism][url-prism] | [Grend][url-grend] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] | 1.21.4 | | [Prospector][url-prospector] | __Modrinth__ |
@@ -40,6 +41,7 @@
 [url-codexadrian]: <https://modrinth.com/user/CodexAdrian>
 [url-cortex]: <https://modrinth.com/user/cortex>
 [url-crendgrim]: <https://modrinth.com/user/Crendgrim>
+[url-dmitrylovin]: <https://www.curseforge.com/members/dmitrylovin>
 [url-flashy-reese]: <https://modrinth.com/user/FlashyReese>
 [url-foundationgames]: <https://modrinth.com/user/FoundationGames>
 [url-grend]: <https://modrinth.com/user/Grend>
@@ -70,6 +72,7 @@
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/bQZpGIz0/fabric-api-0.119.2%2B1.21.4.jar>
 [url-iceberg]: <https://cdn.modrinth.com/data/5faXoLqX/versions/JQsyoArU/Iceberg-1.21.4-fabric-1.2.13.jar>
 [url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/ddjmgf0b/ImmediatelyFast-Fabric-1.8.0%2B1.21.4.jar>
+[url-inventory-hud-plus]: <https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/download/5967065>
 [url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar>
 [url-legendary-tooltips]: <https://cdn.modrinth.com/data/atHH8NyV/versions/7xI8xla5/LegendaryTooltips-1.21.4-fabric-1.5.1.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/7iGb2ltH/modmenu-13.0.3.jar>
