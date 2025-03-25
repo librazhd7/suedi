@@ -12,6 +12,7 @@
 | [Legendary Tooltips][url-legendary-tooltips] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Iceberg][url-iceberg] | [Grend][url-grend] | [Modrinth][url-modrinth] |
 | [Mod Menu][url-mod-menu] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Prospector][url-prospector] | [Modrinth][url-modrinth] |
 | [Not Enough Animations][url-not-enough-animations] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [tr7zw][url-tr7zw] | [Modrinth][url-modrinth] |
+| [Notes][url-notes] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Chaosyr][url-chaosyr] | [Modrinth][url-modrinth] |
 | [Noxesium][url-noxesium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Aeltumn][url-aeltumn] | [Modrinth][url-modrinth] |
 | [Nvidium][url-nvidium] ❌ | [Fabric][url-fabric] | ~~1.21.4~~ | [Fabric API][url-fabric-api], [NVIDIA][url-nvidia] | [cortex][url-cortex]| [Modrinth][url-modrinth] |
 | [Reese's Sodium Options][url-reeses-sodium-options] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [FlashyReese][url-flashy-reese] | [Modrinth][url-modrinth] |
@@ -38,6 +39,7 @@
 [url-modrinth-app]: <https://launcher-files.modrinth.com/versions/0.9.3/windows/Modrinth%20App_0.9.3_x64-setup.exe>
 <!-- authors -->
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
+[url-chaosyr]: <https://modrinth.com/user/Chaosyr>
 [url-coderbot]: <https://modrinth.com/user/coderbot>
 [url-codexadrian]: <https://modrinth.com/user/CodexAdrian>
 [url-cortex]: <https://modrinth.com/user/cortex>
@@ -76,6 +78,7 @@
 [url-legendary-tooltips]: <https://cdn.modrinth.com/data/atHH8NyV/versions/7xI8xla5/LegendaryTooltips-1.21.4-fabric-1.5.1.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/7iGb2ltH/modmenu-13.0.3.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/CGUU69su/notenoughanimations-fabric-1.9.2-mc1.21.4.jar>
+[url-notes]: <https://cdn.modrinth.com/data/ko8Qabo1/versions/h4aknqvl/Notes-1.21.4-2.1.1-fabric.jar>
 [url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/TKTiiwCx/noxesium-fabric-2.6.2.jar>
 [url-nvidia]: <https://www.nvidia.com/en-us/software/nvidia-app/>
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
