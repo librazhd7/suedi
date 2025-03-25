@@ -3,6 +3,7 @@
 | [Advanced Netherite][url-advanced-netherite] | 1.21.4 | | [Autovw][url-Autovw] | __Modrinth__ |
 | [AppleSkin][url-appleskin] | 1.21.4 | | [squeek502][url-squeek502] | __Modrinth__ |
 | [bad packets][url-bad-packets] | 1.21.4 | | [deirn][url-deirn] | __Modrinth__ |
+| [Bedrockify][url-bedrockify] | 1.21.4 | | [juancarloscp52][url-juancarloscp52] | __Modrinth__ |
 | [Biomes O' Plenty][url-biomes-o-plenty] | 1.21.4 | [TerraBlender][url-terrablender] | [Forstride][url-Forstride] | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] | 1.21.4 | | [ishland][url-ishland] | __Modrinth__ |
 | [Debugify][url-debugify] | 1.21.4 | | [isxander][url-isxander] | __Modrinth__ |
@@ -70,6 +71,7 @@
 [url-ishland]: <https://modrinth.com/user/ishland>
 [url-isxander]: <https://modrinth.com/user/isxander>
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
+[url-juancarloscp52]: <https://modrinth.com/user/juancarloscp52>
 [url-kosmx]: <https://modrinth.com/user/KosmX>
 [url-lucko]: <https://modrinth.com/user/lucko>
 [url-malte0811]: <https://modrinth.com/user/malte0811>
@@ -90,6 +92,7 @@
 [url-appleskin]: <https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar>
 [url-bad-packets]: <https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar>
 [url-balm]: <https://cdn.modrinth.com/data/MBAkmtvl/versions/x4uPXWNU/balm-fabric-1.21.4-21.4.22.jar>
+[url-bedrockify]: <https://cdn.modrinth.com/data/ox3rDp1B/versions/uPykdDrZ/bedrockify-1.10.2%2Bmc1.21.4.jar>
 [url-biomes-o-plenty]: <https://cdn.modrinth.com/data/HXF82T3G/versions/fnWSrWtY/BiomesOPlenty-fabric-1.21.4-21.4.0.22.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/TJ6o2sr4/cloth-config-17.0.144-fabric.jar>
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/yGX4O0YU/c2me-fabric-mc1.21.4-0.3.1.1.0.jar>
