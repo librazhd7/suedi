@@ -3,7 +3,7 @@
 | [Advanced Netherite][url-advanced-netherite] | 1.21.4 | | [Autovw][url-Autovw] | __Modrinth__ |
 | [AppleSkin][url-appleskin] | 1.21.4 | | [squeek502][url-squeek502] | __Modrinth__ |
 | [bad packets][url-bad-packets] | 1.21.4 | | [deirn][url-deirn] | __Modrinth__ |
-| [Biomes O' Plenty][url-biomes-o-plenty] | 1.21.4 | | [Forstride][url-Forstride] | __Modrinth__ |
+| [Biomes O' Plenty][url-biomes-o-plenty] | 1.21.4 | [TerraBlender][url-terrablender] | [Forstride][url-Forstride] | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] | 1.21.4 | | [ishland][url-ishland] | __Modrinth__ |
 | [Debugify][url-debugify] | 1.21.4 | | [isxander][url-isxander] | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] | 1.21.4 | | [KosmX][url-kosmx] | __Modrinth__ |
@@ -120,6 +120,7 @@
 [url-servercore]: <https://cdn.modrinth.com/data/4WWQxlQP/versions/uJYh4tBK/servercore-fabric-1.5.8%2B1.21.4.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/X2sypdTL/spark-1.10.121-fabric.jar>
 [url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6136162>
+[url-terrablender]: <https://cdn.modrinth.com/data/kkmrDlKT/versions/BVtalJ0e/TerraBlender-fabric-1.21.4-4.3.0.2.jar>
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar>
 [url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
