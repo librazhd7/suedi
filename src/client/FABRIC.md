@@ -9,7 +9,7 @@
 | [Exordium][url-exordium] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [ImmediatelyFast][url-immediately-fast] | 1.21.4 | | [RaphiMC][url-raphimc] | __Modrinth__ |
 | [Iris Shaders][url-iris-shaders] | 1.21.4 | | [coderbot][url-coderbot] | __Modrinth__ |
-| [Legendary Tooltips][url-legendary-tooltips] | 1.21.4 | [Iceberg][url-iceberg] | [Grend][url-grend] | __Modrinth__ |
+| [Legendary Tooltips][url-legendary-tooltips] | 1.21.4 | [Iceberg][url-iceberg], [Prism][url-prism] | [Grend][url-grend] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] | 1.21.4 | | [Prospector][url-prospector] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Notes][url-notes] | 1.21.4 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
@@ -78,6 +78,7 @@
 [url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/TKTiiwCx/noxesium-fabric-2.6.2.jar>
 [url-nvidia]: <https://www.nvidia.com/en-us/software/nvidia-app/>
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
+[url-prism]: <https://cdn.modrinth.com/data/1OE8wbN0/versions/gFPeFgX2/Prism-1.21.4-fabric-1.0.10.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/FRXt5xaI/sodium-fabric-0.6.10%2Bmc1.21.4.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/f4TfteNb/sodium-extra-fabric-0.6.1%2Bmc1.21.4.jar>
