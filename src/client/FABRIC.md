@@ -10,6 +10,7 @@
 | [ImmediatelyFast][url-immediately-fast] | 1.21.4 | | [RaphiMC][url-raphimc] | __Modrinth__ |
 | [Inventory HUD+][url-inventory-hud-plus] | 1.21.4 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
 | [Iris Shaders][url-iris-shaders] | 1.21.4 | | [coderbot][url-coderbot] | __Modrinth__ |
+| [LambDynamicLights][url-lambdynamiclights] | 1.21.4 | | [LambdAurora][url-lambdaurora] | __Modrinth__ |
 | [Legendary Tooltips][url-legendary-tooltips] | 1.21.4 | [Iceberg][url-iceberg], [Prism][url-prism] | [Grend][url-grend] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] | 1.21.4 | | [Prospector][url-prospector] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] | 1.21.4 | | [tr7zw][url-tr7zw] | __Modrinth__ |
@@ -17,6 +18,7 @@
 | [Noxesium][url-noxesium] | 1.21.4 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
 | [Nvidium][url-nvidium] `❌` | ~~1.21.4~~ | [NVIDIA][url-nvidia] | [cortex][url-cortex]| __Modrinth__ |
 | [Reese's Sodium Options][url-reeses-sodium-options] | 1.21.4 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
+| [Roughly Enough Items][url-roughly-enough-items] | 1.21.4 | | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [Sodium][url-sodium] | 1.21.4 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [Sodium Extra][url-sodium-extra] | 1.21.4 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
 | [Visuality][url-visuality] | 1.21.4 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
@@ -49,6 +51,7 @@
 [url-isxander]: <https://modrinth.com/user/isxander>
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
 [url-katietheqt]: <https://modrinth.com/user/katietheqt>
+[url-lambdaurora]: <https://modrinth.com/user/LambdAurora>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
 [url-noxcrew]: <https://modrinth.com/user/Noxcrew>
 [url-pelotrio]: <https://modrinth.com/user/Pelotrio>
@@ -56,6 +59,7 @@
 [url-prospector]: <https://modrinth.com/user/Prospector>
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
+[url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-tr7zw]: <https://modrinth.com/user/tr7zw>
 [url-terrarium]: <https://modrinth.com/organization/terrarium>
 [url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
@@ -74,6 +78,7 @@
 [url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/ddjmgf0b/ImmediatelyFast-Fabric-1.8.0%2B1.21.4.jar>
 [url-inventory-hud-plus]: <https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/download/5967065>
 [url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/Ca054sTe/iris-fabric-1.8.8%2Bmc1.21.4.jar>
+[url-lambdynamiclights]: <https://cdn.modrinth.com/data/yBW8D80W/versions/Q9UNnRXZ/lambdynamiclights-4.1.0%2B1.21.4.jar>
 [url-legendary-tooltips]: <https://cdn.modrinth.com/data/atHH8NyV/versions/7xI8xla5/LegendaryTooltips-1.21.4-fabric-1.5.1.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/7iGb2ltH/modmenu-13.0.3.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/CGUU69su/notenoughanimations-fabric-1.9.2-mc1.21.4.jar>
@@ -83,6 +88,7 @@
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
 [url-prism]: <https://cdn.modrinth.com/data/1OE8wbN0/versions/gFPeFgX2/Prism-1.21.4-fabric-1.0.10.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
+[url-roughly-enough-items]: <https://cdn.modrinth.com/data/nfn13YXA/versions/EJdFrEjD/RoughlyEnoughItems-18.0.800-fabric.jar>
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/FRXt5xaI/sodium-fabric-0.6.10%2Bmc1.21.4.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/f4TfteNb/sodium-extra-fabric-0.6.1%2Bmc1.21.4.jar>
 [url-visuality]: <https://cdn.modrinth.com/data/rI0hvYcd/versions/76p4pDXc/visuality-0.7.9%2B1.21.4.jar>
