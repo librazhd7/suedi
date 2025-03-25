@@ -1,5 +1,3 @@
-# client
-
 | Mod | Loader | Version | Dependencies | Author | CDN |
 |-----|--------|---------|--------------|--------|-----|
 | [Athena][url-athena] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Terrarium][url-terrarium] 👑, [ThatGravyBoat][url-thatgravyboat] 🛠️, [CodexAdrian][url-codexadrian] 🛠️ | [Modrinth][url-modrinth] |
