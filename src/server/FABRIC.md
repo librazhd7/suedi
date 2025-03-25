@@ -1,29 +1,30 @@
 | Mod | Loader | Version | Dependencies | Author | CDN |
 |-----|--------|---------|--------------|--------|-----|
-| [Alternate Current][url-alternate-current] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Space Walker][url-space-walker] 👑 | [Modrinth][url-modrinth] |
-| [AudioPlayer][url-audio-player] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Simple Voice Chat][url-simple-voice-chat] | [henkelmax][url-henkelmax] 👑, [BreadLoaf][url-breadloaf] 🛠️ | [Modrinth][url-modrinth] |
-| [Axes are Weapons][url-axes-are-weapons] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Fourmisain][url-fourmisain] 👑 | [Modrinth][url-modrinth] |
-| [Boids][url-boids] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Tomate0613][url-tomate0613] 👑 | [Modrinth][url-modrinth] |
-| [CrashExploitFixer][url-crash-exploit-fixer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [DrexHD][url-drexhd] 👑 | [Modrinth][url-modrinth] |
-| [FallingTree][url-falling-tree] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Rakambda][url-rakambda] 👑 | [Modrinth][url-modrinth] |
-| [Floodgate][url-floodgate] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Camotoy][url-camotoy] 👑 | [Modrinth][url-modrinth] |
-| [Forgiving Void][url-forgiving-void] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Balm][url-balm] | [BlayTheNinth][url-blaytheninth] 👑 | [Modrinth][url-modrinth] |
-| [Geyser][url-geyser] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Camotoy][url-camotoy] 👑 | [Modrinth][url-modrinth] |
-| [Glore][url-glore] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Apothicon][url-apothicon] 👑 | [Modrinth][url-modrinth] |
-| [Let Me Despawn][url-let-me-despawn] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [frikinjay][url-frikinjay] 👑 | [Modrinth][url-modrinth] |
-| [Load My F***ing Tags][url-load-my-fucking-tags] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Blodhgarm][url-blodhgarm] 👑 | [Modrinth][url-modrinth] |
-| [NetherPortalFix][url-nether-portal-fix] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [BlayTheNinth][url-blayTheNinth] 👑 | [Modrinth][url-modrinth] |
-| [Noisium][url-noisium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Steveplays][url-steveplays] 👑 | [Modrinth][url-modrinth] |
-| [Motion Capture][url-motion-capture] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [mt1006][url-mt1006] 👑 | [Modrinth][url-modrinth] |
-| [Skin Restorer][url-skin-restorer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Lionarius][url-lionarius] 👑 | [Modrinth][url-modrinth] |
-| [Veinminer][url-veinminer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Miraculixx][url-miraculixx] 👑 | [Modrinth][url-modrinth] |
-| [Voice Chat Interaction][url-voice-chat-interaction] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Simple Voice Chat][url-simple-voice-chat] | [henkelmax][url-henkelmax] 👑 | [Modrinth][url-modrinth] |
-| [Where Is It][url-where-is-it] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [YACL][url-yacl] | [JackFred][url-jackfred] 👑 | [Modrinth][url-modrinth] |
+| [Alternate Current][url-alternate-current] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Space Walker][url-space-walker] | [Modrinth][url-modrinth] |
+| [AudioPlayer][url-audio-player] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Simple Voice Chat][url-simple-voice-chat] | [henkelmax][url-henkelmax] | [Modrinth][url-modrinth] |
+| [Axes are Weapons][url-axes-are-weapons] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Fourmisain][url-fourmisain] | [Modrinth][url-modrinth] |
+| [Boids][url-boids] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Tomate0613][url-tomate0613] | [Modrinth][url-modrinth] |
+| [CrashExploitFixer][url-crash-exploit-fixer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [DrexHD][url-drexhd] | [Modrinth][url-modrinth] |
+| [FallingTree][url-falling-tree] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Rakambda][url-rakambda] | [Modrinth][url-modrinth] |
+| [Floodgate][url-floodgate] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Camotoy][url-camotoy] | [Modrinth][url-modrinth] |
+| [Forgiving Void][url-forgiving-void] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Balm][url-balm] | [BlayTheNinth][url-blaytheninth] | [Modrinth][url-modrinth] |
+| [Geyser][url-geyser] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Camotoy][url-camotoy] | [Modrinth][url-modrinth] |
+| [Glore][url-glore] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Apothicon][url-apothicon] | [Modrinth][url-modrinth] |
+| [Let Me Despawn][url-let-me-despawn] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [frikinjay][url-frikinjay] | [Modrinth][url-modrinth] |
+| [Load My F***ing Tags][url-load-my-fucking-tags] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Blodhgarm][url-blodhgarm] | [Modrinth][url-modrinth] |
+| [NetherPortalFix][url-nether-portal-fix] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [BlayTheNinth][url-blayTheNinth] | [Modrinth][url-modrinth] |
+| [Noisium][url-noisium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Steveplays][url-steveplays] | [Modrinth][url-modrinth] |
+| [Motion Capture][url-motion-capture] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [mt1006][url-mt1006] | [Modrinth][url-modrinth] |
+| [Skin Restorer][url-skin-restorer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Lionarius][url-lionarius] | [Modrinth][url-modrinth] |
+| [Veinminer][url-veinminer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Miraculixx][url-miraculixx] | [Modrinth][url-modrinth] |
+| [Voice Chat Interaction][url-voice-chat-interaction] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Simple Voice Chat][url-simple-voice-chat] | [henkelmax][url-henkelmax] | [Modrinth][url-modrinth] |
+| [Where Is It][url-where-is-it] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [YACL][url-yacl] | [JackFred][url-jackfred] | [Modrinth][url-modrinth] |
 
 ## Additional credits
-- __modmuss50__ and __sfPlayer1__ ==> `Fabric API`
-- __BlayTheNinth__ ==> `Balm`
-- __isxander__ ==> `YACL`
+- [__BreadLoaf__][url-breadloaf]
+- [__isxander__][url-isxander]
+- [__modmuss50__][url-modmuss50]
+- [__sfPlayer1__][url-sfplayer1]
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
