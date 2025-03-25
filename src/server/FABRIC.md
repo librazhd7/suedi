@@ -16,6 +16,7 @@
 | [Noisium][url-noisium] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Steveplays][url-steveplays] | [Modrinth][url-modrinth] |
 | [Motion Capture][url-motion-capture] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [mt1006][url-mt1006] | [Modrinth][url-modrinth] |
 | [Skin Restorer][url-skin-restorer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Lionarius][url-lionarius] | [Modrinth][url-modrinth] |
+| [Universal Graves][url-universal-graves] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Patbox][url-patbox] | [Modrinth][url-modrinth] |
 | [Veinminer][url-veinminer] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api] | [Miraculixx][url-miraculixx] | [Modrinth][url-modrinth] |
 | [Voice Chat Interaction][url-voice-chat-interaction] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [Simple Voice Chat][url-simple-voice-chat] | [henkelmax][url-henkelmax] | [Modrinth][url-modrinth] |
 | [Where Is It][url-where-is-it] | [Fabric][url-fabric] | 1.21.4 | [Fabric API][url-fabric-api], [YACL][url-yacl] | [JackFred][url-jackfred] | [Modrinth][url-modrinth] |
@@ -48,6 +49,7 @@
 [url-miraculixx]: <https://modrinth.com/user/Miraculixx>
 [url-mt1006]: <https://modrinth.com/user/mt1006>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
+[url-patbox]: <https://modrinth.com/user/Patbox>
 [url-rakambda]: <https://modrinth.com/user/Rakambda>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-space-walker]: <https://modrinth.com/user/Space%20Walker>
@@ -74,6 +76,7 @@
 [url-motion-capture]: <https://cdn.modrinth.com/data/gWu44BYU/versions/uHGyuyZr/Mocap-FABRIC-1.21.4-1.3.9.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/pl9FpaYJ/voicechat-fabric-1.21.4-2.5.26.jar>
 [url-skin-restorer]: <https://cdn.modrinth.com/data/ghrZDhGW/versions/1ozhCpij/skinrestorer-2.2.1%2B1.21-fabric.jar>
+[url-universal-graves]: <https://cdn.modrinth.com/data/yn9u3ypm/versions/o2f2Idvu/graves-3.6.0%2B1.21.4.jar>
 [url-veinminer]: <https://cdn.modrinth.com/data/OhduvhIc/versions/wXrGnwAw/veinminer-fabric-2.3.2.jar>
 [url-voice-chat-interaction]: <https://cdn.modrinth.com/data/qsSP2ZZ0/versions/MCSYkp3r/vcinteraction-fabric-1.21.4-1.0.8.jar>
 [url-where-is-it]: <https://cdn.modrinth.com/data/FCTyEqkn/versions/K6qcgGyq/whereisit-2.6.4%2B1.21.2.jar>
