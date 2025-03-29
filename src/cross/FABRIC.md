@@ -6,6 +6,7 @@
 | [Biomes O' Plenty][url-biomes-o-plenty] | 1.21.4 | [TerraBlender][url-terrablender] | [Forstride][url-Forstride] | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
 | [Debugify][url-debugify] | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
+| [Do a Barrel Roll][url-do-a-barrel-roll] | 1.21.5 | [CICADA][url-cicada] | [enjarai][url-enjarai] | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] | 1.21.5 | | [KosmX][url-kosmx] | __Modrinth__ |
 | [EnhancedVisuals][url-enhancedvisuals] | 1.21.4 | [CreativeCore][url-creativecore] | [creativemd][url-creativemd] | __Modrinth__ |
 | [Explorer's Compass][url-explorers-compass] | 1.21.4 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
@@ -25,11 +26,11 @@
 | [Serene Seasons][url-serene-seasons] | 1.21.4 | [GlitchCore][url-glitchcore] | [Adubbz][url-adubbz] | __Modrinth__ |
 | [ServerCore][url-servercore] | 1.21.5 | | [Wesley1808][url-wesley1808] | __Modrinth__ |
 | [spark][url-spark] | 1.21.5 | | [lucko][url-lucko] | __Modrinth__ |
-| [Tech Reborn][url-tech-reborn] | 1.21.4 | [Reborn Core][url-reborn-core] | [modmuss50][url-modmuss50] | __CurseForge__ |
+| [Tech Reborn][url-tech-reborn] | 1.21.5 | [Reborn Core][url-reborn-core] | [modmuss50][url-modmuss50] | __CurseForge__ |
 | [Tough As Nails][url-tough-as-nails] | 1.21.4 | [GlitchCore][url-glitchcore] | [Adubbz][url-adubbz] | __Modrinth__ |
 | [Visual Workbench][url-visual-workbench] | 1.21.4 | [Forge Config API Port][url-forge-config-api-port], [Puzzles Lib][url-puzzles-lib] | [Fuzs][url-fuzs] | __Modrinth__ |
 | [Simple Voice Chat][url-simple-voice-chat] | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
-| [Waddles][url-waddles] | 1.21.4 | | [Girafi][url-girafi] | __CurseForge__ |
+| [Waddles][url-waddles] | 1.21.5 | | [Girafi][url-girafi] | __CurseForge__ |
 | [Waystones][url-waystones] | 1.21.5 | [Balm][url-balm] | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [YACL][url-yacl] | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 
@@ -63,6 +64,7 @@
 [url-dima-dencep]: <https://modrinth.com/user/dima_dencep>
 [url-duplexsystem]: <https://modrinth.com/user/duplexsystem>
 [url-embeddedt]: <https://modrinth.com/user/embeddedt>
+[url-enjarai]: <https://modrinth.com/user/enjarai>
 [url-forstride]: <https://modrinth.com/user/Forstride>
 [url-fuzs]: <https://modrinth.com/user/Fuzs>
 [url-girafi]: <https://www.curseforge.com/members/girafi>
@@ -93,10 +95,12 @@
 [url-bad-packets]: <https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar>
 [url-balm]: <https://cdn.modrinth.com/data/MBAkmtvl/versions/JwhBL8Nb/balm-fabric-1.21.5-21.5.8.jar>
 [url-biomes-o-plenty]: <https://cdn.modrinth.com/data/HXF82T3G/versions/fnWSrWtY/BiomesOPlenty-fabric-1.21.4-21.4.0.22.jar>
+[url-cicada]: <https://cdn.modrinth.com/data/IwCkru1D/versions/PgAWAiwk/cicada-lib-0.11.9%2B1.21.5-and-above.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/stzC1jlZ/c2me-fabric-mc1.21.5-0.3.2%2Balpha.0.66.jar>
 [url-creativecore]: <https://cdn.modrinth.com/data/OsZiaDHq/versions/ixu9AXyq/CreativeCore_FABRIC_v2.12.35_mc1.21.4.jar>
 [url-debugify]: <https://cdn.modrinth.com/data/QwxR6Gcd/versions/yjpSgPEw/Debugify-1.21.4%2B1.1.jar>
+[url-do-a-barrel-roll]: <https://cdn.modrinth.com/data/6FtRfnLg/versions/V0e6gDT5/do_a_barrel_roll-fabric-3.8.1%2B1.21.5.jar>
 [url-emotecraft]: <https://cdn.modrinth.com/data/pZ2wrerK/versions/fqyj29ZM/emotecraft-fabric-for-MC1.21.5-rc1-2.6.0-a.build.87.jar>
 [url-enhancedvisuals]: <https://cdn.modrinth.com/data/KjL0jE2w/versions/2HAAAG2J/EnhancedVisuals_FABRIC_v1.8.17_mc1.21.4.jar>
 [url-explorers-compass]: <https://cdn.modrinth.com/data/RV1qfVQ8/versions/QddHC5Vo/ExplorersCompass-1.21.4-2.2.6-fabric.jar>
@@ -123,11 +127,11 @@
 [url-serene-seasons]: <https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar>
 [url-servercore]: <https://cdn.modrinth.com/data/4WWQxlQP/versions/whVgWjOT/servercore-fabric-1.5.9%2B1.21.5.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar>
-[url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6136162>
+[url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6347878>
 [url-terrablender]: <https://cdn.modrinth.com/data/kkmrDlKT/versions/Gj73DHgF/TerraBlender-fabric-1.21.5-5.0.0.0.jar>
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/8NDcr1mc/voicechat-fabric-1.21.5-2.5.28.jar>
 [url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
-[url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/download/6134999>
+[url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/download/6353427>
 [url-waystones]: <https://cdn.modrinth.com/data/LOpKHB2A/versions/ca46XnXg/waystones-fabric-1.21.5-21.5.1.jar>
 [url-yacl]: <https://cdn.modrinth.com/data/1eAoo2KR/versions/5yBEzonb/yet_another_config_lib_v3-3.6.6%2B1.21.5-fabric.jar>
