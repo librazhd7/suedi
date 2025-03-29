@@ -1,5 +1,6 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api]) | Author | CDN |
 |-----|---------|---------------------------------------------------|--------|-----|
+| [Advancement Plaques][url-advancement-plaques]| 1.21.4 | [Iceberg][url-iceberg] | [Grend][url-grend] | __Modrinth__ |
 | [Athena][url-athena] | 1.21.4 | | [Terrarium][url-terrarium] | __Modrinth__ |
 | [BadOptimizations][url-bad-optimizations] | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
 | [Controlify][url-controlify] | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
@@ -66,6 +67,7 @@
 [url-thosea]: <https://modrinth.com/user/thosea>
 [url-vicisacat]: <https://modrinth.com/user/vicisacat>
 <!-- mods -->
+[url-advancement-plaques]: <https://cdn.modrinth.com/data/9NM0dXub/versions/v6oG7aah/AdvancementPlaques-1.21.4-fabric-1.6.9.jar>
 [url-architectury-api]: <https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/6351683>
 [url-athena]: <https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Ia97dAC3/athena-fabric-1.21.4-4.2.0.jar>
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
