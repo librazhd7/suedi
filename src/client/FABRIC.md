@@ -5,6 +5,7 @@
 | [BadOptimizations][url-bad-optimizations] | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
 | [Controlify][url-controlify] | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [Dynamic Crosshair][url-dynamic-crosshair] | 1.21.5 | | [Crendgrim][url-crendgrim] | __Modrinth__ |
+| [Enhanced Attack Indicator][url-enhanced-attack-indicator] | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
 | [Enhanced Block Entities][url-enhanced-block-entities] | 1.21.4 | | [FoundationGames][url-foundationgames] | __Modrinth__ |
 | [Entity Culling][url-entity-culling] | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Exordium][url-exordium] | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
@@ -53,6 +54,7 @@
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
 [url-katietheqt]: <https://modrinth.com/user/katietheqt>
 [url-lambdaurora]: <https://modrinth.com/user/LambdAurora>
+[url-minenash]: <https://modrinth.com/user/Minenash>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
 [url-noxcrew]: <https://modrinth.com/user/Noxcrew>
 [url-pelotrio]: <https://modrinth.com/user/Pelotrio>
@@ -73,6 +75,7 @@
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
 [url-controlify]: <https://cdn.modrinth.com/data/DOUdJVEm/versions/5q2runiM/controlify-2.0.4%2B1.21.5-fabric.jar>
 [url-dynamic-crosshair]: <https://cdn.modrinth.com/data/ZcR9weSm/versions/VsVDZkpZ/dynamiccrosshair-9.4%2B1.21.5-fabric.jar>
+[url-enhanced-attack-indicator]: <https://cdn.modrinth.com/data/eTy17BBS/versions/F0AKuwot/enhanced_attack_indicator-1.1.0%2B1.21.2.jar>
 [url-enhanced-block-entities]: <https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar>
 [url-entity-culling]: <https://cdn.modrinth.com/data/NNAgCjsB/versions/29GV7fju/entityculling-fabric-1.7.4-mc1.21.5.jar>
 [url-exordium]: <https://cdn.modrinth.com/data/DynYZEae/versions/map5Ojxn/exordium-fabric-1.4.1-mc1.21.4.jar>
