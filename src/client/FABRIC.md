@@ -8,7 +8,7 @@
 | [Entity Culling][url-entity-culling] | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Exordium][url-exordium] | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [ImmediatelyFast][url-immediately-fast] | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
-| [Inventory HUD+][url-inventory-hud-plus] | 1.21.4 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
+| [Inventory HUD+][url-inventory-hud-plus] | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
 | [Iris Shaders][url-iris-shaders] | 1.21.5 | | [coderbot][url-coderbot] | __Modrinth__ |
 | [LambDynamicLights][url-lambdynamiclights] | 1.21.5 | | [LambdAurora][url-lambdaurora] | __Modrinth__ |
 | [Legendary Tooltips][url-legendary-tooltips] | 1.21.4 | [Iceberg][url-iceberg], [Prism][url-prism] | [Grend][url-grend] | __Modrinth__ |
