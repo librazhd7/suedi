@@ -12,6 +12,7 @@
 | [Enhanced Attack Indicator][url-enhanced-attack-indicator] `✔️` | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
 | [Enhanced Block Entities][url-enhanced-block-entities] `❌` | 1.21.5 | | [FoundationGames][url-foundationgames] | __Modrinth__ |
 | [Entity Culling][url-entity-culling] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [Euphoria Patches][url-euphoria-patches] `✔️` | 1.21.5 | [Iris Shaders][url-iris-shaders], Complementary Shaders — [Reimagined][url-reimagined]/[Unbound][url-unbound] | [SpacEagle17][url-spaceagle17] | __Modrinth__ |
 | [Exordium][url-exordium] `❌` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [ImmediatelyFast][url-immediately-fast] `✔️` | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
 | [Inventory HUD+][url-inventory-hud-plus] `✔️` | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
@@ -31,12 +32,12 @@
 | [Wavey Capes][url-wavey-capes] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 
 ## Additional credits
-- [__1Foxy2__][url-1foxy2]
 - [__Cardistymo__][url-cardistymo]
 - [__CodexAdrian__][url-codexadrian]
-- [__cominixo__][url-cominixo]
+- [__EminGT__][url-emingt]
 - [__Fourmisain__][url-fourmisain]
 - [__IMS__][url-ims]
+- [__isuewo__][url-isuewo]
 - [__katietheqt__][url-katietheqt]
 - [__LostLuma__][url-lostluma]
 - [__modmuss50__][url-modmuss50]
@@ -44,14 +45,12 @@
 - [__Noxcrew__][url-noxcrew]
 - [__Pelotrio__][url-pelotrio]
 - [__sfPlayer1__][url-sfplayer1]
-- [__shedaniel__][url-shedaniel]
 - [__ThatGravyBoat__][url-thatgravyboat]
 - [__vicisacat__][url-vicisacat]
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
 <!-- authors -->
-[url-1foxy2]: <https://modrinth.com/user/1Foxy2>
 [url-a5b84]: <https://modrinth.com/user/A5b84>
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
 [url-caelthecolher]: <https://modrinth.com/user/caelthecolher>
@@ -59,16 +58,17 @@
 [url-chaosyr]: <https://modrinth.com/user/Chaosyr>
 [url-coderbot]: <https://modrinth.com/user/coderbot>
 [url-codexadrian]: <https://modrinth.com/user/CodexAdrian>
-[url-cominixo]: <https://modrinth.com/user/cominixo>
 [url-cortex]: <https://modrinth.com/user/cortex>
 [url-crendgrim]: <https://modrinth.com/user/Crendgrim>
 [url-dmitrylovin]: <https://www.curseforge.com/members/dmitrylovin>
+[url-emingt]: <https://www.curseforge.com/members/EminGT>
 [url-flashy-reese]: <https://modrinth.com/user/FlashyReese>
 [url-foundationgames]: <https://modrinth.com/user/FoundationGames>
 [url-fourmisain]: <https://modrinth.com/user/Fourmisain>
 [url-grend]: <https://modrinth.com/user/Grend>
 [url-henkelmax]: <https://modrinth.com/user/henkelmax>
 [url-ims]: <https://modrinth.com/user/IMS>
+[url-isuewo]: <https://modrinth.com/user/isuewo>
 [url-isxander]: <https://modrinth.com/user/isxander>
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
 [url-juliand665]: <https://modrinth.com/user/juliand665>
@@ -83,7 +83,7 @@
 [url-prospector]: <https://modrinth.com/user/Prospector>
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
-[url-shedaniel]: <https://modrinth.com/user/shedaniel>
+[url-spaceagle17]: <https://modrinth.com/user/SpacEagle17>
 [url-terrarium]: <https://modrinth.com/organization/terrarium>
 [url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
 [url-thosea]: <https://modrinth.com/user/thosea>
@@ -104,6 +104,7 @@
 [url-enhanced-attack-indicator]: <https://cdn.modrinth.com/data/eTy17BBS/versions/F0AKuwot/enhanced_attack_indicator-1.1.0%2B1.21.2.jar>
 [url-enhanced-block-entities]: <https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar>
 [url-entity-culling]: <https://cdn.modrinth.com/data/NNAgCjsB/versions/29GV7fju/entityculling-fabric-1.7.4-mc1.21.5.jar>
+[url-euphoria-patches]: <https://cdn.modrinth.com/data/4H6sumDB/versions/tihKabok/EuphoriaPatcher-1.5.2-r5.4-fabric.jar>
 [url-exordium]: <https://cdn.modrinth.com/data/DynYZEae/versions/map5Ojxn/exordium-fabric-1.4.1-mc1.21.4.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
 [url-iceberg]: <https://cdn.modrinth.com/data/5faXoLqX/versions/JQsyoArU/Iceberg-1.21.4-fabric-1.2.13.jar>
@@ -121,8 +122,10 @@
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
 [url-prism]: <https://cdn.modrinth.com/data/1OE8wbN0/versions/gFPeFgX2/Prism-1.21.4-fabric-1.0.10.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
+[url-reimagined]: <https://cdn.modrinth.com/data/HVnmMxH1/versions/b45ALGLG/ComplementaryReimagined_r5.4.zip>
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/fVbw1C7i/sodium-fabric-0.6.12%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
 [url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/2EyHcj8z/sound-physics-remastered-fabric-1.21.5-1.4.10.jar>
+[url-unbound]: <https://cdn.modrinth.com/data/R6NEzAwj/versions/Z1zqMzjh/ComplementaryUnbound_r5.4.zip>
 [url-visuality]: <https://cdn.modrinth.com/data/rI0hvYcd/versions/W7vlELm0/visuality-0.7.10%2B1.21.5.jar>
 [url-wavey-capes]: <https://cdn.modrinth.com/data/kYuIpRLv/versions/A8HBEAVx/waveycapes-fabric-1.5.2-mc1.21.5.jar>
