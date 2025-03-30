@@ -2,7 +2,9 @@
 
 | Loader | Version | Compatibility |
 |--------|---------|---------------|
-| [Fabric][url-fabric] | 1.21.5 | [BOTH][url-both]/[CLIENT][url-client]/[SERVER][url-server] |
+| [Fabric][url-fabric] `✔️` | 1.21.5 | [BOTH][url-fabric-both]/[CLIENT][url-fabric-client]/[SERVER][url-fabric-server] |
+| [Forge][url-forge] `❌` | 1.21.5 | |
+
 
 > [!NOTE]  
 > Automatic installer scripts for Windows/Linux are missing; \
@@ -13,7 +15,8 @@
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
+[url-forge]: <https://maven.minecraftforge.net/net/minecraftforge/forge/1.21.5-55.0.3/forge-1.21.5-55.0.3-installer.jar>
 <!-- modlists -->
-[url-both]: <https://github.com/librazhd7/suedi/tree/main/src/both/FABRIC.md>
-[url-client]: <https://github.com/librazhd7/suedi/tree/main/src/client/FABRIC.md>
-[url-server]: <https://github.com/librazhd7/suedi/tree/main/src/server/FABRIC.md>
+[url-fabric-both]: <https://github.com/librazhd7/suedi/tree/main/src/both/FABRIC.md>
+[url-fabric-client]: <https://github.com/librazhd7/suedi/tree/main/src/client/FABRIC.md>
+[url-fabric-server]: <https://github.com/librazhd7/suedi/tree/main/src/server/FABRIC.md>
