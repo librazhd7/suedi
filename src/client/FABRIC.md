@@ -68,7 +68,6 @@
 [url-vicisacat]: <https://modrinth.com/user/vicisacat>
 <!-- mods -->
 [url-advancement-plaques]: <https://cdn.modrinth.com/data/9NM0dXub/versions/v6oG7aah/AdvancementPlaques-1.21.4-fabric-1.6.9.jar>
-[url-architectury-api]: <https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/6351683>
 [url-athena]: <https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Ia97dAC3/athena-fabric-1.21.4-4.2.0.jar>
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
 [url-controlify]: <https://cdn.modrinth.com/data/DOUdJVEm/versions/5q2runiM/controlify-2.0.4%2B1.21.5-fabric.jar>
