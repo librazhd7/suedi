@@ -1,28 +1,28 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api])| Author | CDN |
 |-----|---------|--------------------------------------------------|--------|-----|
 | [Advanced Netherite][url-advanced-netherite] `✔️` | 1.21.5 | | [Autovw][url-Autovw] | __Modrinth__ |
-| [AppleSkin][url-appleskin] `✔️` | 1.21.4 | | [squeek502][url-squeek502] | __Modrinth__ |
-| [bad packets][url-bad-packets] `✔️` | 1.21.4 | | [deirn][url-deirn] | __Modrinth__ |
-| [Biomes O' Plenty][url-biomes-o-plenty] `✔️` | 1.21.4 | [TerraBlender][url-terrablender] `✔️` | [Forstride][url-Forstride] | __Modrinth__ |
+| [AppleSkin][url-appleskin] `✔️` | 1.21.5 | | [squeek502][url-squeek502] | __Modrinth__ |
+| [bad packets][url-bad-packets] `✔️` | 1.21.5 | | [deirn][url-deirn] | __Modrinth__ |
+| [Biomes O' Plenty][url-biomes-o-plenty] `❌` | 1.21.5 | [TerraBlender][url-terrablender] `❌` | [Forstride][url-Forstride] | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
-| [Debugify][url-debugify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
+| [Debugify][url-debugify] `❌` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [Do a Barrel Roll][url-do-a-barrel-roll] `✔️` | 1.21.5 | [CICADA][url-cicada] `✔️` | [enjarai][url-enjarai] | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] `✔️` | 1.21.5 | | [KosmX][url-kosmx] | __Modrinth__ |
-| [EnhancedVisuals][url-enhancedvisuals] `✔️` | 1.21.4 | [CreativeCore][url-creativecore] `✔️` | [creativemd][url-creativemd] | __Modrinth__ |
-| [Explorer's Compass][url-explorers-compass] `✔️` | 1.21.4 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
+| [EnhancedVisuals][url-enhancedvisuals] `✔️` | 1.21.5 | [CreativeCore][url-creativecore] `✔️` | [creativemd][url-creativemd] | __Modrinth__ |
+| [Explorer's Compass][url-explorers-compass] `✔️` | 1.21.45 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [FerriteCore][url-ferritecore] `✔️` | 1.21.5 | | [malte0811][url-malte0811] | __Modrinth__ |
-| [Fish of Thieves][url-fish-of-thieves] `✔️` | 1.21.4 | [Cloth Config API][url-cloth-config-api] `✔️` | [SteveKunG][url-stevekung] | __Modrinth__ |
+| [Fish of Thieves][url-fish-of-thieves] `❌` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [SteveKunG][url-stevekung] | __Modrinth__ |
 | [Jade][url-jade] `✔️` | 1.21.5 | | [Snownee][url-snownee] | __Modrinth__ |
 | [Jade Addons][url-jade-addons] `✔️` | ~~1.21.1~~ | | [Snownee][url-snownee] | __Modrinth__ |
 | [JourneyMap][url-journeymap] `✔️` | 1.21.5 | | [mysticdrew][url-mysticdrew] | __Modrinth__ |
 | [Krypton][url-krypton] `✔️` | 1.21.5 | | [astei][url-astei] | __Modrinth__ |
 | [Lithium][url-lithium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
-| [ModernFix][url-modernfix] `❌` | 1.21.4 | | [embeddedt][url-embeddedt] | __Modrinth__ |
-| [Nature's Compass][url-natures-compass] `✔️` | 1.21.4 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
-| [Neutral Animals][url-neutral-animals] `✔️` | 1.21.4 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [oωo][url-owo-lib] `✔️` | [SmushyTaco][url-smushytaco] | __Modrinth__ |
-| [No Chat Reports][url-no-chat-reports] `✔️` | 1.21.4 | | [Aizistral][url-aizistral] | __Modrinth__ |
-| [OpenBlocks Elevator][url-openblocks-elevator] `❌` | 1.21.4 | | [vsngarcia][url-vsngarcia] | __CurseForge__ |
-| [Serene Seasons][url-serene-seasons] `❌` | 1.21.4 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
+| [ModernFix][url-modernfix] `❌` | 1.21.5 | | [embeddedt][url-embeddedt] | __Modrinth__ |
+| [Nature's Compass][url-natures-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
+| [Neutral Animals][url-neutral-animals] `❌` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [oωo][url-owo-lib] `❌` | [SmushyTaco][url-smushytaco] | __Modrinth__ |
+| [No Chat Reports][url-no-chat-reports] `✔️` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
+| [OpenBlocks Elevator][url-openblocks-elevator] `❌` | 1.21.5 | | [vsngarcia][url-vsngarcia] | __CurseForge__ |
+| [Serene Seasons][url-serene-seasons] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
 | [ServerCore][url-servercore] `✔️` | 1.21.5 | | [Wesley1808][url-wesley1808] | __Modrinth__ |
 | [spark][url-spark] `✔️` | 1.21.5 | | [lucko][url-lucko] | __Modrinth__ |
 | [Tech Reborn][url-tech-reborn] `✔️` | 1.21.5 | [Reborn Core][url-reborn-core] `❌` | [modmuss50][url-modmuss50] | __CurseForge__ |
