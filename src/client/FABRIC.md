@@ -20,7 +20,7 @@
 | [Legendary Tooltips][url-legendary-tooltips] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌`, [Prism][url-prism] `✔️` | [Grend][url-grend] | __Modrinth__ |
 | [Make Bubbles Pop][url-make-bubbles-pop] `✔️` | 1.21.5 | [MidnightLib][url-midnightlib] `✔️` | [Tschipcraft][url-tschipcraft] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] `✔️` | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
-| [Music Notification][url-music-notification] `✔️` | 1.21.5 | | [KosmoMoustache][url-kosmomoustache] | __Modrinth__ |
+| [Music Notification][url-music-notification] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [KosmoMoustache][url-kosmomoustache] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
