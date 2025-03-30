@@ -5,6 +5,7 @@
 | [Athena][url-athena] `❌` | 1.21.5 | | [Terrarium][url-terrarium] | __Modrinth__ |
 | [BadOptimizations][url-bad-optimizations] `✔️` | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
 | [Capes][url-capes] `✔️` | 1.21.5 | | [caelthecolher][url-caelthecolher] | __Modrinth__ |
+| [Chat Notify][url-chat-notify] `✔️` | 1.21.5 | | [NotRyken][url-notryken] | __Modrinth__ |
 | [Controlify][url-controlify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [Dark Loading Screen][url-dark-loading-screen] `✔️` | 1.21.5 | | [A5b84][url-a5b84] | __Modrinth__ |
 | [Dynamic Crosshair][url-dynamic-crosshair] `✔️` | 1.21.5 | | [Crendgrim][url-crendgrim] | __Modrinth__ |
@@ -24,8 +25,9 @@
 | [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
-| [Nvidium][url-nvidium] `❌` | 1.21.5 | [NVIDIA][url-nvidia] `👀` | [cortex][url-cortex]| __Modrinth__ |
+| [Nvidium][url-nvidium] `❌` | 1.21.5 | [Sodium][url-sodium] `✔️`, [NVIDIA][url-nvidia] `👀` | [cortex][url-cortex]| __Modrinth__ |
 | [Reese's Sodium Options][url-reeses-sodium-options] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
+| [Scribble][url-scribble] `✔️` | 1.21.5 | | [chrrs][url-chrrs] | __Modrinth__ |
 | [Sodium][url-sodium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [Sodium Extra][url-sodium-extra] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
 | [Sound Physics Remastered][url-sound-physics-remastered] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
@@ -61,6 +63,7 @@
 [url-caelthecolher]: <https://modrinth.com/user/caelthecolher>
 [url-cardistymo]: <https://modrinth.com/user/cardistymo>
 [url-chaosyr]: <https://modrinth.com/user/Chaosyr>
+[url-chrrs]: <https://modrinth.com/user/chrrs>
 [url-coderbot]: <https://modrinth.com/user/coderbot>
 [url-codexadrian]: <https://modrinth.com/user/CodexAdrian>
 [url-cortex]: <https://modrinth.com/user/cortex>
@@ -83,6 +86,7 @@
 [url-minenash]: <https://modrinth.com/user/Minenash>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
 [url-motschen]: <https://modrinth.com/user/Motschen>
+[url-notryken]: <https://modrinth.com/user/NotRyken>
 [url-noxcrew]: <https://modrinth.com/user/Noxcrew>
 [url-pelotrio]: <https://modrinth.com/user/Pelotrio>
 [url-pinkgoosik]: <https://modrinth.com/user/PinkGoosik>
@@ -104,6 +108,7 @@
 [url-athena]: <https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Ia97dAC3/athena-fabric-1.21.4-4.2.0.jar>
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
 [url-capes]: <https://cdn.modrinth.com/data/89Wsn8GD/versions/htKsCP2s/capes-1.5.5%2B1.21.5-fabric.jar>
+[url-chat-notify]: <https://cdn.modrinth.com/data/Iudurxl8/versions/yz9Yw67R/chatnotify-fabric-2.4.3%2B1.21.5.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
 [url-controlify]: <https://cdn.modrinth.com/data/DOUdJVEm/versions/5q2runiM/controlify-2.0.4%2B1.21.5-fabric.jar>
 [url-dark-loading-screen]: <https://cdn.modrinth.com/data/h3XWIuzM/versions/RpbWPV5P/dark-loading-screen-1.6.16.jar>
@@ -132,6 +137,7 @@
 [url-prism]: <https://cdn.modrinth.com/data/1OE8wbN0/versions/gFPeFgX2/Prism-1.21.4-fabric-1.0.10.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
 [url-reimagined]: <https://cdn.modrinth.com/data/HVnmMxH1/versions/b45ALGLG/ComplementaryReimagined_r5.4.zip>
+[url-scribble]: <https://cdn.modrinth.com/data/yXAvIk0x/versions/N99ennkW/Scribble-1.5.2%2Bmc1.21.5-fabric.jar>
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/fVbw1C7i/sodium-fabric-0.6.12%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
 [url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/2EyHcj8z/sound-physics-remastered-fabric-1.21.5-1.4.10.jar>
