@@ -109,7 +109,7 @@
 [url-do-a-barrel-roll]: <https://cdn.modrinth.com/data/6FtRfnLg/versions/V0e6gDT5/do_a_barrel_roll-fabric-3.8.1%2B1.21.5.jar>
 [url-emotecraft]: <https://cdn.modrinth.com/data/pZ2wrerK/versions/fqyj29ZM/emotecraft-fabric-for-MC1.21.5-rc1-2.6.0-a.build.87.jar>
 [url-enhancedvisuals]: <https://cdn.modrinth.com/data/KjL0jE2w/versions/2HAAAG2J/EnhancedVisuals_FABRIC_v1.8.17_mc1.21.4.jar>
-[url-explorers-compass]: <https://cdn.modrinth.com/data/RV1qfVQ8/versions/QddHC5Vo/ExplorersCompass-1.21.4-2.2.6-fabric.jar>
+[url-explorers-compass]: <https://cdn.modrinth.com/data/RV1qfVQ8/versions/UOwcEqa6/ExplorersCompass-1.21.5-2.2.6-fabric.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
 [url-fabric-language-kotlin]: <https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar>
 [url-ferritecore]: <https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar>
