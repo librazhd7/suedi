@@ -3,11 +3,8 @@
 | [3D Skin Layers][url-3d-skin-layers] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Advancement Plaques][url-advancement-plaques] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌` | [Grend][url-grend] | __Modrinth__ |
 | [Athena][url-athena] `❌` | 1.21.5 | | [Terrarium][url-terrarium] | __Modrinth__ |
-| [Auth Me][url-auth-me] `✔️` | 1.21.5 | | [axieum][url-axieum] | __Modrinth__ |
 | [BadOptimizations][url-bad-optimizations] `✔️` | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
-| [Better F3][url-better-f3] `✔️` | 1.21.5 | | [TreyRuffy][url-treyruffy] | __Modrinth__ |
 | [Capes][url-capes] `✔️` | 1.21.5 | | [caelthecolher][url-caelthecolher] | __Modrinth__ |
-| [Chat Heads][url-chat-heads] `✔️` | 1.21.5 | | [dzwdz][url-dzwdz] | __Modrinth__ |
 | [Controlify][url-controlify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [Dark Loading Screen][url-dark-loading-screen] `✔️` | 1.21.5 | | [A5b84][url-a5b84] | __Modrinth__ |
 | [Dynamic Crosshair][url-dynamic-crosshair] `✔️` | 1.21.5 | | [Crendgrim][url-crendgrim] | __Modrinth__ |
@@ -19,12 +16,9 @@
 | [ImmediatelyFast][url-immediately-fast] `✔️` | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
 | [Inventory HUD+][url-inventory-hud-plus] `✔️` | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
 | [Iris Shaders][url-iris-shaders] `✔️` | 1.21.5 | | [coderbot][url-coderbot] | __Modrinth__ |
-| [LambDynamicLights][url-lambdynamiclights] `✔️` | 1.21.5 | | [LambdAurora][url-lambdaurora] | __Modrinth__ |
-| [Language Reload][url-language-reload] `✔️` | 1.21.5 | | [Jerozgen][url-jerozgen] | __Modrinth__ |
 | [Legendary Tooltips][url-legendary-tooltips] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌`, [Prism][url-prism] `✔️` | [Grend][url-grend] | __Modrinth__ |
 | [Make Bubbles Pop][url-make-bubbles-pop] `✔️` | 1.21.5 | [MidnightLib][url-midnightlib] `✔️` | [Tschipcraft][url-tschipcraft] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] `✔️` | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
-| [More Culling][url-more-culling] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [FX][url-fx] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
@@ -60,7 +54,6 @@
 [url-1foxy2]: <https://modrinth.com/user/1Foxy2>
 [url-a5b84]: <https://modrinth.com/user/A5b84>
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
-[url-axieum]: <https://modrinth.com/user/axieum>
 [url-caelthecolher]: <https://modrinth.com/user/caelthecolher>
 [url-cardistymo]: <https://modrinth.com/user/cardistymo>
 [url-chaosyr]: <https://modrinth.com/user/Chaosyr>
@@ -70,20 +63,16 @@
 [url-cortex]: <https://modrinth.com/user/cortex>
 [url-crendgrim]: <https://modrinth.com/user/Crendgrim>
 [url-dmitrylovin]: <https://www.curseforge.com/members/dmitrylovin>
-[url-dzwdz]: <https://www.curseforge.com/members/dzwdz>
 [url-flashy-reese]: <https://modrinth.com/user/FlashyReese>
 [url-foundationgames]: <https://modrinth.com/user/FoundationGames>
 [url-fourmisain]: <https://modrinth.com/user/Fourmisain>
-[url-fx]: <https://modrinth.com/user/FX>
 [url-grend]: <https://modrinth.com/user/Grend>
 [url-henkelmax]: <https://modrinth.com/user/henkelmax>
 [url-ims]: <https://modrinth.com/user/IMS>
 [url-isxander]: <https://modrinth.com/user/isxander>
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
-[url-jerozgen]: <https://modrinth.com/user/Jerozgen>
 [url-juliand665]: <https://modrinth.com/user/juliand665>
 [url-katietheqt]: <https://modrinth.com/user/katietheqt>
-[url-lambdaurora]: <https://modrinth.com/user/LambdAurora>
 [url-lostluma]: <https://modrinth.com/user/LostLuma>
 [url-minenash]: <https://modrinth.com/user/Minenash>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
@@ -95,22 +84,18 @@
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-shedaniel]: <https://modrinth.com/user/shedaniel>
-[url-tschipcraft]: <https://modrinth.com/user/tschipcraft>
-[url-tr7zw]: <https://modrinth.com/user/tr7zw>
 [url-terrarium]: <https://modrinth.com/organization/terrarium>
 [url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
 [url-thosea]: <https://modrinth.com/user/thosea>
-[url-treyruffy]: <https://modrinth.com/user/TreyRuffy>
+[url-tschipcraft]: <https://modrinth.com/user/tschipcraft>
+[url-tr7zw]: <https://modrinth.com/user/tr7zw>
 [url-vicisacat]: <https://modrinth.com/user/vicisacat>
 <!-- mods -->
 [url-3d-skin-layers]: <https://cdn.modrinth.com/data/zV5r3pPn/versions/qFwcwulG/skinlayers3d-fabric-1.7.5-mc1.21.5.jar>
 [url-advancement-plaques]: <https://cdn.modrinth.com/data/9NM0dXub/versions/v6oG7aah/AdvancementPlaques-1.21.4-fabric-1.6.9.jar>
 [url-athena]: <https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Ia97dAC3/athena-fabric-1.21.4-4.2.0.jar>
-[url-auth-me]: <https://cdn.modrinth.com/data/yjgIrBjZ/versions/VS9Jw8A3/authme-fabric-9.0.1%2B1.21.5.jar>
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
-[url-better-f3]: <https://cdn.modrinth.com/data/8shC1gFX/versions/dfWnohnD/BetterF3-14.0.0-Fabric-1.21.5.jar>
 [url-capes]: <https://cdn.modrinth.com/data/89Wsn8GD/versions/htKsCP2s/capes-1.5.5%2B1.21.5-fabric.jar>
-[url-chat-heads]: <https://cdn.modrinth.com/data/Wb5oqrBJ/versions/ZAhRlZks/chat_heads-0.13.15-fabric-1.21.5.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
 [url-controlify]: <https://cdn.modrinth.com/data/DOUdJVEm/versions/5q2runiM/controlify-2.0.4%2B1.21.5-fabric.jar>
 [url-dark-loading-screen]: <https://cdn.modrinth.com/data/h3XWIuzM/versions/RpbWPV5P/dark-loading-screen-1.6.16.jar>
@@ -122,18 +107,15 @@
 [url-exordium]: <https://cdn.modrinth.com/data/DynYZEae/versions/map5Ojxn/exordium-fabric-1.4.1-mc1.21.4.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
 [url-iceberg]: <https://cdn.modrinth.com/data/5faXoLqX/versions/JQsyoArU/Iceberg-1.21.4-fabric-1.2.13.jar>
-[url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/4I1VLQHK/ImmediatelyFast-Fabric-1.9.0%2B1.21.5.jar>
+[url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/2v1FetLC/ImmediatelyFast-Fabric-1.9.1%2B1.21.5.jar>
 [url-inventory-hud-plus]: <https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/download/6355978>
 [url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/N0ln8GKQ/iris-fabric-1.8.10%2Bmc1.21.5.jar>
-[url-lambdynamiclights]: <https://cdn.modrinth.com/data/yBW8D80W/versions/cLBceQhi/lambdynamiclights-4.2.3%2B1.21.5.jar>
-[url-language-reload]: <https://cdn.modrinth.com/data/uLbm7CG6/versions/BMmbiHSJ/language-reload-1.7.3%2B1.21.5.jar>
 [url-legendary-tooltips]: <https://cdn.modrinth.com/data/atHH8NyV/versions/7xI8xla5/LegendaryTooltips-1.21.4-fabric-1.5.1.jar>
 [url-make-bubbles-pop]: <https://cdn.modrinth.com/data/gPCdW0Wr/versions/26unk04q/make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4.jar>
 [url-midnightlib]: <https://cdn.modrinth.com/data/codAaoxh/versions/F6Wo2W7o/midnightlib-1.7.0-fabric%2B1.21.4.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar>
-[url-more-culling]: <https://cdn.modrinth.com/data/51shyZVL/versions/XZS9Gl9x/moreculling-fabric-1.21.5-1.3.0.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/prj4BdjU/notenoughanimations-fabric-1.9.3-mc1.21.5.jar>
-[url-notes]: <https://cdn.modrinth.com/data/ko8Qabo1/versions/h4aknqvl/Notes-1.21.4-2.1.1-fabric.jar>
+[url-notes]: <https://cdn.modrinth.com/data/ko8Qabo1/versions/1lw2vMqQ/notes-1.21.5-2.1.1-fabric.jar>
 [url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/VFgdHk3N/noxesium-fabric-2.7.1.jar>
 [url-nvidia]: <https://www.nvidia.com/en-us/software/nvidia-app/>
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
