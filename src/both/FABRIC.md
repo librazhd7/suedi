@@ -1,6 +1,7 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
 |-----|---------|--------------------------------------------------------|--------|-----|
 | [Advanced Netherite][url-advanced-netherite] `✔️` | 1.21.5 | | [Autovw][url-Autovw] | __Modrinth__ |
+| [Animal Feeding Trough][url-animal-feeding-trough] `✔️` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [Slexom][url-slexom] | __Modrinth__ |
 | [AppleSkin][url-appleskin] `❌` | 1.21.5 | | [squeek502][url-squeek502] | __Modrinth__ |
 | [bad packets][url-bad-packets] `✔️` | 1.21.5 | | [deirn][url-deirn] | __Modrinth__ |
 | [Biomes O' Plenty][url-biomes-o-plenty] `❌` | 1.21.5 | [TerraBlender][url-terrablender] `✔️` | [Forstride][url-Forstride] | __Modrinth__ |
@@ -86,6 +87,7 @@
 [url-serilum]: <https://modrinth.com/user/Serilum>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-shedaniel]: <https://modrinth.com/user/shedaniel>
+[url-slexom]: <https://modrinth.com/user/Slexom>
 [url-smushytaco]: <https://modrinth.com/user/SmushyTaco>
 [url-snownee]: <https://modrinth.com/user/Snownee>
 [url-stevekung]: <https://modrinth.com/user/SteveKunG>
@@ -95,8 +97,9 @@
 [url-wesley1808]: <https://www.curseforge.com/members/Wesley1808>
 <!-- mods -->
 [url-advanced-netherite]: <https://cdn.modrinth.com/data/CFX9ftUJ/versions/ktpNQJ54/advancednetherite-fabric-2.2.3-1.21.5.jar>
+[url-animal-feeding-trough]: <https://cdn.modrinth.com/data/bRFWnJ87/versions/QaRs9tK6/animal_feeding_trough-1.1.4%2B1.21.5.jar>
 [url-appleskin]: <https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar>
-[url-architectury-api]: <https://www.curseforge.com/minecraft/mc-mods/architectury-api/download/6351683>
+[url-architectury-api]: <https://cdn.modrinth.com/data/lhGA9TYQ/versions/8qVhRqMz/architectury-16.0.3-fabric.jar>
 [url-bad-packets]: <https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar>
 [url-balm]: <https://cdn.modrinth.com/data/MBAkmtvl/versions/JwhBL8Nb/balm-fabric-1.21.5-21.5.8.jar>
 [url-biomes-o-plenty]: <https://cdn.modrinth.com/data/HXF82T3G/versions/fnWSrWtY/BiomesOPlenty-fabric-1.21.4-21.4.0.22.jar>
