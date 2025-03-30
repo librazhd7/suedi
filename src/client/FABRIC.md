@@ -1,4 +1,4 @@
-| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api]) | Author | CDN |
+| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
 |-----|---------|---------------------------------------------------|--------|-----|
 | [3D Skin Layers][url-3d-skin-layers] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Advancement Plaques][url-advancement-plaques] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌` | [Grend][url-grend] | __Modrinth__ |
@@ -12,7 +12,7 @@
 | [Enhanced Attack Indicator][url-enhanced-attack-indicator] `✔️` | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
 | [Enhanced Block Entities][url-enhanced-block-entities] `❌` | 1.21.5 | | [FoundationGames][url-foundationgames] | __Modrinth__ |
 | [Entity Culling][url-entity-culling] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
-| [Euphoria Patches][url-euphoria-patches] `✔️` | 1.21.5 | [Iris Shaders][url-iris-shaders], Complementary Shaders — [Reimagined][url-reimagined]/[Unbound][url-unbound] | [SpacEagle17][url-spaceagle17] | __Modrinth__ |
+| [Euphoria Patches][url-euphoria-patches] `✔️` | 1.21.5 | __Complementary Shaders__ — [Reimagined][url-reimagined]/[Unbound][url-unbound] `✔️` | [SpacEagle17][url-spaceagle17] | __Modrinth__ |
 | [Exordium][url-exordium] `❌` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [ImmediatelyFast][url-immediately-fast] `✔️` | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
 | [Inventory HUD+][url-inventory-hud-plus] `✔️` | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
