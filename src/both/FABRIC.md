@@ -8,7 +8,7 @@
 | [Debugify][url-debugify] `❌` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [Do a Barrel Roll][url-do-a-barrel-roll] `✔️` | 1.21.5 | [CICADA][url-cicada] `✔️` | [enjarai][url-enjarai] | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] `✔️` | 1.21.5 | | [KosmX][url-kosmx] | __Modrinth__ |
-| [EnhancedVisuals][url-enhancedvisuals] `✔️` | 1.21.5 | [CreativeCore][url-creativecore] `✔️` | [creativemd][url-creativemd] | __Modrinth__ |
+| [EnhancedVisuals][url-enhancedvisuals] `❌` | 1.21.5 | [CreativeCore][url-creativecore] `❌` | [creativemd][url-creativemd] | __Modrinth__ |
 | [Explorer's Compass][url-explorers-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [FerriteCore][url-ferritecore] `❌` | 1.21.5 | | [malte0811][url-malte0811] | __Modrinth__ |
 | [Fish of Thieves][url-fish-of-thieves] `❌` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [SteveKunG][url-stevekung] | __Modrinth__ |
