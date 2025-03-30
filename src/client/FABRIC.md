@@ -16,7 +16,7 @@
 | [LambDynamicLights][url-lambdynamiclights] `✔️` | 1.21.5 | | [LambdAurora][url-lambdaurora] | __Modrinth__ |
 | [Legendary Tooltips][url-legendary-tooltips] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌`, [Prism][url-prism] `✔️` | [Grend][url-grend] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] `✔️` | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
-| [More Culling][url-more-culling] `✔️` | 1.21.5 | | [FX][url-fx] | __Modrinth__ |
+| [More Culling][url-more-culling] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [FX][url-fx] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
@@ -35,6 +35,7 @@
 - [__Noxcrew__][url-noxcrew]
 - [__Pelotrio__][url-pelotrio]
 - [__sfPlayer1__][url-sfplayer1]
+- [__shedaniel__][url-shedaniel]
 - [__ThatGravyBoat__][url-thatgravyboat]
 - [__vicisacat__][url-vicisacat]
 
@@ -66,6 +67,7 @@
 [url-prospector]: <https://modrinth.com/user/Prospector>
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
+[url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-tr7zw]: <https://modrinth.com/user/tr7zw>
 [url-terrarium]: <https://modrinth.com/organization/terrarium>
 [url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
@@ -76,6 +78,7 @@
 [url-advancement-plaques]: <https://cdn.modrinth.com/data/9NM0dXub/versions/v6oG7aah/AdvancementPlaques-1.21.4-fabric-1.6.9.jar>
 [url-athena]: <https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Ia97dAC3/athena-fabric-1.21.4-4.2.0.jar>
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
+[url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
 [url-controlify]: <https://cdn.modrinth.com/data/DOUdJVEm/versions/5q2runiM/controlify-2.0.4%2B1.21.5-fabric.jar>
 [url-dynamic-crosshair]: <https://cdn.modrinth.com/data/ZcR9weSm/versions/VsVDZkpZ/dynamiccrosshair-9.4%2B1.21.5-fabric.jar>
 [url-enhanced-attack-indicator]: <https://cdn.modrinth.com/data/eTy17BBS/versions/F0AKuwot/enhanced_attack_indicator-1.1.0%2B1.21.2.jar>
