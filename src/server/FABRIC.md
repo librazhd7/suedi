@@ -6,6 +6,7 @@
 | [Boids][url-boids] `✔️` | 1.21.5 | | [Tomate0613][url-tomate0613] | __Modrinth__ |
 | [CrashExploitFixer][url-crash-exploit-fixer] `❌` | 1.21.5 | | [DrexHD][url-drexhd] | __Modrinth__ |
 | [FallingTree][url-falling-tree] `✔️` | 1.21.5 | | [Rakambda][url-rakambda] | __Modrinth__ |
+| [Fish On The Line][url-fish-on-the-line] `✔️` | 1.21.5 | [Collective][url-collective] `✔️` | [Serilum][url-serilum] | __Modrinth__ |
 | [Floodgate][url-floodgate] `✔️` | 1.21.5 | | [Camotoy][url-camotoy] | __Modrinth__ |
 | [Forgiving Void][url-forgiving-void] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [Geyser][url-geyser] `❌` | 1.21.5 | | [Camotoy][url-camotoy] | __Modrinth__ |
@@ -49,6 +50,7 @@
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
 [url-patbox]: <https://modrinth.com/user/Patbox>
 [url-rakambda]: <https://modrinth.com/user/Rakambda>
+[url-serilum]: <https://modrinth.com/user/Serilum>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-space-walker]: <https://modrinth.com/user/Space%20Walker>
 [url-steveplays]: <https://modrinth.com/user/Steveplays>
@@ -60,9 +62,11 @@
 [url-axes-are-weapons]: <https://cdn.modrinth.com/data/1jvt7RTc/versions/IgfXr6Py/AxesAreWeapons-1.9.4-fabric-1.21.5.jar>
 [url-balm]: <https://cdn.modrinth.com/data/MBAkmtvl/versions/JwhBL8Nb/balm-fabric-1.21.5-21.5.8.jar>
 [url-boids]: <https://cdn.modrinth.com/data/2OckSy74/versions/aiZEd0aD/Boids-1.2.3.jar>
+[url-collective]: <https://cdn.modrinth.com/data/e0M1UDsY/versions/TVxkXnUs/collective-1.21.5-8.1.jar>
 [url-crash-exploit-fixer]: <https://cdn.modrinth.com/data/Z5GdSH3X/versions/dqRkbGHB/crashexploitfixer-fabric-1.1.0%2B1.21.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
 [url-falling-tree]: <https://cdn.modrinth.com/data/Fb4jn8m6/versions/enSGEWts/FallingTree-1.21.5-1.21.5.2.jar>
+[url-fish-on-the-line]: <https://cdn.modrinth.com/data/R6PYx1PW/versions/iybn8TCZ/fishontheline-1.21.5-3.5.jar>
 [url-floodgate]: <https://cdn.modrinth.com/data/bWrNNfkb/versions/nyg969vQ/Floodgate-Fabric-2.2.4-b43.jar>
 [url-forgiving-void]: <https://cdn.modrinth.com/data/1vkzEZjE/versions/NFqUHmjA/forgivingvoid-fabric-1.21.5-21.5.1.jar>
 [url-geyser]: <https://cdn.modrinth.com/data/wKkoqHrH/versions/6RjRB9Ew/geyser-fabric-Geyser-Fabric-2.6.2-b793.jar>
