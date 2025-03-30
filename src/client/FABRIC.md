@@ -1,5 +1,6 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api]) | Author | CDN |
 |-----|---------|---------------------------------------------------|--------|-----|
+| [3D Skin Layers][url-3d-skin-layers] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Advancement Plaques][url-advancement-plaques] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌` | [Grend][url-grend] | __Modrinth__ |
 | [Athena][url-athena] `❌` | 1.21.5 | | [Terrarium][url-terrarium] | __Modrinth__ |
 | [BadOptimizations][url-bad-optimizations] `✔️` | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
@@ -15,6 +16,7 @@
 | [LambDynamicLights][url-lambdynamiclights] `✔️` | 1.21.5 | | [LambdAurora][url-lambdaurora] | __Modrinth__ |
 | [Legendary Tooltips][url-legendary-tooltips] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌`, [Prism][url-prism] `✔️` | [Grend][url-grend] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] `✔️` | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
+| [More Culling][url-more-culling] `✔️` | 1.21.5 | | [FX][url-fx] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
@@ -25,6 +27,7 @@
 | [Visuality][url-visuality] `✔️` | 1.21.5 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
 
 ## Additional credits
+- [__1Foxy2__][url-1foxy2]
 - [__CodexAdrian__][url-codexadrian]
 - [__IMS__][url-ims]
 - [__katietheqt__][url-katietheqt]
@@ -38,6 +41,7 @@
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
 <!-- authors -->
+[url-1foxy2]: <https://modrinth.com/user/1Foxy2>
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
 [url-chaosyr]: <https://modrinth.com/user/Chaosyr>
 [url-coderbot]: <https://modrinth.com/user/coderbot>
@@ -47,6 +51,7 @@
 [url-dmitrylovin]: <https://www.curseforge.com/members/dmitrylovin>
 [url-flashy-reese]: <https://modrinth.com/user/FlashyReese>
 [url-foundationgames]: <https://modrinth.com/user/FoundationGames>
+[url-fx]: <https://modrinth.com/user/FX>
 [url-grend]: <https://modrinth.com/user/Grend>
 [url-ims]: <https://modrinth.com/user/IMS>
 [url-isxander]: <https://modrinth.com/user/isxander>
@@ -67,6 +72,7 @@
 [url-thosea]: <https://modrinth.com/user/thosea>
 [url-vicisacat]: <https://modrinth.com/user/vicisacat>
 <!-- mods -->
+[url-3d-skin-layers]: <https://cdn.modrinth.com/data/zV5r3pPn/versions/qFwcwulG/skinlayers3d-fabric-1.7.5-mc1.21.5.jar>
 [url-advancement-plaques]: <https://cdn.modrinth.com/data/9NM0dXub/versions/v6oG7aah/AdvancementPlaques-1.21.4-fabric-1.6.9.jar>
 [url-athena]: <https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Ia97dAC3/athena-fabric-1.21.4-4.2.0.jar>
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
@@ -84,6 +90,7 @@
 [url-lambdynamiclights]: <https://cdn.modrinth.com/data/yBW8D80W/versions/cLBceQhi/lambdynamiclights-4.2.3%2B1.21.5.jar>
 [url-legendary-tooltips]: <https://cdn.modrinth.com/data/atHH8NyV/versions/7xI8xla5/LegendaryTooltips-1.21.4-fabric-1.5.1.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar>
+[url-more-culling]: <https://cdn.modrinth.com/data/51shyZVL/versions/XZS9Gl9x/moreculling-fabric-1.21.5-1.3.0.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/prj4BdjU/notenoughanimations-fabric-1.9.3-mc1.21.5.jar>
 [url-notes]: <https://cdn.modrinth.com/data/ko8Qabo1/versions/h4aknqvl/Notes-1.21.4-2.1.1-fabric.jar>
 [url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/VFgdHk3N/noxesium-fabric-2.7.1.jar>
