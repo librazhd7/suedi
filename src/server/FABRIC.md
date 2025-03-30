@@ -3,23 +3,23 @@
 | [Alternate Current][url-alternate-current] `✔️` | 1.21.5 | | [Space Walker][url-space-walker] | __Modrinth__ |
 | [AudioPlayer][url-audio-player] `✔️` | 1.21.5 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | [henkelmax][url-henkelmax] | __Modrinth__ |
 | [Axes are Weapons][url-axes-are-weapons] `✔️` | 1.21.5 | | [Fourmisain][url-fourmisain] | __Modrinth__ |
-| [Boids][url-boids] `✔️` | 1.21.4 | | [Tomate0613][url-tomate0613] | __Modrinth__ |
+| [Boids][url-boids] `✔️` | 1.21.5 | | [Tomate0613][url-tomate0613] | __Modrinth__ |
 | [CrashExploitFixer][url-crash-exploit-fixer] `❌` | 1.21.5 | | [DrexHD][url-drexhd] | __Modrinth__ |
 | [FallingTree][url-falling-tree] `✔️` | 1.21.5 | | [Rakambda][url-rakambda] | __Modrinth__ |
-| [Floodgate][url-floodgate] `✔️` | 1.21.4 | | [Camotoy][url-camotoy] | __Modrinth__ |
+| [Floodgate][url-floodgate] `✔️` | 1.21.5 | | [Camotoy][url-camotoy] | __Modrinth__ |
 | [Forgiving Void][url-forgiving-void] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
-| [Geyser][url-geyser] `✔️` | 1.21.4 | | [Camotoy][url-camotoy] | __Modrinth__ |
-| [Glore][url-glore] `✔️` | 1.21.4 | | [Apothicon][url-apothicon] | __Modrinth__ |
-| [Let Me Despawn][url-let-me-despawn] `✔️` | 1.21.4 | [Almanac][url-almanac] `✔️` | [frikinjay][url-frikinjay] | __Modrinth__ |
-| [Load My F***ing Tags][url-load-my-fucking-tags] `✔️` | 1.21.4 | | [Blodhgarm][url-blodhgarm] | __Modrinth__ |
+| [Geyser][url-geyser] `✔️` | 1.21.5 | | [Camotoy][url-camotoy] | __Modrinth__ |
+| [Glore][url-glore] `✔️` | 1.21.5 | | [Apothicon][url-apothicon] | __Modrinth__ |
+| [Let Me Despawn][url-let-me-despawn] `✔️` | 1.21.5 | [Almanac][url-almanac] `✔️` | [frikinjay][url-frikinjay] | __Modrinth__ |
+| [Load My F***ing Tags][url-load-my-fucking-tags] `✔️` | 1.21.5 | | [Blodhgarm][url-blodhgarm] | __Modrinth__ |
 | [NetherPortalFix][url-nether-portal-fix] `✔️` | 1.21.5 | | [BlayTheNinth][url-blayTheNinth] | __Modrinth__ |
-| [Noisium][url-noisium] `❌` | 1.21.4 | | [Steveplays][url-steveplays] | __Modrinth__ |
-| [Motion Capture][url-motion-capture] `✔️` | 1.21.4 | | [mt1006][url-mt1006] | __Modrinth__ |
+| [Noisium][url-noisium] `❌` | 1.21.5 | | [Steveplays][url-steveplays] | __Modrinth__ |
+| [Motion Capture][url-motion-capture] `✔️` | 1.21.5 | | [mt1006][url-mt1006] | __Modrinth__ |
 | [Skin Restorer][url-skin-restorer] `✔️` | 1.21.5 | | [Lionarius][url-lionarius] | __Modrinth__ |
 | [Universal Graves][url-universal-graves] `✔️` | 1.21.5 | | [Patbox][url-patbox] | __Modrinth__ |
 | [Veinminer][url-veinminer] `✔️` | 1.21.5 | [Silk][url-silk] `✔️` | [Miraculixx][url-miraculixx] | __Modrinth__ |
 | [Voice Chat Interaction][url-voice-chat-interaction] `✔️` | 1.21.5 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | [henkelmax][url-henkelmax] | __Modrinth__ |
-| [Where Is It][url-where-is-it] `✔️` | 1.21.4 | [YACL][url-yacl] `✔️` | [JackFred][url-jackfred] | __Modrinth__ |
+| [Where Is It][url-where-is-it] `✔️` | 1.21.5 | [YACL][url-yacl] `✔️` | [JackFred][url-jackfred] | __Modrinth__ |
 
 ## Additional credits
 - [__BreadLoaf__][url-breadloaf]
