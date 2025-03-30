@@ -1,29 +1,28 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api]) | Author | CDN |
 |-----|---------|---------------------------------------------------|--------|-----|
-| [Advancement Plaques][url-advancement-plaques]| 1.21.4 | [Iceberg][url-iceberg] | [Grend][url-grend] | __Modrinth__ |
-| [Athena][url-athena] | 1.21.4 | | [Terrarium][url-terrarium] | __Modrinth__ |
-| [BadOptimizations][url-bad-optimizations] | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
-| [Controlify][url-controlify] | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
-| [Dynamic Crosshair][url-dynamic-crosshair] | 1.21.5 | | [Crendgrim][url-crendgrim] | __Modrinth__ |
-| [Enhanced Attack Indicator][url-enhanced-attack-indicator] | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
-| [Enhanced Block Entities][url-enhanced-block-entities] | 1.21.4 | | [FoundationGames][url-foundationgames] | __Modrinth__ |
-| [Entity Culling][url-entity-culling] | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
-| [Exordium][url-exordium] | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
-| [ImmediatelyFast][url-immediately-fast] | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
-| [Inventory HUD+][url-inventory-hud-plus] | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
-| [Iris Shaders][url-iris-shaders] | 1.21.5 | | [coderbot][url-coderbot] | __Modrinth__ |
-| [LambDynamicLights][url-lambdynamiclights] | 1.21.5 | | [LambdAurora][url-lambdaurora] | __Modrinth__ |
-| [Legendary Tooltips][url-legendary-tooltips] | 1.21.4 | [Iceberg][url-iceberg], [Prism][url-prism] | [Grend][url-grend] | __Modrinth__ |
-| [Mod Menu][url-mod-menu] | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
-| [Not Enough Animations][url-not-enough-animations] | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
-| [Notes][url-notes] | 1.21.4 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
-| [Noxesium][url-noxesium] | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
-| [Nvidium][url-nvidium] `❌` | ~~1.21.1~~ | [NVIDIA][url-nvidia] | [cortex][url-cortex]| __Modrinth__ |
-| [Reese's Sodium Options][url-reeses-sodium-options] | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
-| [Roughly Enough Items][url-roughly-enough-items] | 1.21.4 | [Architectury API][url-architectury-api] | [shedaniel][url-shedaniel] | __Modrinth__ |
-| [Sodium][url-sodium] | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
-| [Sodium Extra][url-sodium-extra] | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
-| [Visuality][url-visuality] | 1.21.5 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
+| [Advancement Plaques][url-advancement-plaques] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌` | [Grend][url-grend] | __Modrinth__ |
+| [Athena][url-athena] `❌` | 1.21.5 | | [Terrarium][url-terrarium] | __Modrinth__ |
+| [BadOptimizations][url-bad-optimizations] `✔️` | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
+| [Controlify][url-controlify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
+| [Dynamic Crosshair][url-dynamic-crosshair] `✔️` | 1.21.5 | | [Crendgrim][url-crendgrim] | __Modrinth__ |
+| [Enhanced Attack Indicator][url-enhanced-attack-indicator] `✔️` | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
+| [Enhanced Block Entities][url-enhanced-block-entities] `❌` | 1.21.5 | | [FoundationGames][url-foundationgames] | __Modrinth__ |
+| [Entity Culling][url-entity-culling] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [Exordium][url-exordium] `❌` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [ImmediatelyFast][url-immediately-fast] `✔️` | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
+| [Inventory HUD+][url-inventory-hud-plus] `✔️` | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
+| [Iris Shaders][url-iris-shaders] `✔️` | 1.21.5 | | [coderbot][url-coderbot] | __Modrinth__ |
+| [LambDynamicLights][url-lambdynamiclights] `✔️` | 1.21.5 | | [LambdAurora][url-lambdaurora] | __Modrinth__ |
+| [Legendary Tooltips][url-legendary-tooltips] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌`, [Prism][url-prism] `✔️` | [Grend][url-grend] | __Modrinth__ |
+| [Mod Menu][url-mod-menu] `✔️` | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
+| [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
+| [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
+| [Nvidium][url-nvidium] `❌` | 1.21.5 | [NVIDIA][url-nvidia] `👀` | [cortex][url-cortex]| __Modrinth__ |
+| [Reese's Sodium Options][url-reeses-sodium-options] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
+| [Sodium][url-sodium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
+| [Sodium Extra][url-sodium-extra] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
+| [Visuality][url-visuality] `✔️` | 1.21.5 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
 
 ## Additional credits
 - [__CodexAdrian__][url-codexadrian]
@@ -62,7 +61,6 @@
 [url-prospector]: <https://modrinth.com/user/Prospector>
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
-[url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-tr7zw]: <https://modrinth.com/user/tr7zw>
 [url-terrarium]: <https://modrinth.com/organization/terrarium>
 [url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
@@ -94,7 +92,6 @@
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
 [url-prism]: <https://cdn.modrinth.com/data/1OE8wbN0/versions/gFPeFgX2/Prism-1.21.4-fabric-1.0.10.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
-[url-roughly-enough-items]: <https://cdn.modrinth.com/data/nfn13YXA/versions/EJdFrEjD/RoughlyEnoughItems-18.0.800-fabric.jar>
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/fVbw1C7i/sodium-fabric-0.6.12%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
 [url-visuality]: <https://cdn.modrinth.com/data/rI0hvYcd/versions/W7vlELm0/visuality-0.7.10%2B1.21.5.jar>
