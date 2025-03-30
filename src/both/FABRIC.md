@@ -18,6 +18,7 @@
 | [Krypton][url-krypton] `✔️` | 1.21.5 | | [astei][url-astei] | __Modrinth__ |
 | [Lithium][url-lithium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [ModernFix][url-modernfix] `❌` | 1.21.5 | | [embeddedt][url-embeddedt] | __Modrinth__ |
+| [Monsters in the Closet][url-monsters-in-the-closet] `✔️` | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
 | [Nature's Compass][url-natures-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Neutral Animals][url-neutral-animals] `❌` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [oωo][url-owo-lib] `❌` | [SmushyTaco][url-smushytaco] | __Modrinth__ |
 | [No Chat Reports][url-no-chat-reports] `❌` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
@@ -76,6 +77,7 @@
 [url-kosmx]: <https://modrinth.com/user/KosmX>
 [url-lucko]: <https://modrinth.com/user/lucko>
 [url-malte0811]: <https://modrinth.com/user/malte0811>
+[url-minenash]: <https://modrinth.com/user/Minenash>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
 [url-mysticdrew]: <https://modrinth.com/user/mysticdrew>
 [url-robotkoer]: <https://modrinth.com/user/robotkoer>
@@ -116,6 +118,7 @@
 [url-krypton]: <https://cdn.modrinth.com/data/fQEb0iXm/versions/neW85eWt/krypton-0.2.9.jar>
 [url-lithium]: <https://cdn.modrinth.com/data/gvQqBUqZ/versions/nhc57Td2/lithium-fabric-0.16.0%2Bmc1.21.5.jar>
 [url-modernfix]: <https://cdn.modrinth.com/data/nmDcB62a/versions/ZGxQddYr/modernfix-fabric-5.20.3%2Bmc1.21.4.jar>
+[url-monsters-in-the-closet]: <https://cdn.modrinth.com/data/GMA8jFBD/versions/57WSUc6t/monsters-in-the-closet-1.0.3%2B1.21.2.jar>
 [url-natures-compass]: <https://cdn.modrinth.com/data/fPetb5Kh/versions/fF380mCq/NaturesCompass-1.21.4-2.2.8-fabric.jar>
 [url-neutral-animals]: <https://cdn.modrinth.com/data/w1AXlLHd/versions/Uzy8fWaG/neutral-animals-1.2.10.jar>
 [url-no-chat-reports]: <https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar>
