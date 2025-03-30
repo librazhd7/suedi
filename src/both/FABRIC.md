@@ -23,6 +23,7 @@
 | [Neutral Animals][url-neutral-animals] `❌` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [oωo][url-owo-lib] `❌` | [SmushyTaco][url-smushytaco] | __Modrinth__ |
 | [No Chat Reports][url-no-chat-reports] `❌` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
 | [OpenBlocks Elevator][url-openblocks-elevator] `❌` | 1.21.5 | | [vsngarcia][url-vsngarcia] | __CurseForge__ |
+| [Realistic Bees][url-realistic-bees] `✔️` | 1.21.5 | [Collective][url-collective] `✔️` | [Serilum][url-serilum] | __CurseForge__ |
 | [Roughly Enough Items][url-roughly-enough-items] `❌` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [ScalableLux][url-scalablelux] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
 | [Serene Seasons][url-serene-seasons] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
@@ -82,6 +83,7 @@
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
 [url-mysticdrew]: <https://modrinth.com/user/mysticdrew>
 [url-robotkoer]: <https://modrinth.com/user/robotkoer>
+[url-serilum]: <https://modrinth.com/user/Serilum>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-smushytaco]: <https://modrinth.com/user/SmushyTaco>
@@ -100,6 +102,7 @@
 [url-biomes-o-plenty]: <https://cdn.modrinth.com/data/HXF82T3G/versions/fnWSrWtY/BiomesOPlenty-fabric-1.21.4-21.4.0.22.jar>
 [url-cicada]: <https://cdn.modrinth.com/data/IwCkru1D/versions/PgAWAiwk/cicada-lib-0.11.9%2B1.21.5-and-above.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
+[url-collective]: <https://cdn.modrinth.com/data/e0M1UDsY/versions/i0vDgxqx/collective-1.21.5-7.99.jar>
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/stzC1jlZ/c2me-fabric-mc1.21.5-0.3.2%2Balpha.0.66.jar>
 [url-creativecore]: <https://cdn.modrinth.com/data/OsZiaDHq/versions/ixu9AXyq/CreativeCore_FABRIC_v2.12.35_mc1.21.4.jar>
 [url-debugify]: <https://cdn.modrinth.com/data/QwxR6Gcd/versions/yjpSgPEw/Debugify-1.21.4%2B1.1.jar>
@@ -127,6 +130,7 @@
 [url-owo-lib]: <https://cdn.modrinth.com/data/ccKDOlHs/versions/kNCPPFb2/owo-lib-0.12.20%2B1.21.4.jar>
 [url-puzzles-lib]: <https://cdn.modrinth.com/data/QAGBst4M/versions/MITyEk30/PuzzlesLib-v21.4.13-1.21.4-Fabric.jar>
 [url-reborn-core]: <https://www.curseforge.com/minecraft/mc-mods/reborncore/download/6136161>
+[url-realistic-bees]: <https://cdn.modrinth.com/data/tG6HkcWx/versions/GVwEXbqy/realisticbees-1.21.5-4.1.jar>
 [url-roughly-enough-items]: <https://cdn.modrinth.com/data/nfn13YXA/versions/EJdFrEjD/RoughlyEnoughItems-18.0.800-fabric.jar>
 [url-scalablelux]: <https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar>
 [url-serene-seasons]: <https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar>
