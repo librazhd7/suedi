@@ -123,7 +123,7 @@
 [url-lithium]: <https://cdn.modrinth.com/data/gvQqBUqZ/versions/nhc57Td2/lithium-fabric-0.16.0%2Bmc1.21.5.jar>
 [url-modernfix]: <https://cdn.modrinth.com/data/nmDcB62a/versions/ZGxQddYr/modernfix-fabric-5.20.3%2Bmc1.21.4.jar>
 [url-monsters-in-the-closet]: <https://cdn.modrinth.com/data/GMA8jFBD/versions/57WSUc6t/monsters-in-the-closet-1.0.3%2B1.21.2.jar>
-[url-natures-compass]: <https://cdn.modrinth.com/data/fPetb5Kh/versions/fF380mCq/NaturesCompass-1.21.4-2.2.8-fabric.jar>
+[url-natures-compass]: <https://cdn.modrinth.com/data/fPetb5Kh/versions/FtXoG4cB/NaturesCompass-1.21.5-2.2.8-fabric.jar>
 [url-neutral-animals]: <https://cdn.modrinth.com/data/w1AXlLHd/versions/Uzy8fWaG/neutral-animals-1.2.10.jar>
 [url-no-chat-reports]: <https://cdn.modrinth.com/data/qQyHxfxd/versions/9xt05630/NoChatReports-FABRIC-1.21.4-v2.11.0.jar>
 [url-openblocks-elevator]: <https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/download/5990832>
