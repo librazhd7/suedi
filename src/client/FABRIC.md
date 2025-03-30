@@ -20,6 +20,7 @@
 | [Legendary Tooltips][url-legendary-tooltips] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌`, [Prism][url-prism] `✔️` | [Grend][url-grend] | __Modrinth__ |
 | [Make Bubbles Pop][url-make-bubbles-pop] `✔️` | 1.21.5 | [MidnightLib][url-midnightlib] `✔️` | [Tschipcraft][url-tschipcraft] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] `✔️` | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
+| [Music Notification][url-music-notification] `✔️` | 1.21.5 | | [KosmoMoustache][url-kosmomoustache] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
@@ -77,6 +78,7 @@
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
 [url-juliand665]: <https://modrinth.com/user/juliand665>
 [url-katietheqt]: <https://modrinth.com/user/katietheqt>
+[url-kosmomoustache]: <https://modrinth.com/user/KosmoMoustache>
 [url-lostluma]: <https://modrinth.com/user/LostLuma>
 [url-minenash]: <https://modrinth.com/user/Minenash>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
@@ -121,6 +123,7 @@
 [url-make-bubbles-pop]: <https://cdn.modrinth.com/data/gPCdW0Wr/versions/26unk04q/make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4.jar>
 [url-midnightlib]: <https://cdn.modrinth.com/data/codAaoxh/versions/F6Wo2W7o/midnightlib-1.7.0-fabric%2B1.21.4.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar>
+[url-music-notification]: <https://cdn.modrinth.com/data/A4YQgwzz/versions/nFpQKH1q/MusicNotification-fabric-mc1.21.5-2.3.2.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/prj4BdjU/notenoughanimations-fabric-1.9.3-mc1.21.5.jar>
 [url-notes]: <https://cdn.modrinth.com/data/ko8Qabo1/versions/1lw2vMqQ/notes-1.21.5-2.1.1-fabric.jar>
 [url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/VFgdHk3N/noxesium-fabric-2.7.1.jar>
