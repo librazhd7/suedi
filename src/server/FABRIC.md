@@ -10,7 +10,7 @@
 | [Forgiving Void][url-forgiving-void] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [Geyser][url-geyser] `✔️` | 1.21.5 | | [Camotoy][url-camotoy] | __Modrinth__ |
 | [Glore][url-glore] `✔️` | 1.21.5 | | [Apothicon][url-apothicon] | __Modrinth__ |
-| [Let Me Despawn][url-let-me-despawn] `✔️` | 1.21.5 | [Almanac][url-almanac] `✔️` | [frikinjay][url-frikinjay] | __Modrinth__ |
+| [Let Me Despawn][url-let-me-despawn] `❌` | 1.21.5 | [Almanac][url-almanac] `❌` | [frikinjay][url-frikinjay] | __Modrinth__ |
 | [Load My F***ing Tags][url-load-my-fucking-tags] `✔️` | 1.21.5 | | [Blodhgarm][url-blodhgarm] | __Modrinth__ |
 | [NetherPortalFix][url-nether-portal-fix] `✔️` | 1.21.5 | | [BlayTheNinth][url-blayTheNinth] | __Modrinth__ |
 | [Noisium][url-noisium] `❌` | 1.21.5 | | [Steveplays][url-steveplays] | __Modrinth__ |
