@@ -12,7 +12,7 @@
 | [Enhanced Attack Indicator][url-enhanced-attack-indicator] `✔️` | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
 | [Enhanced Block Entities][url-enhanced-block-entities] `❌` | 1.21.5 | | [FoundationGames][url-foundationgames] | __Modrinth__ |
 | [Entity Culling][url-entity-culling] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
-| [Euphoria Patches][url-euphoria-patches] `✔️` | 1.21.5 | __Complementary Shaders__ — [Reimagined][url-reimagined]/[Unbound][url-unbound] `✔️` | [SpacEagle17][url-spaceagle17] | __Modrinth__ |
+| [Euphoria Patches][url-euphoria-patches] `✔️` | 1.21.5 | [Reimagined][url-reimagined]/[Unbound][url-unbound] `✔️` | [SpacEagle17][url-spaceagle17] | __Modrinth__ |
 | [Exordium][url-exordium] `❌` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [ImmediatelyFast][url-immediately-fast] `✔️` | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
 | [Inventory HUD+][url-inventory-hud-plus] `✔️` | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
@@ -28,8 +28,10 @@
 | [Sodium][url-sodium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [Sodium Extra][url-sodium-extra] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
 | [Sound Physics Remastered][url-sound-physics-remastered] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
+| [Status Effect Bars][url-status-effect-bars] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [A5b84][url-a5b84] | __Modrinth__ |
 | [Visuality][url-visuality] `✔️` | 1.21.5 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
 | [Wavey Capes][url-wavey-capes] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [Zoomify][url-zoomify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 
 ## Additional credits
 - [__Cardistymo__][url-cardistymo]
@@ -45,6 +47,7 @@
 - [__Noxcrew__][url-noxcrew]
 - [__Pelotrio__][url-pelotrio]
 - [__sfPlayer1__][url-sfplayer1]
+- [__shedaniel__][url-shedaniel]
 - [__ThatGravyBoat__][url-thatgravyboat]
 - [__vicisacat__][url-vicisacat]
 
@@ -83,6 +86,7 @@
 [url-prospector]: <https://modrinth.com/user/Prospector>
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
+[url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-spaceagle17]: <https://modrinth.com/user/SpacEagle17>
 [url-terrarium]: <https://modrinth.com/organization/terrarium>
 [url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
@@ -126,6 +130,8 @@
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/fVbw1C7i/sodium-fabric-0.6.12%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
 [url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/2EyHcj8z/sound-physics-remastered-fabric-1.21.5-1.4.10.jar>
+[url-status-effect-bars]: <https://cdn.modrinth.com/data/x02cBj9Y/versions/z9zySjgX/status-effect-bars-1.0.8.jar>
 [url-unbound]: <https://cdn.modrinth.com/data/R6NEzAwj/versions/Z1zqMzjh/ComplementaryUnbound_r5.4.zip>
 [url-visuality]: <https://cdn.modrinth.com/data/rI0hvYcd/versions/W7vlELm0/visuality-0.7.10%2B1.21.5.jar>
 [url-wavey-capes]: <https://cdn.modrinth.com/data/kYuIpRLv/versions/A8HBEAVx/waveycapes-fabric-1.5.2-mc1.21.5.jar>
+[url-zoomify]: <https://cdn.modrinth.com/data/w7ThoJFB/versions/RKRjd2h1/Zoomify-2.14.2%2B1.21.3.jar>
