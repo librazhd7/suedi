@@ -1,5 +1,5 @@
-| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api]) | Author | CDN |
-|-----|-------- |--------------|--------|-----|
+| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
+|-----|---------|--------------------------------------------------------|--------|-----|
 | [Alternate Current][url-alternate-current] `✔️` | 1.21.5 | | [Space Walker][url-space-walker] | __Modrinth__ |
 | [AudioPlayer][url-audio-player] `✔️` | 1.21.5 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | [henkelmax][url-henkelmax] | __Modrinth__ |
 | [Axes are Weapons][url-axes-are-weapons] `✔️` | 1.21.5 | | [Fourmisain][url-fourmisain] | __Modrinth__ |
