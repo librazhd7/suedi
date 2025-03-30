@@ -28,6 +28,7 @@
 | [Sodium][url-sodium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [Sodium Extra][url-sodium-extra] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
 | [Sound Physics Remastered][url-sound-physics-remastered] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
+| [Stack To Nearby Chests][url-stack-to-nearby-chests] `✔️` | 1.21.5 | | [xiaocihua][url-xiaocihua] | __Modrinth__ |
 | [Status Effect Bars][url-status-effect-bars] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [A5b84][url-a5b84] | __Modrinth__ |
 | [Visuality][url-visuality] `✔️` | 1.21.5 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
 | [Wavey Capes][url-wavey-capes] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
@@ -64,7 +65,7 @@
 [url-cortex]: <https://modrinth.com/user/cortex>
 [url-crendgrim]: <https://modrinth.com/user/Crendgrim>
 [url-dmitrylovin]: <https://www.curseforge.com/members/dmitrylovin>
-[url-emingt]: <https://www.curseforge.com/members/EminGT>
+[url-emingt]: <https://modrinth.com/user/EminGT>
 [url-flashy-reese]: <https://modrinth.com/user/FlashyReese>
 [url-foundationgames]: <https://modrinth.com/user/FoundationGames>
 [url-fourmisain]: <https://modrinth.com/user/Fourmisain>
@@ -94,6 +95,7 @@
 [url-tschipcraft]: <https://modrinth.com/user/tschipcraft>
 [url-tr7zw]: <https://modrinth.com/user/tr7zw>
 [url-vicisacat]: <https://modrinth.com/user/vicisacat>
+[url-xiaocihua]: <https://modrinth.com/user/xiaocihua>
 <!-- mods -->
 [url-3d-skin-layers]: <https://cdn.modrinth.com/data/zV5r3pPn/versions/qFwcwulG/skinlayers3d-fabric-1.7.5-mc1.21.5.jar>
 [url-advancement-plaques]: <https://cdn.modrinth.com/data/9NM0dXub/versions/v6oG7aah/AdvancementPlaques-1.21.4-fabric-1.6.9.jar>
@@ -130,6 +132,7 @@
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/fVbw1C7i/sodium-fabric-0.6.12%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
 [url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/2EyHcj8z/sound-physics-remastered-fabric-1.21.5-1.4.10.jar>
+[url-stack-to-nearby-chests]: <https://cdn.modrinth.com/data/HtGckJVc/versions/VfGxJEGR/stack-to-nearby-chests-mc1.21.5-0.5.12.jar>
 [url-status-effect-bars]: <https://cdn.modrinth.com/data/x02cBj9Y/versions/z9zySjgX/status-effect-bars-1.0.8.jar>
 [url-unbound]: <https://cdn.modrinth.com/data/R6NEzAwj/versions/Z1zqMzjh/ComplementaryUnbound_r5.4.zip>
 [url-visuality]: <https://cdn.modrinth.com/data/rI0hvYcd/versions/W7vlELm0/visuality-0.7.10%2B1.21.5.jar>
