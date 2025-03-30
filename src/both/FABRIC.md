@@ -1,5 +1,5 @@
-| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api])| Author | CDN |
-|-----|---------|--------------------------------------------------|--------|-----|
+| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
+|-----|---------|--------------------------------------------------------|--------|-----|
 | [Advanced Netherite][url-advanced-netherite] `✔️` | 1.21.5 | | [Autovw][url-Autovw] | __Modrinth__ |
 | [AppleSkin][url-appleskin] `❌` | 1.21.5 | | [squeek502][url-squeek502] | __Modrinth__ |
 | [bad packets][url-bad-packets] `✔️` | 1.21.5 | | [deirn][url-deirn] | __Modrinth__ |
