@@ -31,6 +31,7 @@
 | [ServerCore][url-servercore] `✔️` | 1.21.5 | | [Wesley1808][url-wesley1808] | __Modrinth__ |
 | [spark][url-spark] `✔️` | 1.21.5 | | [lucko][url-lucko] | __Modrinth__ |
 | [Tech Reborn][url-tech-reborn] `✔️` | 1.21.5 | [Reborn Core][url-reborn-core] `❌` | [modmuss50][url-modmuss50] | __CurseForge__ |
+| [Too Many Paintings!][url-too-many-paintings] `✔️` | 1.21.5 | | [Axperty][url-axperty] | __Modrinth__ |
 | [Tough As Nails][url-tough-as-nails] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
 | [Visual Workbench][url-visual-workbench] `❌` | 1.21.5 | [Forge Config API Port][url-forge-config-api-port] `✔️`, [Puzzles Lib][url-puzzles-lib] `❌` | [Fuzs][url-fuzs] | __Modrinth__ |
 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
@@ -58,6 +59,7 @@
 [url-astei]: <https://modrinth.com/user/astei>
 [url-autovw]: <https://modrinth.com/user/Autovw>
 [url-aizistral]: <https://modrinth.com/user/Aizistral>
+[url-axperty]: <https://modrinth.com/user/Axperty>
 [url-basiqueevangelist]: <https://modrinth.com/user/BasiqueEvangelist>
 [url-blaytheninth]: <https://modrinth.com/user/BlayTheNinth>
 [url-blodhgarm]: <https://modrinth.com/user/Blodhgarm>
@@ -141,6 +143,7 @@
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar>
 [url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6347878>
 [url-terrablender]: <https://cdn.modrinth.com/data/kkmrDlKT/versions/Gj73DHgF/TerraBlender-fabric-1.21.5-5.0.0.0.jar>
+[url-too-many-paintings]: <https://cdn.modrinth.com/data/T8Fpxcl7/versions/cVYSDB2y/toomanypaintings-24.11.29-1.21.3-fabric.jar>
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/8NDcr1mc/voicechat-fabric-1.21.5-2.5.28.jar>
 [url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
