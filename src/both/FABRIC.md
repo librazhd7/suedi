@@ -10,7 +10,7 @@
 | [EmoteCraft][url-emotecraft] `✔️` | 1.21.5 | | [KosmX][url-kosmx] | __Modrinth__ |
 | [EnhancedVisuals][url-enhancedvisuals] `✔️` | 1.21.5 | [CreativeCore][url-creativecore] `✔️` | [creativemd][url-creativemd] | __Modrinth__ |
 | [Explorer's Compass][url-explorers-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
-| [FerriteCore][url-ferritecore] `✔️` | 1.21.5 | | [malte0811][url-malte0811] | __Modrinth__ |
+| [FerriteCore][url-ferritecore] `❌` | 1.21.5 | | [malte0811][url-malte0811] | __Modrinth__ |
 | [Fish of Thieves][url-fish-of-thieves] `❌` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [SteveKunG][url-stevekung] | __Modrinth__ |
 | [Jade][url-jade] `✔️` | 1.21.5 | | [Snownee][url-snownee] | __Modrinth__ |
 | [Jade Addons][url-jade-addons] `✔️` | 1.21.5 | | [Snownee][url-snownee] | __Modrinth__ |
@@ -20,7 +20,7 @@
 | [ModernFix][url-modernfix] `❌` | 1.21.5 | | [embeddedt][url-embeddedt] | __Modrinth__ |
 | [Nature's Compass][url-natures-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Neutral Animals][url-neutral-animals] `❌` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [oωo][url-owo-lib] `❌` | [SmushyTaco][url-smushytaco] | __Modrinth__ |
-| [No Chat Reports][url-no-chat-reports] `✔️` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
+| [No Chat Reports][url-no-chat-reports] `❌` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
 | [OpenBlocks Elevator][url-openblocks-elevator] `❌` | 1.21.5 | | [vsngarcia][url-vsngarcia] | __CurseForge__ |
 | [Roughly Enough Items][url-roughly-enough-items] `❌` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [Serene Seasons][url-serene-seasons] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
