@@ -1,5 +1,5 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
-|-----|---------|---------------------------------------------------|--------|-----|
+|-----|---------|--------------------------------------------------------|--------|-----|
 | [3D Skin Layers][url-3d-skin-layers] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Advancement Plaques][url-advancement-plaques] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌` | [Grend][url-grend] | __Modrinth__ |
 | [Athena][url-athena] `❌` | 1.21.5 | | [Terrarium][url-terrarium] | __Modrinth__ |
