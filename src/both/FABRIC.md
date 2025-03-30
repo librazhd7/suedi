@@ -10,7 +10,7 @@
 | [EmoteCraft][url-emotecraft] `✔️` | 1.21.5 | | [KosmX][url-kosmx] | __Modrinth__ |
 | [EnhancedVisuals][url-enhancedvisuals] `❌` | 1.21.5 | [CreativeCore][url-creativecore] `❌` | [creativemd][url-creativemd] | __Modrinth__ |
 | [Explorer's Compass][url-explorers-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
-| [FerriteCore][url-ferritecore] `❌` | 1.21.5 | | [malte0811][url-malte0811] | __Modrinth__ |
+| [FerriteCore][url-ferritecore] `✔️` | 1.21.5 | | [malte0811][url-malte0811] | __Modrinth__ |
 | [Fish of Thieves][url-fish-of-thieves] `❌` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [SteveKunG][url-stevekung] | __Modrinth__ |
 | [Jade][url-jade] `✔️` | 1.21.5 | | [Snownee][url-snownee] | __Modrinth__ |
 | [Jade Addons][url-jade-addons] `✔️` | 1.21.5 | | [Snownee][url-snownee] | __Modrinth__ |
@@ -112,7 +112,7 @@
 [url-explorers-compass]: <https://cdn.modrinth.com/data/RV1qfVQ8/versions/UOwcEqa6/ExplorersCompass-1.21.5-2.2.6-fabric.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
 [url-fabric-language-kotlin]: <https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar>
-[url-ferritecore]: <https://cdn.modrinth.com/data/uXXizFIs/versions/IPM0JlHd/ferritecore-7.1.1-fabric.jar>
+[url-ferritecore]: <https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar>
 [url-fish-of-thieves]: <https://cdn.modrinth.com/data/BzOTnuqM/versions/L7kKDJaE/fish_of_thieves-mc1.21.4-v4.0.3-fabric.jar>
 [url-forge-config-api-port]: <https://cdn.modrinth.com/data/ohNO6lps/versions/mlQdrgSO/ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar>
 [url-glitchcore]: <https://cdn.modrinth.com/data/s3dmwKy5/versions/gBxcKjMS/GlitchCore-fabric-1.21.4-2.3.0.4.jar>
