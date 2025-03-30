@@ -1,7 +1,7 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api])| Author | CDN |
 |-----|---------|--------------------------------------------------|--------|-----|
 | [Advanced Netherite][url-advanced-netherite] `✔️` | 1.21.5 | | [Autovw][url-Autovw] | __Modrinth__ |
-| [AppleSkin][url-appleskin] `✔️` | 1.21.5 | | [squeek502][url-squeek502] | __Modrinth__ |
+| [AppleSkin][url-appleskin] `❌` | 1.21.5 | | [squeek502][url-squeek502] | __Modrinth__ |
 | [bad packets][url-bad-packets] `✔️` | 1.21.5 | | [deirn][url-deirn] | __Modrinth__ |
 | [Biomes O' Plenty][url-biomes-o-plenty] `❌` | 1.21.5 | [TerraBlender][url-terrablender] `✔️` | [Forstride][url-Forstride] | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
