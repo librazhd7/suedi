@@ -2,8 +2,8 @@
 |-----|---------|--------------------------------------------------------|--------|-----|
 | [3D Skin Layers][url-3d-skin-layers] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Advancement Plaques][url-advancement-plaques] `❌` | 1.21.5 | [Iceberg][url-iceberg] `❌` | [Grend][url-grend] | __Modrinth__ |
-| [Athena][url-athena] `❌` | 1.21.5 | | [Terrarium][url-terrarium] | __Modrinth__ |
 | [BadOptimizations][url-bad-optimizations] `✔️` | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
+| [Bobby][url-bobby] `✔️` | 1.21.5 | | [Johni0702][url-johni0702] | __Modrinth__ |
 | [Capes][url-capes] `✔️` | 1.21.5 | | [caelthecolher][url-caelthecolher] | __Modrinth__ |
 | [Chat Notify][url-chat-notify] `✔️` | 1.21.5 | | [NotRyken][url-notryken] | __Modrinth__ |
 | [Controlify][url-controlify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
@@ -15,6 +15,7 @@
 | [Entity Culling][url-entity-culling] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
 | [Euphoria Patches][url-euphoria-patches] `✔️` | 1.21.5 | [Reimagined][url-reimagined]/[Unbound][url-unbound] `✔️` | [SpacEagle17][url-spaceagle17] | __Modrinth__ |
 | [Exordium][url-exordium] `❌` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
+| [Falling Leaves][url-falling-leaves] `✔️` | 1.21.5 | | [Fourmisain][url-fourmisain] | __Modrinth__ |
 | [ImmediatelyFast][url-immediately-fast] `✔️` | 1.21.5 | | [RaphiMC][url-raphimc] | __Modrinth__ |
 | [Inventory HUD+][url-inventory-hud-plus] `✔️` | 1.21.5 | | [dmitrylovin][url-dmitrylovin] | __CurseForge__ |
 | [Iris Shaders][url-iris-shaders] `✔️` | 1.21.5 | | [coderbot][url-coderbot] | __Modrinth__ |
@@ -38,8 +39,8 @@
 | [Zoomify][url-zoomify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 
 ## Additional credits
+- [__BrekiTomasson__][url-brekitomasson]
 - [__Cardistymo__][url-cardistymo]
-- [__CodexAdrian__][url-codexadrian]
 - [__EminGT__][url-emingt]
 - [__Fourmisain__][url-fourmisain]
 - [__IMS__][url-ims]
@@ -50,9 +51,9 @@
 - [__motschen__][url-motschen]
 - [__Noxcrew__][url-noxcrew]
 - [__Pelotrio__][url-pelotrio]
+- [__randommcsomethin__][url-randommcsomethin]
 - [__sfPlayer1__][url-sfplayer1]
 - [__shedaniel__][url-shedaniel]
-- [__ThatGravyBoat__][url-thatgravyboat]
 - [__vicisacat__][url-vicisacat]
 
 <!-- loaders -->
@@ -60,12 +61,12 @@
 <!-- authors -->
 [url-a5b84]: <https://modrinth.com/user/A5b84>
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
+[url-brekitomasson]: <https://modrinth.com/user/BrekiTomasson>
 [url-caelthecolher]: <https://modrinth.com/user/caelthecolher>
 [url-cardistymo]: <https://modrinth.com/user/cardistymo>
 [url-chaosyr]: <https://modrinth.com/user/Chaosyr>
 [url-chrrs]: <https://modrinth.com/user/chrrs>
 [url-coderbot]: <https://modrinth.com/user/coderbot>
-[url-codexadrian]: <https://modrinth.com/user/CodexAdrian>
 [url-cortex]: <https://modrinth.com/user/cortex>
 [url-crendgrim]: <https://modrinth.com/user/Crendgrim>
 [url-dmitrylovin]: <https://www.curseforge.com/members/dmitrylovin>
@@ -79,6 +80,7 @@
 [url-isuewo]: <https://modrinth.com/user/isuewo>
 [url-isxander]: <https://modrinth.com/user/isxander>
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
+[url-johni0702]: <https://modrinth.com/user/Johni0702>
 [url-juliand665]: <https://modrinth.com/user/juliand665>
 [url-katietheqt]: <https://modrinth.com/user/katietheqt>
 [url-kosmomoustache]: <https://modrinth.com/user/KosmoMoustache>
@@ -91,12 +93,11 @@
 [url-pelotrio]: <https://modrinth.com/user/Pelotrio>
 [url-pinkgoosik]: <https://modrinth.com/user/PinkGoosik>
 [url-prospector]: <https://modrinth.com/user/Prospector>
+[url-randommcsomethin]: <https://modrinth.com/user/randommcsomethin>
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-spaceagle17]: <https://modrinth.com/user/SpacEagle17>
-[url-terrarium]: <https://modrinth.com/organization/terrarium>
-[url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
 [url-thosea]: <https://modrinth.com/user/thosea>
 [url-tschipcraft]: <https://modrinth.com/user/tschipcraft>
 [url-tr7zw]: <https://modrinth.com/user/tr7zw>
@@ -105,8 +106,8 @@
 <!-- mods -->
 [url-3d-skin-layers]: <https://cdn.modrinth.com/data/zV5r3pPn/versions/qFwcwulG/skinlayers3d-fabric-1.7.5-mc1.21.5.jar>
 [url-advancement-plaques]: <https://cdn.modrinth.com/data/9NM0dXub/versions/v6oG7aah/AdvancementPlaques-1.21.4-fabric-1.6.9.jar>
-[url-athena]: <https://cdn.modrinth.com/data/b1ZV3DIJ/versions/Ia97dAC3/athena-fabric-1.21.4-4.2.0.jar>
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
+[url-bobby]: <https://cdn.modrinth.com/data/M08ruV16/versions/FdlWKxsL/bobby-5.2.7%2Bmc1.21.5.jar>
 [url-capes]: <https://cdn.modrinth.com/data/89Wsn8GD/versions/htKsCP2s/capes-1.5.5%2B1.21.5-fabric.jar>
 [url-chat-notify]: <https://cdn.modrinth.com/data/Iudurxl8/versions/yz9Yw67R/chatnotify-fabric-2.4.3%2B1.21.5.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
@@ -120,6 +121,7 @@
 [url-euphoria-patches]: <https://cdn.modrinth.com/data/4H6sumDB/versions/tihKabok/EuphoriaPatcher-1.5.2-r5.4-fabric.jar>
 [url-exordium]: <https://cdn.modrinth.com/data/DynYZEae/versions/map5Ojxn/exordium-fabric-1.4.1-mc1.21.4.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
+[url-falling-leaves]: <https://cdn.modrinth.com/data/WhbRG4iK/versions/vYAKnvr4/fallingleaves-2.0.0%2B1.21.5.jar>
 [url-iceberg]: <https://cdn.modrinth.com/data/5faXoLqX/versions/JQsyoArU/Iceberg-1.21.4-fabric-1.2.13.jar>
 [url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/2v1FetLC/ImmediatelyFast-Fabric-1.9.1%2B1.21.5.jar>
 [url-inventory-hud-plus]: <https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/download/6355978>
