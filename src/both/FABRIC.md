@@ -22,6 +22,7 @@
 | [Neutral Animals][url-neutral-animals] `❌` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [oωo][url-owo-lib] `❌` | [SmushyTaco][url-smushytaco] | __Modrinth__ |
 | [No Chat Reports][url-no-chat-reports] `✔️` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
 | [OpenBlocks Elevator][url-openblocks-elevator] `❌` | 1.21.5 | | [vsngarcia][url-vsngarcia] | __CurseForge__ |
+| [Ping Wheel][url-ping-wheel] `✔️` | 1.21.5 | | [Luken][url-luken] | __Modrinth__ |
 | [Realistic Bees][url-realistic-bees] `✔️` | 1.21.5 | [Collective][url-collective] `✔️` | [Serilum][url-serilum] | __CurseForge__ |
 | [Roughly Enough Items][url-roughly-enough-items] `❌` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [ScalableLux][url-scalablelux] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
@@ -31,6 +32,7 @@
 | [Tech Reborn][url-tech-reborn] `✔️` | 1.21.5 | [Reborn Core][url-reborn-core] `❌` | [modmuss50][url-modmuss50] | __CurseForge__ |
 | [Too Many Paintings!][url-too-many-paintings] `✔️` | 1.21.5 | | [Axperty][url-axperty] | __Modrinth__ |
 | [Tough As Nails][url-tough-as-nails] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
+| [TrashSlot][url-trashslot] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [Visual Workbench][url-visual-workbench] `❌` | 1.21.5 | [Forge Config API Port][url-forge-config-api-port] `✔️`, [Puzzles Lib][url-puzzles-lib] `✔️` | [Fuzs][url-fuzs] | __Modrinth__ |
 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
 | [Skin Shuffle][url-skin-shuffle] `✔️` | 1.21.5 | | [IMB11][url-imb11] | __Modrinth__ |
@@ -46,9 +48,11 @@
 - [__BreadLoaf__][url-breadloaf]
 - [__glisco__][url-glisco]
 - [__robotkoer__][url-robotkoer]
+- [__RXJpaw__][url-rxjpaw]
 - [__sfPlayer1__][url-sfplayer1]
 - [__shedaniel__][url-shedaniel]
 - [__Stridey__][url-stridey]
+- [__tsomic__][url-tsomic]
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
@@ -80,11 +84,13 @@
 [url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
 [url-kosmx]: <https://modrinth.com/user/KosmX>
 [url-lucko]: <https://modrinth.com/user/lucko>
+[url-luken]: <https://modrinth.com/user/luken>
 [url-malte0811]: <https://modrinth.com/user/malte0811>
 [url-minenash]: <https://modrinth.com/user/Minenash>
 [url-modmuss50]: <https://modrinth.com/user/modmuss50>
 [url-mysticdrew]: <https://modrinth.com/user/mysticdrew>
 [url-robotkoer]: <https://modrinth.com/user/robotkoer>
+[url-rxjpaw]: <https://modrinth.com/user/rxjpaw>
 [url-serilum]: <https://modrinth.com/user/Serilum>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-shedaniel]: <https://modrinth.com/user/shedaniel>
@@ -94,6 +100,7 @@
 [url-stevekung]: <https://modrinth.com/user/SteveKunG>
 [url-stridey]: <https://modrinth.com/user/Stridey>
 [url-squeek502]: <https://modrinth.com/user/squeek502>
+[url-tsomic]: <https://modrinth.com/user/tsomic>
 [url-vsngarcia]: <https://www.curseforge.com/members/vsngarcia>
 [url-wesley1808]: <https://www.curseforge.com/members/Wesley1808>
 <!-- mods -->
@@ -129,6 +136,7 @@
 [url-no-chat-reports]: <https://cdn.modrinth.com/data/qQyHxfxd/versions/CHlHxkvf/NoChatReports-FABRIC-1.21.5-v2.12.0.jar>
 [url-openblocks-elevator]: <https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/download/5990832>
 [url-owo-lib]: <https://cdn.modrinth.com/data/ccKDOlHs/versions/kNCPPFb2/owo-lib-0.12.20%2B1.21.4.jar>
+[url-ping-wheel]: <https://cdn.modrinth.com/data/QQXAdCzh/versions/USEtRrdw/Ping-Wheel-1.10.2-fabric-1.21.5.jar>
 [url-puzzles-lib]: <https://cdn.modrinth.com/data/QAGBst4M/versions/fVfkpTP8/PuzzlesLib-v21.5.4-1.21.5-Fabric.jar>
 [url-reborn-core]: <https://www.curseforge.com/minecraft/mc-mods/reborncore/download/6136161>
 [url-realistic-bees]: <https://cdn.modrinth.com/data/tG6HkcWx/versions/GVwEXbqy/realisticbees-1.21.5-4.1.jar>
@@ -141,6 +149,7 @@
 [url-terrablender]: <https://cdn.modrinth.com/data/kkmrDlKT/versions/Gj73DHgF/TerraBlender-fabric-1.21.5-5.0.0.0.jar>
 [url-too-many-paintings]: <https://cdn.modrinth.com/data/T8Fpxcl7/versions/cVYSDB2y/toomanypaintings-24.11.29-1.21.3-fabric.jar>
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
+[url-trashslot]: <https://cdn.modrinth.com/data/vRYk0bv7/versions/DGHuEq8F/trashslot-fabric-1.21.5-21.5.1.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/OzXC5Efi/voicechat-fabric-1.21.5-2.5.29.jar>
 [url-skin-shuffle]: <https://cdn.modrinth.com/data/3s19I5jr/versions/Kkd1UTJh/SkinShuffle-2.8.1%2B1.21.5.jar>
 [url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
