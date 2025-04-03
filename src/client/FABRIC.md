@@ -123,7 +123,7 @@
 [url-iceberg]: <https://cdn.modrinth.com/data/5faXoLqX/versions/JQsyoArU/Iceberg-1.21.4-fabric-1.2.13.jar>
 [url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/2v1FetLC/ImmediatelyFast-Fabric-1.9.1%2B1.21.5.jar>
 [url-inventory-hud-plus]: <https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge/download/6355978>
-[url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/N0ln8GKQ/iris-fabric-1.8.10%2Bmc1.21.5.jar>
+[url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/U6evbjd0/iris-fabric-1.8.11%2Bmc1.21.5.jar>
 [url-legendary-tooltips]: <https://cdn.modrinth.com/data/atHH8NyV/versions/7xI8xla5/LegendaryTooltips-1.21.4-fabric-1.5.1.jar>
 [url-make-bubbles-pop]: <https://cdn.modrinth.com/data/gPCdW0Wr/versions/26unk04q/make_bubbles_pop-0.3.1-fabric-mc1.21.2-1.21.4.jar>
 [url-midnightlib]: <https://cdn.modrinth.com/data/codAaoxh/versions/F6Wo2W7o/midnightlib-1.7.0-fabric%2B1.21.4.jar>
