@@ -1,53 +1,34 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
 |-----|---------|--------------------------------------------------------|--------|-----|
-| [Advanced Netherite][url-advanced-netherite] `✔️` | 1.21.5 | | [Autovw][url-Autovw] | __Modrinth__ |
-| [Animal Feeding Trough][url-animal-feeding-trough] `✔️` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [Slexom][url-slexom] | __Modrinth__ |
 | [AppleSkin][url-appleskin] `❌` | 1.21.5 | | [squeek502][url-squeek502] | __Modrinth__ |
 | [bad packets][url-bad-packets] `✔️` | 1.21.5 | | [deirn][url-deirn] | __Modrinth__ |
-| [Biomes O' Plenty][url-biomes-o-plenty] `❌` | 1.21.5 | [TerraBlender][url-terrablender] `✔️` | [Forstride][url-Forstride] | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
 | [Debugify][url-debugify] `❌` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] `✔️` | 1.21.5 | | [KosmX][url-kosmx] | __Modrinth__ |
 | [EnhancedVisuals][url-enhancedvisuals] `❌` | 1.21.5 | [CreativeCore][url-creativecore] `❌` | [creativemd][url-creativemd] | __Modrinth__ |
-| [Explorer's Compass][url-explorers-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [FerriteCore][url-ferritecore] `✔️` | 1.21.5 | | [malte0811][url-malte0811] | __Modrinth__ |
-| [Fish of Thieves][url-fish-of-thieves] `❌` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [SteveKunG][url-stevekung] | __Modrinth__ |
 | [Jade][url-jade] `✔️` | 1.21.5 | | [Snownee][url-snownee] | __Modrinth__ |
 | [JourneyMap][url-journeymap] `✔️` | 1.21.5 | | [mysticdrew][url-mysticdrew] | __Modrinth__ |
 | [Krypton][url-krypton] `✔️` | 1.21.5 | | [astei][url-astei] | __Modrinth__ |
 | [Lithium][url-lithium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [ModernFix][url-modernfix] `❌` | 1.21.5 | | [embeddedt][url-embeddedt] | __Modrinth__ |
 | [Monsters in the Closet][url-monsters-in-the-closet] `✔️` | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
-| [Nature's Compass][url-natures-compass] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
-| [Neutral Animals][url-neutral-animals] `❌` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [oωo][url-owo-lib] `❌` | [SmushyTaco][url-smushytaco] | __Modrinth__ |
 | [No Chat Reports][url-no-chat-reports] `✔️` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
-| [OpenBlocks Elevator][url-openblocks-elevator] `❌` | 1.21.5 | | [vsngarcia][url-vsngarcia] | __CurseForge__ |
 | [Ping Wheel][url-ping-wheel] `✔️` | 1.21.5 | | [Luken][url-luken] | __Modrinth__ |
-| [Realistic Bees][url-realistic-bees] `✔️` | 1.21.5 | [Collective][url-collective] `✔️` | [Serilum][url-serilum] | __CurseForge__ |
 | [Roughly Enough Items][url-roughly-enough-items] `❌` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [ScalableLux][url-scalablelux] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
-| [Serene Seasons][url-serene-seasons] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
 | [ServerCore][url-servercore] `✔️` | 1.21.5 | | [Wesley1808][url-wesley1808] | __Modrinth__ |
 | [spark][url-spark] `✔️` | 1.21.5 | | [lucko][url-lucko] | __Modrinth__ |
 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
 | [Skin Shuffle][url-skin-shuffle] `✔️` | 1.21.5 | | [IMB11][url-imb11] | __Modrinth__ |
-| [Tech Reborn][url-tech-reborn] `✔️` | 1.21.5 | [Reborn Core][url-reborn-core] `❌` | [modmuss50][url-modmuss50] | __CurseForge__ |
-| [Too Many Paintings!][url-too-many-paintings] `✔️` | 1.21.5 | | [Axperty][url-axperty] | __Modrinth__ |
-| [Tough As Nails][url-tough-as-nails] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
-| [TrashSlot][url-trashslot] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [Very Many Players][url-very-many-players] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
-| [Visual Workbench][url-visual-workbench] `✔️` | 1.21.5 | [Forge Config API Port][url-forge-config-api-port] `✔️`, [Puzzles Lib][url-puzzles-lib] `✔️` | [Fuzs][url-fuzs] | __Modrinth__ |
-| [Waddles][url-waddles] `✔️` | 1.21.5 | | [Girafi][url-girafi] | __CurseForge__ |
-| [Waystones][url-waystones] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [YACL][url-yacl] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 
 ## Additional credits
 - [__2No2Name__][url-2no2name]
 - [__astei__][url-astei]
-- [__BasiqueEvangelist__][url-basiqueevangelist]
-- [__Blodhgarm__][url-blodhgarm]
 - [__BreadLoaf__][url-breadloaf]
-- [__glisco__][url-glisco]
+- [__modmuss50__][url-modmuss50]
 - [__robotkoer__][url-robotkoer]
 - [__RXJpaw__][url-rxjpaw]
 - [__sfPlayer1__][url-sfplayer1]
@@ -59,25 +40,15 @@
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
 <!-- authors -->
 [url-2no2name]: <https://modrinth.com/user/2No2Name>
-[url-adubbz]: <https://modrinth.com/user/Adubbz>
 [url-astei]: <https://modrinth.com/user/astei>
-[url-autovw]: <https://modrinth.com/user/Autovw>
 [url-aizistral]: <https://modrinth.com/user/Aizistral>
 [url-axperty]: <https://modrinth.com/user/Axperty>
-[url-basiqueevangelist]: <https://modrinth.com/user/BasiqueEvangelist>
-[url-blaytheninth]: <https://modrinth.com/user/BlayTheNinth>
-[url-blodhgarm]: <https://modrinth.com/user/Blodhgarm>
 [url-breadloaf]: <https://modrinth.com/user/BreadLoaf>
-[url-chaosyr]: <https://modrinth.com/user/Chaosyr>
 [url-creativemd]: <https://modrinth.com/user/creativemd>
 [url-deirn]: <https://modrinth.com/user/deirn>
 [url-dima-dencep]: <https://modrinth.com/user/dima_dencep>
 [url-duplexsystem]: <https://modrinth.com/user/duplexsystem>
 [url-embeddedt]: <https://modrinth.com/user/embeddedt>
-[url-forstride]: <https://modrinth.com/user/Forstride>
-[url-fuzs]: <https://modrinth.com/user/Fuzs>
-[url-girafi]: <https://www.curseforge.com/members/girafi>
-[url-glisco]: <https://modrinth.com/user/glisco>
 [url-henkelmax]: <https://modrinth.com/user/henkelmax>
 [url-imb11]: <https://modrinth.com/user/IMB11>
 [url-ishland]: <https://modrinth.com/user/ishland>
@@ -92,69 +63,39 @@
 [url-mysticdrew]: <https://modrinth.com/user/mysticdrew>
 [url-robotkoer]: <https://modrinth.com/user/robotkoer>
 [url-rxjpaw]: <https://modrinth.com/user/rxjpaw>
-[url-serilum]: <https://modrinth.com/user/Serilum>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
 [url-shedaniel]: <https://modrinth.com/user/shedaniel>
-[url-slexom]: <https://modrinth.com/user/Slexom>
-[url-smushytaco]: <https://modrinth.com/user/SmushyTaco>
 [url-snownee]: <https://modrinth.com/user/Snownee>
-[url-stevekung]: <https://modrinth.com/user/SteveKunG>
 [url-stridey]: <https://modrinth.com/user/Stridey>
 [url-squeek502]: <https://modrinth.com/user/squeek502>
 [url-tsomic]: <https://modrinth.com/user/tsomic>
-[url-vsngarcia]: <https://www.curseforge.com/members/vsngarcia>
 [url-wesley1808]: <https://www.curseforge.com/members/Wesley1808>
 <!-- mods -->
-[url-advanced-netherite]: <https://cdn.modrinth.com/data/CFX9ftUJ/versions/ktpNQJ54/advancednetherite-fabric-2.2.3-1.21.5.jar>
-[url-animal-feeding-trough]: <https://cdn.modrinth.com/data/bRFWnJ87/versions/QaRs9tK6/animal_feeding_trough-1.1.4%2B1.21.5.jar>
 [url-appleskin]: <https://cdn.modrinth.com/data/EsAfCjCV/versions/cHQjeYVS/appleskin-fabric-mc1.21.3-3.0.6.jar>
 [url-architectury-api]: <https://cdn.modrinth.com/data/lhGA9TYQ/versions/8qVhRqMz/architectury-16.0.3-fabric.jar>
 [url-bad-packets]: <https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar>
-[url-balm]: <https://cdn.modrinth.com/data/MBAkmtvl/versions/GsLZWhdZ/balm-fabric-1.21.5-21.5.9.jar>
-[url-biomes-o-plenty]: <https://cdn.modrinth.com/data/HXF82T3G/versions/fnWSrWtY/BiomesOPlenty-fabric-1.21.4-21.4.0.22.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
-[url-collective]: <https://cdn.modrinth.com/data/e0M1UDsY/versions/i0vDgxqx/collective-1.21.5-7.99.jar>
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/Wh5CxZTp/c2me-fabric-mc1.21.5-0.3.2%2Bbeta.1.0.jar>
 [url-creativecore]: <https://cdn.modrinth.com/data/OsZiaDHq/versions/ixu9AXyq/CreativeCore_FABRIC_v2.12.35_mc1.21.4.jar>
 [url-debugify]: <https://cdn.modrinth.com/data/QwxR6Gcd/versions/yjpSgPEw/Debugify-1.21.4%2B1.1.jar>
 [url-emotecraft]: <https://cdn.modrinth.com/data/pZ2wrerK/versions/fqyj29ZM/emotecraft-fabric-for-MC1.21.5-rc1-2.6.0-a.build.87.jar>
 [url-enhancedvisuals]: <https://cdn.modrinth.com/data/KjL0jE2w/versions/2HAAAG2J/EnhancedVisuals_FABRIC_v1.8.17_mc1.21.4.jar>
-[url-explorers-compass]: <https://cdn.modrinth.com/data/RV1qfVQ8/versions/UOwcEqa6/ExplorersCompass-1.21.5-2.2.6-fabric.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
 [url-fabric-language-kotlin]: <https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar>
 [url-ferritecore]: <https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar>
-[url-fish-of-thieves]: <https://cdn.modrinth.com/data/BzOTnuqM/versions/L7kKDJaE/fish_of_thieves-mc1.21.4-v4.0.3-fabric.jar>
-[url-forge-config-api-port]: <https://cdn.modrinth.com/data/ohNO6lps/versions/mlQdrgSO/ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar>
-[url-glitchcore]: <https://cdn.modrinth.com/data/s3dmwKy5/versions/gBxcKjMS/GlitchCore-fabric-1.21.4-2.3.0.4.jar>
 [url-jade]: <https://cdn.modrinth.com/data/nvQzSEkH/versions/OD4lLSAh/Jade-1.21.5-Fabric-18.0.1.jar>
 [url-journeymap]: <https://cdn.modrinth.com/data/lfHFW1mp/versions/SqO7bu9L/journeymap-fabric-1.21.5-6.0.0-beta.43.jar>
 [url-krypton]: <https://cdn.modrinth.com/data/fQEb0iXm/versions/neW85eWt/krypton-0.2.9.jar>
 [url-lithium]: <https://cdn.modrinth.com/data/gvQqBUqZ/versions/nhc57Td2/lithium-fabric-0.16.0%2Bmc1.21.5.jar>
 [url-modernfix]: <https://cdn.modrinth.com/data/nmDcB62a/versions/ZGxQddYr/modernfix-fabric-5.20.3%2Bmc1.21.4.jar>
 [url-monsters-in-the-closet]: <https://cdn.modrinth.com/data/GMA8jFBD/versions/57WSUc6t/monsters-in-the-closet-1.0.3%2B1.21.2.jar>
-[url-natures-compass]: <https://cdn.modrinth.com/data/fPetb5Kh/versions/FtXoG4cB/NaturesCompass-1.21.5-2.2.8-fabric.jar>
-[url-neutral-animals]: <https://cdn.modrinth.com/data/w1AXlLHd/versions/Uzy8fWaG/neutral-animals-1.2.10.jar>
 [url-no-chat-reports]: <https://cdn.modrinth.com/data/qQyHxfxd/versions/CHlHxkvf/NoChatReports-FABRIC-1.21.5-v2.12.0.jar>
-[url-openblocks-elevator]: <https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/download/5990832>
-[url-owo-lib]: <https://cdn.modrinth.com/data/ccKDOlHs/versions/kNCPPFb2/owo-lib-0.12.20%2B1.21.4.jar>
 [url-ping-wheel]: <https://cdn.modrinth.com/data/QQXAdCzh/versions/USEtRrdw/Ping-Wheel-1.10.2-fabric-1.21.5.jar>
-[url-puzzles-lib]: <https://cdn.modrinth.com/data/QAGBst4M/versions/fVfkpTP8/PuzzlesLib-v21.5.4-1.21.5-Fabric.jar>
-[url-reborn-core]: <https://www.curseforge.com/minecraft/mc-mods/reborncore/download/6136161>
-[url-realistic-bees]: <https://cdn.modrinth.com/data/tG6HkcWx/versions/GVwEXbqy/realisticbees-1.21.5-4.1.jar>
 [url-roughly-enough-items]: <https://cdn.modrinth.com/data/nfn13YXA/versions/EJdFrEjD/RoughlyEnoughItems-18.0.800-fabric.jar>
 [url-scalablelux]: <https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar>
-[url-serene-seasons]: <https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar>
 [url-servercore]: <https://cdn.modrinth.com/data/4WWQxlQP/versions/whVgWjOT/servercore-fabric-1.5.9%2B1.21.5.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/OzXC5Efi/voicechat-fabric-1.21.5-2.5.29.jar>
 [url-skin-shuffle]: <https://cdn.modrinth.com/data/3s19I5jr/versions/Kkd1UTJh/SkinShuffle-2.8.1%2B1.21.5.jar>
-[url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6347878>
-[url-terrablender]: <https://cdn.modrinth.com/data/kkmrDlKT/versions/Gj73DHgF/TerraBlender-fabric-1.21.5-5.0.0.0.jar>
-[url-too-many-paintings]: <https://cdn.modrinth.com/data/T8Fpxcl7/versions/cVYSDB2y/toomanypaintings-24.11.29-1.21.3-fabric.jar>
-[url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
-[url-trashslot]: <https://cdn.modrinth.com/data/vRYk0bv7/versions/DGHuEq8F/trashslot-fabric-1.21.5-21.5.1.jar>
 [url-very-many-players]: <https://cdn.modrinth.com/data/wnEe9KBa/versions/S6IwIw0D/vmp-fabric-mc1.21.5-0.2.0%2Bbeta.7.197-all.jar>
-[url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/GLNQXUBq/VisualWorkbench-v21.5.0-1.21.5-Fabric.jar>
-[url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/download/6353427>
-[url-waystones]: <https://cdn.modrinth.com/data/LOpKHB2A/versions/ca46XnXg/waystones-fabric-1.21.5-21.5.1.jar>
 [url-yacl]: <https://cdn.modrinth.com/data/1eAoo2KR/versions/5yBEzonb/yet_another_config_lib_v3-3.6.6%2B1.21.5-fabric.jar>
