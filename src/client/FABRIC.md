@@ -2,7 +2,7 @@
 |-----|---------|--------------------------------------------------------|--------|-----|
 | [BadOptimizations][url-bad-optimizations] `✔️` | 1.21.5 | | [thosea][url-thosea] | __Modrinth__ |
 | [Bobby][url-bobby] `✔️` | 1.21.5 | | [Johni0702][url-johni0702] | __Modrinth__ |
-| [Capes][url-capes] `✔️` | 1.21.5 | | [caelthecolher][url-caelthecolher] | __Modrinth__ |
+| [Capes][url-capes] `✔️` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️` | [caelthecolher][url-caelthecolher] | __Modrinth__ |
 | [Controlify][url-controlify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [Dark Loading Screen][url-dark-loading-screen] `✔️` | 1.21.5 | | [A5b84][url-a5b84] | __Modrinth__ |
 | [Dynamic Crosshair][url-dynamic-crosshair] `✔️` | 1.21.5 | | [Crendgrim][url-crendgrim] | __Modrinth__ |
@@ -87,6 +87,7 @@
 [url-entity-culling]: <https://cdn.modrinth.com/data/NNAgCjsB/versions/29GV7fju/entityculling-fabric-1.7.4-mc1.21.5.jar>
 [url-exordium]: <https://cdn.modrinth.com/data/DynYZEae/versions/map5Ojxn/exordium-fabric-1.4.1-mc1.21.4.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
+[url-fabric-language-kotlin]: <https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar>
 [url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/2v1FetLC/ImmediatelyFast-Fabric-1.9.1%2B1.21.5.jar>
 [url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/U6evbjd0/iris-fabric-1.8.11%2Bmc1.21.5.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar>
