@@ -96,6 +96,6 @@
 [url-servercore]: <https://cdn.modrinth.com/data/4WWQxlQP/versions/whVgWjOT/servercore-fabric-1.5.9%2B1.21.5.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/OzXC5Efi/voicechat-fabric-1.21.5-2.5.29.jar>
-[url-skin-shuffle]: <https://cdn.modrinth.com/data/3s19I5jr/versions/Kkd1UTJh/SkinShuffle-2.8.1%2B1.21.5.jar>
+[url-skin-shuffle]: <https://cdn.modrinth.com/data/3s19I5jr/versions/Bq6CLihd/SkinShuffle-2.8.2%2B1.21.5.jar>
 [url-very-many-players]: <https://cdn.modrinth.com/data/wnEe9KBa/versions/S6IwIw0D/vmp-fabric-mc1.21.5-0.2.0%2Bbeta.7.197-all.jar>
 [url-yacl]: <https://cdn.modrinth.com/data/1eAoo2KR/versions/5yBEzonb/yet_another_config_lib_v3-3.6.6%2B1.21.5-fabric.jar>
