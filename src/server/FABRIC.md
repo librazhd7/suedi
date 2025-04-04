@@ -2,7 +2,7 @@
 |-----|---------|--------------------------------------------------------|--------|-----|
 | [Alternate Current][url-alternate-current] `✔️` | 1.21.5 | | [Space Walker][url-space-walker] | __Modrinth__ |
 | [AudioPlayer][url-audio-player] `✔️` | 1.21.5 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | [henkelmax][url-henkelmax] | __Modrinth__ |
-| [Axes are Weapons][url-axes-are-weapons] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [Fourmisain][url-fourmisain] | __Modrinth__ |
+| [Axes Are Weapons][url-axes-are-weapons] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [Fourmisain][url-fourmisain] | __Modrinth__ |
 | [Boids][url-boids] `✔️` | 1.21.5 | | [Tomate0613][url-tomate0613] | __Modrinth__ |
 | [CrashExploitFixer][url-crash-exploit-fixer] `❌` | 1.21.5 | | [DrexHD][url-drexhd] | __Modrinth__ |
 | [FallingTree][url-falling-tree] `✔️` | 1.21.5 | | [Rakambda][url-rakambda] | __Modrinth__ |
