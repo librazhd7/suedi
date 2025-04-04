@@ -140,7 +140,7 @@
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
 [url-reimagined]: <https://cdn.modrinth.com/data/HVnmMxH1/versions/b45ALGLG/ComplementaryReimagined_r5.4.zip>
 [url-scribble]: <https://cdn.modrinth.com/data/yXAvIk0x/versions/N99ennkW/Scribble-1.5.2%2Bmc1.21.5-fabric.jar>
-[url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/fVbw1C7i/sodium-fabric-0.6.12%2Bmc1.21.5.jar>
+[url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/DA250htH/sodium-fabric-0.6.13%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
 [url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/2EyHcj8z/sound-physics-remastered-fabric-1.21.5-1.4.10.jar>
 [url-stack-to-nearby-chests]: <https://cdn.modrinth.com/data/HtGckJVc/versions/VfGxJEGR/stack-to-nearby-chests-mc1.21.5-0.5.12.jar>
