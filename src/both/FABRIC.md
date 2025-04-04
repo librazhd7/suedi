@@ -14,6 +14,7 @@
 | [ModernFix][url-modernfix] `❌` | 1.21.5 | | [embeddedt][url-embeddedt] | __Modrinth__ |
 | [Monsters in the Closet][url-monsters-in-the-closet] `✔️` | 1.21.5 | | [Minenash][url-minenash] | __Modrinth__ |
 | [No Chat Reports][url-no-chat-reports] `✔️` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
+| [Packet Fixer][url-packet-fixer] `✔️` | 1.21.5 | | [TonimatasDEV][url-tonimatasdev] | __Modrinth__ |
 | [Ping Wheel][url-ping-wheel] `✔️` | 1.21.5 | | [Luken][url-luken] | __Modrinth__ |
 | [Roughly Enough Items][url-roughly-enough-items] `❌` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [ScalableLux][url-scalablelux] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
@@ -68,6 +69,7 @@
 [url-snownee]: <https://modrinth.com/user/Snownee>
 [url-stridey]: <https://modrinth.com/user/Stridey>
 [url-squeek502]: <https://modrinth.com/user/squeek502>
+[url-tonimatasdev]: <https://modrinth.com/user/TonimatasDEV>
 [url-tsomic]: <https://modrinth.com/user/tsomic>
 [url-wesley1808]: <https://www.curseforge.com/members/Wesley1808>
 <!-- mods -->
@@ -90,6 +92,7 @@
 [url-modernfix]: <https://cdn.modrinth.com/data/nmDcB62a/versions/ZGxQddYr/modernfix-fabric-5.20.3%2Bmc1.21.4.jar>
 [url-monsters-in-the-closet]: <https://cdn.modrinth.com/data/GMA8jFBD/versions/57WSUc6t/monsters-in-the-closet-1.0.3%2B1.21.2.jar>
 [url-no-chat-reports]: <https://cdn.modrinth.com/data/qQyHxfxd/versions/CHlHxkvf/NoChatReports-FABRIC-1.21.5-v2.12.0.jar>
+[url-packet-fixer]: <https://cdn.modrinth.com/data/c7m1mi73/versions/nBmGzZcV/packetfixer-fabric-1.21.5-2.1.2.jar>
 [url-ping-wheel]: <https://cdn.modrinth.com/data/QQXAdCzh/versions/USEtRrdw/Ping-Wheel-1.10.2-fabric-1.21.5.jar>
 [url-roughly-enough-items]: <https://cdn.modrinth.com/data/nfn13YXA/versions/EJdFrEjD/RoughlyEnoughItems-18.0.800-fabric.jar>
 [url-scalablelux]: <https://cdn.modrinth.com/data/Ps1zyz6x/versions/UueJNiJn/ScalableLux-0.1.3%2Bbeta.1%2Bfabric.4039a8d-all.jar>
