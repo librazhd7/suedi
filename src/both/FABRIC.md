@@ -33,7 +33,7 @@
 | [Too Many Paintings!][url-too-many-paintings] `✔️` | 1.21.5 | | [Axperty][url-axperty] | __Modrinth__ |
 | [Tough As Nails][url-tough-as-nails] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
 | [TrashSlot][url-trashslot] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
-| [Visual Workbench][url-visual-workbench] `❌` | 1.21.5 | [Forge Config API Port][url-forge-config-api-port] `✔️`, [Puzzles Lib][url-puzzles-lib] `✔️` | [Fuzs][url-fuzs] | __Modrinth__ |
+| [Visual Workbench][url-visual-workbench] `✔️` | 1.21.5 | [Forge Config API Port][url-forge-config-api-port] `✔️`, [Puzzles Lib][url-puzzles-lib] `✔️` | [Fuzs][url-fuzs] | __Modrinth__ |
 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
 | [Skin Shuffle][url-skin-shuffle] `✔️` | 1.21.5 | | [IMB11][url-imb11] | __Modrinth__ |
 | [Waddles][url-waddles] `✔️` | 1.21.5 | | [Girafi][url-girafi] | __CurseForge__ |
@@ -152,7 +152,7 @@
 [url-trashslot]: <https://cdn.modrinth.com/data/vRYk0bv7/versions/DGHuEq8F/trashslot-fabric-1.21.5-21.5.1.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/OzXC5Efi/voicechat-fabric-1.21.5-2.5.29.jar>
 [url-skin-shuffle]: <https://cdn.modrinth.com/data/3s19I5jr/versions/Kkd1UTJh/SkinShuffle-2.8.1%2B1.21.5.jar>
-[url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/eEmPD3gO/VisualWorkbench-v21.4.1-1.21.4-Fabric.jar>
+[url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/GLNQXUBq/VisualWorkbench-v21.5.0-1.21.5-Fabric.jar>
 [url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/download/6353427>
 [url-waystones]: <https://cdn.modrinth.com/data/LOpKHB2A/versions/ca46XnXg/waystones-fabric-1.21.5-21.5.1.jar>
 [url-yacl]: <https://cdn.modrinth.com/data/1eAoo2KR/versions/5yBEzonb/yet_another_config_lib_v3-3.6.6%2B1.21.5-fabric.jar>
