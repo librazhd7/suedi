@@ -29,13 +29,14 @@
 | [Serene Seasons][url-serene-seasons] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
 | [ServerCore][url-servercore] `✔️` | 1.21.5 | | [Wesley1808][url-wesley1808] | __Modrinth__ |
 | [spark][url-spark] `✔️` | 1.21.5 | | [lucko][url-lucko] | __Modrinth__ |
+| [Simple Voice Chat][url-simple-voice-chat] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
+| [Skin Shuffle][url-skin-shuffle] `✔️` | 1.21.5 | | [IMB11][url-imb11] | __Modrinth__ |
 | [Tech Reborn][url-tech-reborn] `✔️` | 1.21.5 | [Reborn Core][url-reborn-core] `❌` | [modmuss50][url-modmuss50] | __CurseForge__ |
 | [Too Many Paintings!][url-too-many-paintings] `✔️` | 1.21.5 | | [Axperty][url-axperty] | __Modrinth__ |
 | [Tough As Nails][url-tough-as-nails] `❌` | 1.21.5 | [GlitchCore][url-glitchcore] `❌` | [Adubbz][url-adubbz] | __Modrinth__ |
 | [TrashSlot][url-trashslot] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
+| [Very Many Players][url-very-many-players] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
 | [Visual Workbench][url-visual-workbench] `✔️` | 1.21.5 | [Forge Config API Port][url-forge-config-api-port] `✔️`, [Puzzles Lib][url-puzzles-lib] `✔️` | [Fuzs][url-fuzs] | __Modrinth__ |
-| [Simple Voice Chat][url-simple-voice-chat] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
-| [Skin Shuffle][url-skin-shuffle] `✔️` | 1.21.5 | | [IMB11][url-imb11] | __Modrinth__ |
 | [Waddles][url-waddles] `✔️` | 1.21.5 | | [Girafi][url-girafi] | __CurseForge__ |
 | [Waystones][url-waystones] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [YACL][url-yacl] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
@@ -145,13 +146,14 @@
 [url-serene-seasons]: <https://cdn.modrinth.com/data/e0bNACJD/versions/qanVNGyt/SereneSeasons-fabric-1.21.4-10.4.0.6.jar>
 [url-servercore]: <https://cdn.modrinth.com/data/4WWQxlQP/versions/whVgWjOT/servercore-fabric-1.5.9%2B1.21.5.jar>
 [url-spark]: <https://cdn.modrinth.com/data/l6YH9Als/versions/NURCAL12/spark-1.10.128-fabric.jar>
+[url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/OzXC5Efi/voicechat-fabric-1.21.5-2.5.29.jar>
+[url-skin-shuffle]: <https://cdn.modrinth.com/data/3s19I5jr/versions/Kkd1UTJh/SkinShuffle-2.8.1%2B1.21.5.jar>
 [url-tech-reborn]: <https://www.curseforge.com/minecraft/mc-mods/techreborn/download/6347878>
 [url-terrablender]: <https://cdn.modrinth.com/data/kkmrDlKT/versions/Gj73DHgF/TerraBlender-fabric-1.21.5-5.0.0.0.jar>
 [url-too-many-paintings]: <https://cdn.modrinth.com/data/T8Fpxcl7/versions/cVYSDB2y/toomanypaintings-24.11.29-1.21.3-fabric.jar>
 [url-tough-as-nails]: <https://cdn.modrinth.com/data/ge1sOdFH/versions/Ut7LTr3M/ToughAsNails-fabric-1.21.4-10.4.0.3.jar>
 [url-trashslot]: <https://cdn.modrinth.com/data/vRYk0bv7/versions/DGHuEq8F/trashslot-fabric-1.21.5-21.5.1.jar>
-[url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/OzXC5Efi/voicechat-fabric-1.21.5-2.5.29.jar>
-[url-skin-shuffle]: <https://cdn.modrinth.com/data/3s19I5jr/versions/Kkd1UTJh/SkinShuffle-2.8.1%2B1.21.5.jar>
+[url-very-many-players]: <https://cdn.modrinth.com/data/wnEe9KBa/versions/S6IwIw0D/vmp-fabric-mc1.21.5-0.2.0%2Bbeta.7.197-all.jar>
 [url-visual-workbench]: <https://cdn.modrinth.com/data/kfqD1JRw/versions/GLNQXUBq/VisualWorkbench-v21.5.0-1.21.5-Fabric.jar>
 [url-waddles]: <https://www.curseforge.com/minecraft/mc-mods/waddles/download/6353427>
 [url-waystones]: <https://cdn.modrinth.com/data/LOpKHB2A/versions/ca46XnXg/waystones-fabric-1.21.5-21.5.1.jar>
