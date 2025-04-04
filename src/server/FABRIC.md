@@ -2,17 +2,17 @@
 |-----|---------|--------------------------------------------------------|--------|-----|
 | [Alternate Current][url-alternate-current] `✔️` | 1.21.5 | | [Space Walker][url-space-walker] | __Modrinth__ |
 | [AudioPlayer][url-audio-player] `✔️` | 1.21.5 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | [henkelmax][url-henkelmax] | __Modrinth__ |
-| [Axes are Weapons][url-axes-are-weapons] `✔️` | 1.21.5 | | [Fourmisain][url-fourmisain] | __Modrinth__ |
+| [Axes are Weapons][url-axes-are-weapons] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [Fourmisain][url-fourmisain] | __Modrinth__ |
 | [Boids][url-boids] `✔️` | 1.21.5 | | [Tomate0613][url-tomate0613] | __Modrinth__ |
 | [CrashExploitFixer][url-crash-exploit-fixer] `❌` | 1.21.5 | | [DrexHD][url-drexhd] | __Modrinth__ |
 | [FallingTree][url-falling-tree] `✔️` | 1.21.5 | | [Rakambda][url-rakambda] | __Modrinth__ |
 | [Geyser][url-geyser] `✔️` | 1.21.5 | [Floodgate][url-floodgate] `✔️` | [Camotoy][url-camotoy] | __Modrinth__ |
 | [Let Me Despawn][url-let-me-despawn] `✔️` | 1.21.5 | [Almanac][url-almanac] `✔️` | [frikinjay][url-frikinjay] | __Modrinth__ |
 | [Load My F***ing Tags][url-load-my-fucking-tags] `✔️` | 1.21.5 | | [Blodhgarm][url-blodhgarm] | __Modrinth__ |
-| [NetherPortalFix][url-nether-portal-fix] `✔️` | 1.21.5 | | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
+| [NetherPortalFix][url-nether-portal-fix] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [Noisium][url-noisium] `❌` | 1.21.5 | | [Steveplays][url-steveplays] | __Modrinth__ |
 | [Universal Graves][url-universal-graves] `✔️` | 1.21.5 | | [Patbox][url-patbox] | __Modrinth__ |
-| [Veinminer][url-veinminer] `✔️` | 1.21.5 | [Silk][url-silk] `✔️` | [Miraculixx][url-miraculixx] | __Modrinth__ |
+| [Veinminer][url-veinminer] `✔️` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [Silk][url-silk] `✔️` | [Miraculixx][url-miraculixx] | __Modrinth__ |
 | [Voice Chat Interaction][url-voice-chat-interaction] `✔️` | 1.21.5 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | [henkelmax][url-henkelmax] | __Modrinth__ |
 | [Where Is It][url-where-is-it] `✔️` | 1.21.5 | [YACL][url-yacl] `✔️` | [JackFred][url-jackfred] | __Modrinth__ |
 
@@ -22,6 +22,7 @@
 - [__jakobkmar__][url-jakobkmar]
 - [__modmuss50__][url-modmuss50]
 - [__sfPlayer1__][url-sfplayer1]
+- [__shedaniel__][url-shedaniel]
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
@@ -42,6 +43,7 @@
 [url-patbox]: <https://modrinth.com/user/Patbox>
 [url-rakambda]: <https://modrinth.com/user/Rakambda>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
+[url-shedaniel]: <https://modrinth.com/user/shedaniel>
 [url-space-walker]: <https://modrinth.com/user/Space%20Walker>
 [url-steveplays]: <https://modrinth.com/user/Steveplays>
 [url-tomate0613]: <https://modrinth.com/user/Tomate0613>
@@ -52,8 +54,10 @@
 [url-axes-are-weapons]: <https://cdn.modrinth.com/data/1jvt7RTc/versions/IgfXr6Py/AxesAreWeapons-1.9.4-fabric-1.21.5.jar>
 [url-balm]: <https://cdn.modrinth.com/data/MBAkmtvl/versions/GsLZWhdZ/balm-fabric-1.21.5-21.5.9.jar>
 [url-boids]: <https://cdn.modrinth.com/data/2OckSy74/versions/aiZEd0aD/Boids-1.2.3.jar>
+[url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
 [url-crash-exploit-fixer]: <https://cdn.modrinth.com/data/Z5GdSH3X/versions/dqRkbGHB/crashexploitfixer-fabric-1.1.0%2B1.21.jar>
 [url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
+[url-fabric-language-kotlin]: <https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar>
 [url-falling-tree]: <https://cdn.modrinth.com/data/Fb4jn8m6/versions/enSGEWts/FallingTree-1.21.5-1.21.5.2.jar>
 [url-floodgate]: <https://cdn.modrinth.com/data/bWrNNfkb/versions/nyg969vQ/Floodgate-Fabric-2.2.4-b43.jar>
 [url-geyser]: <https://cdn.modrinth.com/data/wKkoqHrH/versions/KNlDZpOZ/geyser-fabric-Geyser-Fabric-2.7.0-b800.jar>
