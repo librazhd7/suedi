@@ -15,7 +15,6 @@
 | [Iris Shaders][url-iris-shaders] `✔️` | 1.21.5 | | [coderbot][url-coderbot] | __Modrinth__ |
 | [Mod Menu][url-mod-menu] `✔️` | 1.21.5 | | [Prospector][url-prospector] | __Modrinth__ |
 | [Not Enough Animations][url-not-enough-animations] `✔️` | 1.21.5 | | [tr7zw][url-tr7zw] | __Modrinth__ |
-| [Notes][url-notes] `✔️` | 1.21.5 | | [Chaosyr][url-chaosyr] | __Modrinth__ |
 | [Noxesium][url-noxesium] `✔️` | 1.21.5 | | [Aeltumn][url-aeltumn] | __Modrinth__ |
 | [Nvidium][url-nvidium] `❌` | 1.21.5 | [Sodium][url-sodium] `✔️`, [NVIDIA][url-nvidia] `👀` | [cortex][url-cortex]| __Modrinth__ |
 | [Reese's Sodium Options][url-reeses-sodium-options] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
@@ -44,7 +43,6 @@
 [url-a5b84]: <https://modrinth.com/user/A5b84>
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
 [url-caelthecolher]: <https://modrinth.com/user/caelthecolher>
-[url-chaosyr]: <https://modrinth.com/user/Chaosyr>
 [url-chrrs]: <https://modrinth.com/user/chrrs>
 [url-coderbot]: <https://modrinth.com/user/coderbot>
 [url-cortex]: <https://modrinth.com/user/cortex>
@@ -78,7 +76,7 @@
 [url-bobby]: <https://cdn.modrinth.com/data/M08ruV16/versions/FdlWKxsL/bobby-5.2.7%2Bmc1.21.5.jar>
 [url-capes]: <https://cdn.modrinth.com/data/89Wsn8GD/versions/htKsCP2s/capes-1.5.5%2B1.21.5-fabric.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
-[url-controlify]: <https://cdn.modrinth.com/data/DOUdJVEm/versions/5q2runiM/controlify-2.0.4%2B1.21.5-fabric.jar>
+[url-controlify]: <https://cdn.modrinth.com/data/DOUdJVEm/versions/oT1Pf7JM/controlify-2.1.1%2B1.21.5-fabric.jar>
 [url-dark-loading-screen]: <https://cdn.modrinth.com/data/h3XWIuzM/versions/RpbWPV5P/dark-loading-screen-1.6.16.jar>
 [url-dynamic-crosshair]: <https://cdn.modrinth.com/data/ZcR9weSm/versions/VsVDZkpZ/dynamiccrosshair-9.4%2B1.21.5-fabric.jar>
 [url-dynamic-fps]: <https://cdn.modrinth.com/data/LQ3K71Q1/versions/KyR4NPOX/dynamic-fps-3.9.2%2Bminecraft-1.21.5-fabric.jar>
@@ -86,21 +84,20 @@
 [url-enhanced-block-entities]: <https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar>
 [url-entity-culling]: <https://cdn.modrinth.com/data/NNAgCjsB/versions/29GV7fju/entityculling-fabric-1.7.4-mc1.21.5.jar>
 [url-exordium]: <https://cdn.modrinth.com/data/DynYZEae/versions/map5Ojxn/exordium-fabric-1.4.1-mc1.21.4.jar>
-[url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/rYSz5dRU/fabric-api-0.119.6%2B1.21.5.jar>
+[url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/FZ4q3wQK/fabric-api-0.119.9%2B1.21.5.jar>
 [url-fabric-language-kotlin]: <https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar>
-[url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/2v1FetLC/ImmediatelyFast-Fabric-1.9.1%2B1.21.5.jar>
+[url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/DjnwJdjY/ImmediatelyFast-Fabric-1.9.3%2B1.21.5.jar>
 [url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/U6evbjd0/iris-fabric-1.8.11%2Bmc1.21.5.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/prj4BdjU/notenoughanimations-fabric-1.9.3-mc1.21.5.jar>
-[url-notes]: <https://cdn.modrinth.com/data/ko8Qabo1/versions/1lw2vMqQ/notes-1.21.5-2.1.1-fabric.jar>
-[url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/VFgdHk3N/noxesium-fabric-2.7.1.jar>
+[url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/HAdav6eX/noxesium-fabric-2.7.2.jar>
 [url-nvidia]: <https://www.nvidia.com/en-us/software/nvidia-app/>
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
 [url-scribble]: <https://cdn.modrinth.com/data/yXAvIk0x/versions/N99ennkW/Scribble-1.5.2%2Bmc1.21.5-fabric.jar>
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/DA250htH/sodium-fabric-0.6.13%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
-[url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/2EyHcj8z/sound-physics-remastered-fabric-1.21.5-1.4.10.jar>
+[url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/twAAiZM2/sound-physics-remastered-fabric-1.21.5-1.4.12.jar>
 [url-stack-to-nearby-chests]: <https://cdn.modrinth.com/data/HtGckJVc/versions/VfGxJEGR/stack-to-nearby-chests-mc1.21.5-0.5.12.jar>
 [url-status-effect-bars]: <https://cdn.modrinth.com/data/x02cBj9Y/versions/z9zySjgX/status-effect-bars-1.0.8.jar>
 [url-visuality]: <https://cdn.modrinth.com/data/rI0hvYcd/versions/W7vlELm0/visuality-0.7.10%2B1.21.5.jar>
