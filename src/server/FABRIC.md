@@ -9,18 +9,20 @@
 | [Load My F***ing Tags][url-load-my-fucking-tags] `✔️` | 1.21.5 | | [Blodhgarm][url-blodhgarm] | __Modrinth__ |
 | [NetherPortalFix][url-nether-portal-fix] `✔️` | 1.21.5 | [Balm][url-balm] `✔️` | [BlayTheNinth][url-blaytheninth] | __Modrinth__ |
 | [Noisium][url-noisium] `❌` | 1.21.5 | | [Steveplays][url-steveplays] | __Modrinth__ |
-| [Structure Layout Optimizer][url-structure-layout-optimizer] `✔️` | 1.21.5 | | [TelepathicGrunt][url-telepathicgrunt] | __Modrinth__ |
+| [Structure Layout Optimizer][url-structure-layout-optimizer] `✔️` | 1.21.5 | [Resourceful Config][url-resourceful-config] `✔️` | [TelepathicGrunt][url-telepathicgrunt] | __Modrinth__ |
 | [Veinminer][url-veinminer] `✔️` | 1.21.5 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [Silk][url-silk] `✔️` | [Miraculixx][url-miraculixx] | __Modrinth__ |
 | [Voice Chat Interaction][url-voice-chat-interaction] `✔️` | 1.21.5 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | [henkelmax][url-henkelmax] | __Modrinth__ |
 | [Where Is It][url-where-is-it] `✔️` | 1.21.5 | [YACL][url-yacl] `✔️` | [JackFred][url-jackfred] | __Modrinth__ |
 
 ## Additional credits
 - [__BreadLoaf__][url-breadloaf]
+- [__epic_oreo__][url-epic_oreo]
 - [__isxander__][url-isxander]
 - [__jakobkmar__][url-jakobkmar]
 - [__modmuss50__][url-modmuss50]
 - [__sfPlayer1__][url-sfplayer1]
 - [__shedaniel__][url-shedaniel]
+- [__ThatGravyBoat__][url-thatgravyboat]
 
 <!-- loaders -->
 [url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
@@ -30,6 +32,7 @@
 [url-breadloaf]: <https://modrinth.com/user/BreadLoaf>
 [url-camotoy]: <https://modrinth.com/user/Camotoy>
 [url-drexhd]: <https://modrinth.com/user/DrexHD>
+[url-epic_oreo]: <https://modrinth.com/user/epic_oreo>
 [url-frikinjay]: <https://modrinth.com/user/frikinjay>
 [url-henkelmax]: <https://modrinth.com/user/henkelmax>
 [url-isxander]: <https://modrinth.com/user/isxander>
@@ -43,6 +46,7 @@
 [url-space-walker]: <https://modrinth.com/user/Space%20Walker>
 [url-steveplays]: <https://modrinth.com/user/Steveplays>
 [url-telepathicgrunt]: <https://modrinth.com/user/TelepathicGrunt>
+[url-thatgravyboat]: <https://modrinth.com/user/ThatGravyBoat>
 <!-- mods -->
 [url-almanac]: <https://cdn.modrinth.com/data/Gi02250Z/versions/mzFZuKaS/Almanac-1.21.5-fabric-1.4.5.jar>
 [url-alternate-current]: <https://cdn.modrinth.com/data/r0v8vy1s/versions/eTNKfjl1/alternate-current-mc1.21.5-1.9.0.jar>
@@ -58,6 +62,7 @@
 [url-load-my-fucking-tags]: <https://cdn.modrinth.com/data/67kVxsaO/versions/jEDKD9YH/lmft-1.1.0%2B1.21.4-fabric.jar>
 [url-nether-portal-fix]: <https://cdn.modrinth.com/data/nPZr02ET/versions/3xwbxqcv/netherportalfix-fabric-1.21.5-21.5.1.jar>
 [url-noisium]: <https://cdn.modrinth.com/data/KuNKN7d2/versions/9NHdQfkN/noisium-fabric-2.5.0%2Bmc1.21.4.jar>
+[url-resourceful-config]: <https://cdn.modrinth.com/data/M1953qlQ/versions/c30vWLNT/ResourcefulConfig-fabric-1.21.5-3.5.0.jar>
 [url-silk]: <https://cdn.modrinth.com/data/aTaCgKLW/versions/mIi7Urva/silk-all-1.11.1.jar>
 [url-simple-voice-chat]: <https://cdn.modrinth.com/data/9eGKb6K1/versions/OzXC5Efi/voicechat-fabric-1.21.5-2.5.29.jar>
 [url-structure-layout-optimizer]: <https://cdn.modrinth.com/data/ayPU0OHc/versions/uBUMz6rF/structure_layout_optimizer-fabric-1.1.1.jar>
