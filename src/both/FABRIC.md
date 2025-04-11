@@ -1,6 +1,5 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
 |-----|---------|--------------------------------------------------------|--------|-----|
-| [bad packets][url-bad-packets] `✔️` | 1.21.5 | | [deirn][url-deirn] | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
 | [Debugify][url-debugify] `✔️` | 1.21.5 | | [isxander][url-isxander] | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] `✔️` | 1.21.5 | | [KosmX][url-kosmx] | __Modrinth__ |
@@ -38,7 +37,6 @@
 [url-aizistral]: <https://modrinth.com/user/Aizistral>
 [url-axperty]: <https://modrinth.com/user/Axperty>
 [url-breadloaf]: <https://modrinth.com/user/BreadLoaf>
-[url-deirn]: <https://modrinth.com/user/deirn>
 [url-dima-dencep]: <https://modrinth.com/user/dima_dencep>
 [url-duplexsystem]: <https://modrinth.com/user/duplexsystem>
 [url-embeddedt]: <https://modrinth.com/user/embeddedt>
@@ -60,7 +58,6 @@
 [url-wesley1808]: <https://www.curseforge.com/members/Wesley1808>
 <!-- mods -->
 [url-architectury-api]: <https://cdn.modrinth.com/data/lhGA9TYQ/versions/ImZUcNzP/architectury-16.1.4-fabric.jar>
-[url-bad-packets]: <https://cdn.modrinth.com/data/ftdbN0KK/versions/hjhT2sMz/badpackets-fabric-0.8.2.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/Wh5CxZTp/c2me-fabric-mc1.21.5-0.3.2%2Bbeta.1.0.jar>
 [url-debugify]: <https://cdn.modrinth.com/data/QwxR6Gcd/versions/rfvoZgM1/Debugify-1.21.5%2B1.0.jar>
