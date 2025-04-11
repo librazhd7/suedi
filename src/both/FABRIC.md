@@ -12,7 +12,7 @@
 | [ModernFix][url-modernfix] `❌` | 1.21.5 | | [embeddedt][url-embeddedt] | __Modrinth__ |
 | [No Chat Reports][url-no-chat-reports] `✔️` | 1.21.5 | | [Aizistral][url-aizistral] | __Modrinth__ |
 | [Packet Fixer][url-packet-fixer] `✔️` | 1.21.5 | | [TonimatasDEV][url-tonimatasdev] | __Modrinth__ |
-| [Roughly Enough Items][url-roughly-enough-items] `✔️` | 1.21.5 | [Architectury API][url-architectury-api] `✔️` | [shedaniel][url-shedaniel] | __Modrinth__ |
+| [Roughly Enough Items][url-roughly-enough-items] `✔️` | 1.21.5 | [Architectury API][url-architectury-api] `✔️`, [Cloth Config API][url-cloth-config-api] `✔️` | [shedaniel][url-shedaniel] | __Modrinth__ |
 | [ScalableLux][url-scalablelux] `✔️` | 1.21.5 | | [ishland][url-ishland] | __Modrinth__ |
 | [ServerCore][url-servercore] `✔️` | 1.21.5 | | [Wesley1808][url-wesley1808] | __Modrinth__ |
 | [spark][url-spark] `✔️` | 1.21.5 | | [lucko][url-lucko] | __Modrinth__ |
