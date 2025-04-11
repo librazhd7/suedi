@@ -22,9 +22,7 @@
 | [Sodium][url-sodium] `✔️` | 1.21.5 | | [jellysquid3][url-jellysquid3] | __Modrinth__ |
 | [Sodium Extra][url-sodium-extra] `✔️` | 1.21.5 | | [FlashyReese][url-flashy-reese] | __Modrinth__ |
 | [Sound Physics Remastered][url-sound-physics-remastered] `✔️` | 1.21.5 | | [henkelmax][url-henkelmax] | __Modrinth__ |
-| [Stack To Nearby Chests][url-stack-to-nearby-chests] `✔️` | 1.21.5 | | [xiaocihua][url-xiaocihua] | __Modrinth__ |
 | [Status Effect Bars][url-status-effect-bars] `✔️` | 1.21.5 | [Cloth Config API][url-cloth-config-api] `✔️` | [A5b84][url-a5b84] | __Modrinth__ |
-| [Visuality][url-visuality] `✔️` | 1.21.5 | | [PinkGoosik][url-pinkgoosik] | __Modrinth__ |
 
 ## Additional credits
 - [__IMS__][url-ims]
@@ -62,7 +60,6 @@
 [url-notryken]: <https://modrinth.com/user/NotRyken>
 [url-noxcrew]: <https://modrinth.com/user/Noxcrew>
 [url-pelotrio]: <https://modrinth.com/user/Pelotrio>
-[url-pinkgoosik]: <https://modrinth.com/user/PinkGoosik>
 [url-prospector]: <https://modrinth.com/user/Prospector>
 [url-raphimc]: <https://modrinth.com/user/RaphiMC>
 [url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
@@ -70,7 +67,6 @@
 [url-thosea]: <https://modrinth.com/user/thosea>
 [url-tr7zw]: <https://modrinth.com/user/tr7zw>
 [url-vicisacat]: <https://modrinth.com/user/vicisacat>
-[url-xiaocihua]: <https://modrinth.com/user/xiaocihua>
 <!-- mods -->
 [url-bad-optimizations]: <https://cdn.modrinth.com/data/g96Z4WVZ/versions/EPTfY6pQ/BadOptimizations-2.2.1-1.21.2-21.4.jar>
 [url-bobby]: <https://cdn.modrinth.com/data/M08ruV16/versions/FdlWKxsL/bobby-5.2.7%2Bmc1.21.5.jar>
@@ -98,6 +94,4 @@
 [url-sodium]: <https://cdn.modrinth.com/data/AANobbMI/versions/DA250htH/sodium-fabric-0.6.13%2Bmc1.21.5.jar>
 [url-sodium-extra]: <https://cdn.modrinth.com/data/PtjYWJkn/versions/E5w6eZNE/sodium-extra-fabric-0.6.3%2Bmc1.21.5.jar>
 [url-sound-physics-remastered]: <https://cdn.modrinth.com/data/qyVF9oeo/versions/twAAiZM2/sound-physics-remastered-fabric-1.21.5-1.4.12.jar>
-[url-stack-to-nearby-chests]: <https://cdn.modrinth.com/data/HtGckJVc/versions/VfGxJEGR/stack-to-nearby-chests-mc1.21.5-0.5.12.jar>
 [url-status-effect-bars]: <https://cdn.modrinth.com/data/x02cBj9Y/versions/z9zySjgX/status-effect-bars-1.0.8.jar>
-[url-visuality]: <https://cdn.modrinth.com/data/rI0hvYcd/versions/W7vlELm0/visuality-0.7.10%2B1.21.5.jar>
