@@ -70,13 +70,13 @@
 [url-capes]: <https://cdn.modrinth.com/data/89Wsn8GD/versions/htKsCP2s/capes-1.5.5%2B1.21.5-fabric.jar>
 [url-cloth-config-api]: <https://cdn.modrinth.com/data/9s6osm5g/versions/qA00xo1O/cloth-config-18.0.145-fabric.jar>
 [url-dynamic-crosshair]: <https://cdn.modrinth.com/data/ZcR9weSm/versions/VsVDZkpZ/dynamiccrosshair-9.4%2B1.21.5-fabric.jar>
-[url-dynamic-fps]: <https://cdn.modrinth.com/data/LQ3K71Q1/versions/KyR4NPOX/dynamic-fps-3.9.2%2Bminecraft-1.21.5-fabric.jar>
+[url-dynamic-fps]: <https://cdn.modrinth.com/data/LQ3K71Q1/versions/plAPgk28/dynamic-fps-3.9.3%2Bminecraft-1.21.5-fabric.jar>
 [url-enhanced-attack-indicator]: <https://cdn.modrinth.com/data/eTy17BBS/versions/F0AKuwot/enhanced_attack_indicator-1.1.0%2B1.21.2.jar>
 [url-enhanced-block-entities]: <https://cdn.modrinth.com/data/OVuFYfre/versions/YokFoILZ/enhancedblockentities-0.11.3%2B1.21.4.jar>
 [url-entity-culling]: <https://cdn.modrinth.com/data/NNAgCjsB/versions/29GV7fju/entityculling-fabric-1.7.4-mc1.21.5.jar>
 [url-exordium]: <https://cdn.modrinth.com/data/DynYZEae/versions/map5Ojxn/exordium-fabric-1.4.1-mc1.21.4.jar>
 [url-explosive-enhancement]: <https://cdn.modrinth.com/data/OSQ8mw2r/versions/uENUGvIY/explosive-enhancement-1.3.0-1.21.4.jar>
-[url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/FZ4q3wQK/fabric-api-0.119.9%2B1.21.5.jar>
+[url-fabric-api]: <https://cdn.modrinth.com/data/P7dR8mSH/versions/hBmLTbVB/fabric-api-0.121.0%2B1.21.5.jar>
 [url-fabric-language-kotlin]: <https://cdn.modrinth.com/data/Ha28R6CL/versions/E4WyjCxJ/fabric-language-kotlin-1.13.2%2Bkotlin.2.1.20.jar>
 [url-immediately-fast]: <https://cdn.modrinth.com/data/5ZwdcRci/versions/DjnwJdjY/ImmediatelyFast-Fabric-1.9.3%2B1.21.5.jar>
 [url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/U6evbjd0/iris-fabric-1.8.11%2Bmc1.21.5.jar>
