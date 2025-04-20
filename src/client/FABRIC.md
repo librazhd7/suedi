@@ -33,8 +33,6 @@
 - [__shedaniel__][url-shedaniel]
 - [__vicisacat__][url-vicisacat]
 
-<!-- loaders -->
-[url-fabric]: <https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.0.1/fabric-installer-1.0.1.jar>
 <!-- authors -->
 [url-aeltumn]: <https://modrinth.com/user/Aeltumn>
 [url-caelthecolher]: <https://modrinth.com/user/caelthecolher>
@@ -82,7 +80,7 @@
 [url-iris-shaders]: <https://cdn.modrinth.com/data/YL57xq9U/versions/U6evbjd0/iris-fabric-1.8.11%2Bmc1.21.5.jar>
 [url-mod-menu]: <https://cdn.modrinth.com/data/mOgUt4GM/versions/T7GjZmwP/modmenu-14.0.0-rc.2.jar>
 [url-not-enough-animations]: <https://cdn.modrinth.com/data/MPCX6s5C/versions/prj4BdjU/notenoughanimations-fabric-1.9.3-mc1.21.5.jar>
-[url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/HAdav6eX/noxesium-fabric-2.7.2.jar>
+[url-noxesium]: <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/wBS9cCZT/noxesium-fabric-2.7.4.jar>
 [url-nvidium]: <https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar>
 [url-reeses-sodium-options]: <https://cdn.modrinth.com/data/Bh37bMuy/versions/KoUrx3jJ/reeses-sodium-options-fabric-1.8.3%2Bmc1.21.4.jar>
 [url-scribble]: <https://cdn.modrinth.com/data/yXAvIk0x/versions/N99ennkW/Scribble-1.5.2%2Bmc1.21.5-fabric.jar>
