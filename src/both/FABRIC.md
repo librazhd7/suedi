@@ -1,5 +1,6 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | CDN |
 |-----|---------|--------------------------------------------------------|-----|
+| [bad packets][url-bad-packets] `✔️`                                               | 1.21.7 | | __Modrinth__ |
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] `✔️` | 1.21.7 | | __Modrinth__ |
 | [Debugify][url-debugify] `✔️`                                                     | 1.21.7 | | __Modrinth__ |
 | [EmoteCraft][url-emotecraft] `❌`                                                 | 1.21.7 | | __Modrinth__ |
@@ -45,6 +46,7 @@
 [url-tonimatasdev]: <https://modrinth.com/user/TonimatasDEV>
 
 <!-- mods -->
+[url-bad-packets]:                        <https://cdn.modrinth.com/data/ftdbN0KK/versions/Luy2S9Fr/badpackets-fabric-0.9.0.jar>
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/XZsP4a9d/c2me-fabric-mc1.21.7-0.3.4%2Balpha.0.46.jar>
 [url-debugify]:                           <https://cdn.modrinth.com/data/QwxR6Gcd/versions/ZzhkIsJg/Debugify-1.21.7%2B1.0.jar>
 [url-emotecraft]:                         <https://cdn.modrinth.com/data/pZ2wrerK/versions/4QvPDQWM/emotecraft-fabric-for-MC1.21.5-2.6.1.jar>
