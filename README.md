@@ -2,9 +2,9 @@
 
 | Loader | Version | Compatibility |
 |--------|---------|---------------|
-| [Fabric][url-fabric] `✔️` | 1.21.5 | [BOTH][url-fabric-both]/[CLIENT][url-fabric-client]/[SERVER][url-fabric-server] |
-| [Forge][url-forge] `❌` | 1.21.5 | [BOTH][url-forge-both]/[CLIENT][url-forge-client]/[SERVER][url-forge-server] |
-| [Paper][url-paper] `❌` | 1.21.5 | [SERVER][url-paper-server] |
+| [Fabric][url-fabric] `✔️` | 1.21.7 | [BOTH][url-fabric-both]/[CLIENT][url-fabric-client]/[SERVER][url-fabric-server] |
+| [Forge][url-forge] `❌`   | 1.21.7 | [BOTH][url-forge-both]/[CLIENT][url-forge-client]/[SERVER][url-forge-server]    |
+| [Paper][url-paper] `❌`   | 1.21.7 | [SERVER][url-paper-server]                                                      |
 
 > [!NOTE]  
 > Automatic installer scripts for Windows/Linux are missing; \
