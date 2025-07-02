@@ -1,24 +1,24 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | CDN |
 |-----|---------|--------------------------------------------------------|-----|
-| [BadOptimizations][url-bad-optimizations] `✔️`                  | 1.21.7 |                           | __Modrinth__ |
-| [Bobby][url-bobby] `✔️`                                         | 1.21.7 |                           | __Modrinth__ |
-| [Dynamic Crosshair][url-dynamic-crosshair] `✔️`                 | 1.21.7 |                           | __Modrinth__ |
-| [Dynamic FPS][url-dynamic-fps] `✔️`                             | 1.21.7 |                           | __Modrinth__ |
-| [Enhanced Block Entities][url-enhanced-block-entities] `❌`     | 1.21.7 |                           | __Modrinth__ |
-| [Entity Culling][url-entity-culling] `✔️`                       | 1.21.7 |                           | __Modrinth__ |
-| [Exordium][url-exordium] `❌`                                   | 1.21.7 |                           | __Modrinth__ |
-| [Explosive Enhancement][url-explosive-enhancement] `❌`         | 1.21.7 | [YACL][url-yacl] `✔️`     | __Modrinth__ |
-| [ImmediatelyFast][url-immediately-fast] `✔️`                    | 1.21.7 |                           | __Modrinth__ |
-| [Iris Shaders][url-iris-shaders] `✔️`                           | 1.21.7 |                           | __Modrinth__ |
-| [Litematica][url-litematica] `✔️`                               | 1.21.7 |                           | __Modrinth__ |
-| [Mod Menu][url-mod-menu] `✔️`                                   | 1.21.7 |                           | __Modrinth__ |
-| [Not Enough Animations][url-not-enough-animations] `✔️`         | 1.21.7 |                           | __Modrinth__ |
-| [Noxesium][url-noxesium] `❌`                                   | 1.21.7 |                           | __Modrinth__ |
-| [Nvidium][url-nvidium] `❌`                                     | 1.21.7 | [Sodium][url-sodium] `✔️` | __Modrinth__ |
-| [Reese's Sodium Options][url-reeses-sodium-options] `✔️`        | 1.21.7 |                           | __Modrinth__ |
-| [Sodium][url-sodium] `✔️`                                       | 1.21.7 |                           | __Modrinth__ |
-| [Sodium Extra][url-sodium-extra] `✔️`                           | 1.21.7 |                           | __Modrinth__ |
-| [Sound Physics Remastered][url-sound-physics-remastered] `✔️`   | 1.21.7 |                           | __Modrinth__ |
+| [BadOptimizations][url-bad-optimizations] `✔️`                | 1.21.7 |                             | __Modrinth__ |
+| [Bobby][url-bobby] `✔️`                                       | 1.21.7 |                             | __Modrinth__ |
+| [Dynamic Crosshair][url-dynamic-crosshair] `✔️`               | 1.21.7 |                             | __Modrinth__ |
+| [Dynamic FPS][url-dynamic-fps] `✔️`                           | 1.21.7 |                             | __Modrinth__ |
+| [Enhanced Block Entities][url-enhanced-block-entities] `❌`   | 1.21.7 |                             | __Modrinth__ |
+| [Entity Culling][url-entity-culling] `✔️`                     | 1.21.7 |                             | __Modrinth__ |
+| [Exordium][url-exordium] `❌`                                 | 1.21.7 |                             | __Modrinth__ |
+| [Explosive Enhancement][url-explosive-enhancement] `❌`       | 1.21.7 | [YACL][url-yacl] `✔️`       | __Modrinth__ |
+| [ImmediatelyFast][url-immediately-fast] `✔️`                  | 1.21.7 |                             | __Modrinth__ |
+| [Iris Shaders][url-iris-shaders] `✔️`                         | 1.21.7 |                             | __Modrinth__ |
+| [Litematica][url-litematica] `✔️`                             | 1.21.7 | [MaLiLib][url-malilib] `✔️` | __Modrinth__ |
+| [Mod Menu][url-mod-menu] `✔️`                                 | 1.21.7 |                             | __Modrinth__ |
+| [Not Enough Animations][url-not-enough-animations] `✔️`       | 1.21.7 |                             | __Modrinth__ |
+| [Noxesium][url-noxesium] `❌`                                 | 1.21.7 |                             | __Modrinth__ |
+| [Nvidium][url-nvidium] `❌`                                   | 1.21.7 | [Sodium][url-sodium] `✔️`   | __Modrinth__ |
+| [Reese's Sodium Options][url-reeses-sodium-options] `✔️`      | 1.21.7 |                             | __Modrinth__ |
+| [Sodium][url-sodium] `✔️`                                     | 1.21.7 |                             | __Modrinth__ |
+| [Sodium Extra][url-sodium-extra] `✔️`                         | 1.21.7 |                             | __Modrinth__ |
+| [Sound Physics Remastered][url-sound-physics-remastered] `✔️` | 1.21.7 |                             | __Modrinth__ |
 
 ### Authors
 
@@ -63,6 +63,7 @@
 [url-immediately-fast]:         <https://cdn.modrinth.com/data/5ZwdcRci/versions/cuRqLEAA/ImmediatelyFast-Fabric-1.11.0%2B1.21.7.jar>
 [url-iris-shaders]:             <https://cdn.modrinth.com/data/YL57xq9U/versions/l77DAK6U/iris-fabric-1.9.1%2Bmc1.21.7.jar>
 [url-litematica]:               <https://cdn.modrinth.com/data/bEpr0Arc/versions/PHUdsjfV/litematica-fabric-1.21.7-0.23.1.jar>
+[url-malilib]:                  <https://cdn.modrinth.com/data/GcWjdA9I/versions/EcW3wuWQ/malilib-fabric-1.21.7-0.25.1.jar>
 [url-mod-menu]:                 <https://cdn.modrinth.com/data/mOgUt4GM/versions/JY1tNj8H/modmenu-15.0.0-beta.3.jar>
 [url-not-enough-animations]:    <https://cdn.modrinth.com/data/MPCX6s5C/versions/abRrYt49/notenoughanimations-fabric-1.10.0-mc1.21.6.jar>
 [url-noxesium]:                 <https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/4SZsFW6S/noxesium-fabric-2.7.6.jar>
