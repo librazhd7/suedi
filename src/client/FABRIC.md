@@ -1,63 +1,55 @@
-| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | Author | CDN |
-|-----|---------|--------------------------------------------------------|--------|-----|
-| [BadOptimizations][url-bad-optimizations] `✔️`                  | 1.21.7 |                           | [thosea][url-thosea]                   | __Modrinth__ |
-| [Bobby][url-bobby] `✔️`                                         | 1.21.7 |                           | [Johni0702][url-johni0702]             | __Modrinth__ |
-| [Dynamic Crosshair][url-dynamic-crosshair] `✔️`                 | 1.21.7 |                           | [Crendgrim][url-crendgrim]             | __Modrinth__ |
-| [Dynamic FPS][url-dynamic-fps] `✔️`                             | 1.21.7 |                           | [juliand665][url-juliand665]           | __Modrinth__ |
-| [Enhanced Block Entities][url-enhanced-block-entities] `❌`     | 1.21.7 |                           | [FoundationGames][url-foundationgames] | __Modrinth__ |
-| [Entity Culling][url-entity-culling] `✔️`                       | 1.21.7 |                           | [tr7zw][url-tr7zw]                     | __Modrinth__ |
-| [Exordium][url-exordium] `❌`                                   | 1.21.7 |                           | [tr7zw][url-tr7zw]                     | __Modrinth__ |
-| [Explosive Enhancement][url-explosive-enhancement] `❌`         | 1.21.7 | [YACL][url-yacl] `✔️`     | [Superkat32][url-superkat32]           | __Modrinth__ |
-| [ImmediatelyFast][url-immediately-fast] `✔️`                    | 1.21.7 |                           | [RaphiMC][url-raphimc]                 | __Modrinth__ |
-| [Iris Shaders][url-iris-shaders] `✔️`                           | 1.21.7 |                           | [coderbot][url-coderbot]               | __Modrinth__ |
-| [Litematica][url-litematica] `✔️`                               | 1.21.7 |                           | [masa][url-masa]                       | __Modrinth__ |
-| [Mod Menu][url-mod-menu] `✔️`                                   | 1.21.7 |                           | [Prospector][url-prospector]           | __Modrinth__ |
-| [Not Enough Animations][url-not-enough-animations] `✔️`         | 1.21.7 |                           | [tr7zw][url-tr7zw]                     | __Modrinth__ |
-| [Noxesium][url-noxesium] `❌`                                   | 1.21.7 |                           | [Aeltumn][url-aeltumn]                 | __Modrinth__ |
-| [Nvidium][url-nvidium] `❌`                                     | 1.21.7 | [Sodium][url-sodium] `✔️` | [cortex][url-cortex]                   | __Modrinth__ |
-| [Reese's Sodium Options][url-reeses-sodium-options] `✔️`        | 1.21.7 |                           | [FlashyReese][url-flashy-reese]        | __Modrinth__ |
-| [Sodium][url-sodium] `✔️`                                       | 1.21.7 |                           | [jellysquid3][url-jellysquid3]         | __Modrinth__ |
-| [Sodium Extra][url-sodium-extra] `✔️`                           | 1.21.7 |                           | [FlashyReese][url-flashy-reese]        | __Modrinth__ |
-| [Sound Physics Remastered][url-sound-physics-remastered] `✔️`   | 1.21.7 |                           | [henkelmax][url-henkelmax]             | __Modrinth__ |
+| Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | CDN |
+|-----|---------|--------------------------------------------------------|-----|
+| [BadOptimizations][url-bad-optimizations] `✔️`                  | 1.21.7 |                           | __Modrinth__ |
+| [Bobby][url-bobby] `✔️`                                         | 1.21.7 |                           | __Modrinth__ |
+| [Dynamic Crosshair][url-dynamic-crosshair] `✔️`                 | 1.21.7 |                           | __Modrinth__ |
+| [Dynamic FPS][url-dynamic-fps] `✔️`                             | 1.21.7 |                           | __Modrinth__ |
+| [Enhanced Block Entities][url-enhanced-block-entities] `❌`     | 1.21.7 |                           | __Modrinth__ |
+| [Entity Culling][url-entity-culling] `✔️`                       | 1.21.7 |                           | __Modrinth__ |
+| [Exordium][url-exordium] `❌`                                   | 1.21.7 |                           | __Modrinth__ |
+| [Explosive Enhancement][url-explosive-enhancement] `❌`         | 1.21.7 | [YACL][url-yacl] `✔️`     | __Modrinth__ |
+| [ImmediatelyFast][url-immediately-fast] `✔️`                    | 1.21.7 |                           | __Modrinth__ |
+| [Iris Shaders][url-iris-shaders] `✔️`                           | 1.21.7 |                           | __Modrinth__ |
+| [Litematica][url-litematica] `✔️`                               | 1.21.7 |                           | __Modrinth__ |
+| [Mod Menu][url-mod-menu] `✔️`                                   | 1.21.7 |                           | __Modrinth__ |
+| [Not Enough Animations][url-not-enough-animations] `✔️`         | 1.21.7 |                           | __Modrinth__ |
+| [Noxesium][url-noxesium] `❌`                                   | 1.21.7 |                           | __Modrinth__ |
+| [Nvidium][url-nvidium] `❌`                                     | 1.21.7 | [Sodium][url-sodium] `✔️` | __Modrinth__ |
+| [Reese's Sodium Options][url-reeses-sodium-options] `✔️`        | 1.21.7 |                           | __Modrinth__ |
+| [Sodium][url-sodium] `✔️`                                       | 1.21.7 |                           | __Modrinth__ |
+| [Sodium Extra][url-sodium-extra] `✔️`                           | 1.21.7 |                           | __Modrinth__ |
+| [Sound Physics Remastered][url-sound-physics-remastered] `✔️`   | 1.21.7 |                           | __Modrinth__ |
 
-## Additional credits
-- [__IMS__][url-ims]
-- [__katietheqt__][url-katietheqt]
-- [__LostLuma__][url-lostluma]
-- [__modmuss50__][url-modmuss50]
-- [__Noxcrew__][url-noxcrew]
-- [__Pelotrio__][url-pelotrio]
-- [__sfPlayer1__][url-sfplayer1]
-- [__shedaniel__][url-shedaniel]
-- [__vicisacat__][url-vicisacat]
+### Authors
 
 <!-- authors -->
-[url-aeltumn]: <https://modrinth.com/user/Aeltumn>
-[url-coderbot]: <https://modrinth.com/user/coderbot>
-[url-cortex]: <https://modrinth.com/user/cortex>
-[url-crendgrim]: <https://modrinth.com/user/Crendgrim>
-[url-flashy-reese]: <https://modrinth.com/user/FlashyReese>
+[url-aeltumn]:         <https://modrinth.com/user/Aeltumn>
+[url-coderbot]:        <https://modrinth.com/user/coderbot>
+[url-cortex]:          <https://modrinth.com/user/cortex>
+[url-crendgrim]:       <https://modrinth.com/user/Crendgrim>
+[url-flashy-reese]:    <https://modrinth.com/user/FlashyReese>
 [url-foundationgames]: <https://modrinth.com/user/FoundationGames>
-[url-henkelmax]: <https://modrinth.com/user/henkelmax>
-[url-ims]: <https://modrinth.com/user/IMS>
-[url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
-[url-johni0702]: <https://modrinth.com/user/Johni0702>
-[url-juliand665]: <https://modrinth.com/user/juliand665>
-[url-katietheqt]: <https://modrinth.com/user/katietheqt>
-[url-lostluma]: <https://modrinth.com/user/LostLuma>
-[url-masa]:      <https://modrinth.com/user/masa>
-[url-modmuss50]: <https://modrinth.com/user/modmuss50>
-[url-notryken]: <https://modrinth.com/user/NotRyken>
-[url-noxcrew]: <https://modrinth.com/user/Noxcrew>
-[url-pelotrio]: <https://modrinth.com/user/Pelotrio>
-[url-prospector]: <https://modrinth.com/user/Prospector>
-[url-raphimc]: <https://modrinth.com/user/RaphiMC>
-[url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
-[url-shedaniel]: <https://modrinth.com/user/shedaniel>
-[url-superkat32]: <https://modrinth.com/user/Superkat32>
-[url-thosea]: <https://modrinth.com/user/thosea>
-[url-tr7zw]: <https://modrinth.com/user/tr7zw>
-[url-vicisacat]: <https://modrinth.com/user/vicisacat>
+[url-henkelmax]:       <https://modrinth.com/user/henkelmax>
+[url-ims]:             <https://modrinth.com/user/IMS>
+[url-jellysquid3]:     <https://modrinth.com/user/jellysquid3>
+[url-johni0702]:       <https://modrinth.com/user/Johni0702>
+[url-juliand665]:      <https://modrinth.com/user/juliand665>
+[url-katietheqt]:      <https://modrinth.com/user/katietheqt>
+[url-lostluma]:        <https://modrinth.com/user/LostLuma>
+[url-masa]:            <https://modrinth.com/user/masa>
+[url-modmuss50]:       <https://modrinth.com/user/modmuss50>
+[url-notryken]:        <https://modrinth.com/user/NotRyken>
+[url-noxcrew]:         <https://modrinth.com/user/Noxcrew>
+[url-pelotrio]:        <https://modrinth.com/user/Pelotrio>
+[url-prospector]:      <https://modrinth.com/user/Prospector>
+[url-raphimc]:         <https://modrinth.com/user/RaphiMC>
+[url-sfplayer1]:       <https://modrinth.com/user/sfPlayer1>
+[url-shedaniel]:       <https://modrinth.com/user/shedaniel>
+[url-superkat32]:      <https://modrinth.com/user/Superkat32>
+[url-thosea]:          <https://modrinth.com/user/thosea>
+[url-tr7zw]:           <https://modrinth.com/user/tr7zw>
+[url-vicisacat]:       <https://modrinth.com/user/vicisacat>
+
 <!-- mods -->
 [url-bad-optimizations]:        <https://cdn.modrinth.com/data/g96Z4WVZ/versions/VLDb95oX/BadOptimizations-2.2.3-1.21.2-21.6.jar>
 [url-bobby]:                    <https://cdn.modrinth.com/data/M08ruV16/versions/ODwC9dEb/bobby-5.2.8%2Bmc1.21.6.jar>
