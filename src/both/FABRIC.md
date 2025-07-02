@@ -50,7 +50,7 @@
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/XZsP4a9d/c2me-fabric-mc1.21.7-0.3.4%2Balpha.0.46.jar>
 [url-debugify]:                           <https://cdn.modrinth.com/data/QwxR6Gcd/versions/ZzhkIsJg/Debugify-1.21.7%2B1.0.jar>
 [url-emotecraft]:                         <https://cdn.modrinth.com/data/pZ2wrerK/versions/4QvPDQWM/emotecraft-fabric-for-MC1.21.5-2.6.1.jar>
-[url-fabric-api]:                         <https://cdn.modrinth.com/data/P7dR8mSH/versions/hBmLTbVB/fabric-api-0.121.0%2B1.21.5.jar>
+[url-fabric-api]:                         <https://cdn.modrinth.com/data/P7dR8mSH/versions/JIZogEYa/fabric-api-0.128.2%2B1.21.7.jar>
 [url-ferritecore]:                        <https://cdn.modrinth.com/data/uXXizFIs/versions/CtMpt7Jr/ferritecore-8.0.0-fabric.jar>
 [url-jade]:                               <https://cdn.modrinth.com/data/nvQzSEkH/versions/NNvRcygS/Jade-1.21.7-Fabric-19.0.4.jar>
 [url-journeymap]:                         <https://cdn.modrinth.com/data/lfHFW1mp/versions/xDS1Jejv/journeymap-fabric-1.21.7-6.0.0-beta.52.jar>
