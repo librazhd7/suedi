@@ -1,50 +1,48 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | CDN |
 |-----|---------|--------------------------------------------------------|-----|
 | [Concurrent Chunk Management Engine][url-concurrent-chunk-management-engine] `✔️` | 1.21.7 | | __Modrinth__ |
-| [Debugify][url-debugify]                                                     `✔️` | 1.21.7 | | __Modrinth__ |
-| [EmoteCraft][url-emotecraft]                                                 `❌` | 1.21.7 | | __Modrinth__ |
-| [FerriteCore][url-ferritecore]                                               `✔️` | 1.21.7 | | __Modrinth__ |
-| [Jade][url-jade]                                                             `✔️` | 1.21.7 | | __Modrinth__ |
-| [JourneyMap][url-journeymap]                                                 `✔️` | 1.21.7 | | __Modrinth__ |
-| [Krypton][url-krypton]                                                       `✔️` | 1.21.7 | | __Modrinth__ |
-| [Lithium][url-lithium]                                                       `✔️` | 1.21.7 | | __Modrinth__ |
-| [ModernFix][url-modernfix]                                                   `❌` | 1.21.7 | | __Modrinth__ |
-| [No Chat Reports][url-no-chat-reports]                                       `✔️` | 1.21.7 | | __Modrinth__ |
-| [Packet Fixer][url-packet-fixer]                                             `✔️` | 1.21.7 | | __Modrinth__ |
-| [ScalableLux][url-scalablelux]                                               `✔️` | 1.21.7 | | __Modrinth__ |
-| [ServerCore][url-servercore]                                                 `✔️` | 1.21.7 | | __Modrinth__ |
-| [spark][url-spark]                                                           `✔️` | 1.21.7 | | __Modrinth__ |
-| [Simple Voice Chat][url-simple-voice-chat]                                   `✔️` | 1.21.7 | | __Modrinth__ |
-| [Very Many Players][url-very-many-players]                                   `✔️` | 1.21.7 | | __Modrinth__ |
-| [YACL][url-yacl]                                                             `✔️` | 1.21.7 | | __Modrinth__ |
+| [Debugify][url-debugify] `✔️`                                                     | 1.21.7 | | __Modrinth__ |
+| [EmoteCraft][url-emotecraft] `❌`                                                 | 1.21.7 | | __Modrinth__ |
+| [FerriteCore][url-ferritecore] `✔️`                                               | 1.21.7 | | __Modrinth__ |
+| [Jade][url-jade] `✔️`                                                             | 1.21.7 | | __Modrinth__ |
+| [JourneyMap][url-journeymap] `✔️`                                                 | 1.21.7 | | __Modrinth__ |
+| [Krypton][url-krypton] `✔️`                                                       | 1.21.7 | | __Modrinth__ |
+| [Lithium][url-lithium] `✔️`                                                       | 1.21.7 | | __Modrinth__ |
+| [ModernFix][url-modernfix] `❌`                                                   | 1.21.7 | | __Modrinth__ |
+| [No Chat Reports][url-no-chat-reports] `✔️`                                       | 1.21.7 | | __Modrinth__ |
+| [Packet Fixer][url-packet-fixer] `✔️`                                             | 1.21.7 | | __Modrinth__ |
+| [ScalableLux][url-scalablelux] `✔️`                                               | 1.21.7 | | __Modrinth__ |
+| [ServerCore][url-servercore] `✔️`                                                 | 1.21.7 | | __Modrinth__ |
+| [spark][url-spark] `✔️`                                                           | 1.21.7 | | __Modrinth__ |
+| [Simple Voice Chat][url-simple-voice-chat] `✔️`                                   | 1.21.7 | | __Modrinth__ |
+| [Very Many Players][url-very-many-players] `✔️`                                   | 1.21.7 | | __Modrinth__ |
 
 ### Authors
 
 <!-- authors -->
-[url-2no2name]: <https://modrinth.com/user/2No2Name>
-[url-astei]: <https://modrinth.com/user/astei>
-[url-aizistral]: <https://modrinth.com/user/Aizistral>
-[url-axperty]: <https://modrinth.com/user/Axperty>
-[url-breadloaf]: <https://modrinth.com/user/BreadLoaf>
-[url-dima-dencep]: <https://modrinth.com/user/dima_dencep>
+[url-2no2name]:     <https://modrinth.com/user/2No2Name>
+[url-astei]:        <https://modrinth.com/user/astei>
+[url-aizistral]:    <https://modrinth.com/user/Aizistral>
+[url-axperty]:      <https://modrinth.com/user/Axperty>
+[url-breadloaf]:    <https://modrinth.com/user/BreadLoaf>
+[url-dima-dencep]:  <https://modrinth.com/user/dima_dencep>
 [url-duplexsystem]: <https://modrinth.com/user/duplexsystem>
-[url-embeddedt]: <https://modrinth.com/user/embeddedt>
-[url-henkelmax]: <https://modrinth.com/user/henkelmax>
-[url-ishland]: <https://modrinth.com/user/ishland>
-[url-isxander]: <https://modrinth.com/user/isxander>
-[url-jellysquid3]: <https://modrinth.com/user/jellysquid3>
-[url-kosmx]: <https://modrinth.com/user/KosmX>
-[url-lucko]: <https://modrinth.com/user/lucko>
-[url-malte0811]: <https://modrinth.com/user/malte0811>
-[url-modmuss50]: <https://modrinth.com/user/modmuss50>
-[url-mysticdrew]: <https://modrinth.com/user/mysticdrew>
-[url-robotkoer]: <https://modrinth.com/user/robotkoer>
-[url-sfplayer1]: <https://modrinth.com/user/sfPlayer1>
-[url-shedaniel]: <https://modrinth.com/user/shedaniel>
-[url-snownee]: <https://modrinth.com/user/Snownee>
-[url-stridey]: <https://modrinth.com/user/Stridey>
+[url-embeddedt]:    <https://modrinth.com/user/embeddedt>
+[url-henkelmax]:    <https://modrinth.com/user/henkelmax>
+[url-ishland]:      <https://modrinth.com/user/ishland>
+[url-isxander]:     <https://modrinth.com/user/isxander>
+[url-jellysquid3]:  <https://modrinth.com/user/jellysquid3>
+[url-kosmx]:        <https://modrinth.com/user/KosmX>
+[url-lucko]:        <https://modrinth.com/user/lucko>
+[url-malte0811]:    <https://modrinth.com/user/malte0811>
+[url-modmuss50]:    <https://modrinth.com/user/modmuss50>
+[url-mysticdrew]:   <https://modrinth.com/user/mysticdrew>
+[url-robotkoer]:    <https://modrinth.com/user/robotkoer>
+[url-sfplayer1]:    <https://modrinth.com/user/sfPlayer1>
+[url-shedaniel]:    <https://modrinth.com/user/shedaniel>
+[url-snownee]:      <https://modrinth.com/user/Snownee>
+[url-stridey]:      <https://modrinth.com/user/Stridey>
 [url-tonimatasdev]: <https://modrinth.com/user/TonimatasDEV>
-[url-wesley1808]: <https://www.curseforge.com/members/Wesley1808>
 
 <!-- mods -->
 [url-concurrent-chunk-management-engine]: <https://cdn.modrinth.com/data/VSNURh3q/versions/XZsP4a9d/c2me-fabric-mc1.21.7-0.3.4%2Balpha.0.46.jar>
@@ -64,4 +62,3 @@
 [url-spark]:                              <https://cdn.modrinth.com/data/l6YH9Als/versions/wPYvarTa/spark-1.10.140-fabric.jar>
 [url-simple-voice-chat]:                  <https://cdn.modrinth.com/data/9eGKb6K1/versions/bilPCGtM/voicechat-fabric-1.21.7-2.5.33.jar>
 [url-very-many-players]:                  <https://cdn.modrinth.com/data/wnEe9KBa/versions/fcuAO34V/vmp-fabric-mc1.21.7-0.2.0%2Bbeta.7.202-all.jar>
-[url-yacl]:                               <https://cdn.modrinth.com/data/1eAoo2KR/versions/WxYlHLu6/yet_another_config_lib_v3-3.7.1%2B1.21.6-fabric.jar>
