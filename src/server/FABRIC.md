@@ -1,16 +1,16 @@
 | Mod | Version | Dependencies (excl. [Fabric API][url-fabric-api] `🔗`) | CDN |
 |-----|---------|--------------------------------------------------------|-----|
-| [Alternate Current][url-alternate-current]                   `✔️` | 1.21.7 |                                                 | __Modrinth__ |
-| [AudioPlayer][url-audio-player]                              `✔️` | 1.21.7 | [Simple Voice Chat][url-simple-voice-chat] `✔️` | __Modrinth__ |
-| [FallingTree][url-falling-tree]                              `✔️` | 1.21.7 |                                                 | __Modrinth__ |
-| [Geyser][url-geyser]                                         `✔️` | 1.21.7 | [Floodgate][url-floodgate] `✔️`                 | __Modrinth__ |
-| [Let Me Despawn][url-let-me-despawn]                         `✔️` | 1.21.7 | [Almanac][url-almanac] `✔️`                     | __Modrinth__ |
-| [Load My F***ing Tags][url-load-my-fucking-tags]             `✔️` | 1.21.7 |                                                                                  | __Modrinth__ |
-| [NetherPortalFix][url-nether-portal-fix]                     `✔️` | 1.21.7 | [Balm][url-balm]                                                            `✔️` | __Modrinth__ |
-| [Noisium][url-noisium]                                       `✔️` | 1.21.7 |                                                                                  | __Modrinth__ |
-| [Structure Layout Optimizer][url-structure-layout-optimizer] `✔️` | 1.21.7 |                                                                                  | __Modrinth__ |
-| [Veinminer][url-veinminer]                                   `✔️` | 1.21.7 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [Silk][url-silk] `✔️` | __Modrinth__ |
-| [Voice Chat Interaction][url-voice-chat-interaction]         `✔️` | 1.21.7 | [Simple Voice Chat][url-simple-voice-chat]                                  `✔️` | __Modrinth__ |
+| [Alternate Current][url-alternate-current] `✔️`                       | 1.21.7 |                                                                                  | __Modrinth__ |
+| [AudioPlayer][url-audio-player] `✔️`                                  | 1.21.7 | [Simple Voice Chat][url-simple-voice-chat] `✔️`                                  | __Modrinth__ |
+| [FallingTree][url-falling-tree] `✔️`                                  | 1.21.7 |                                                                                  | __Modrinth__ |
+| [Geyser][url-geyser] `✔️`                                             | 1.21.7 | [Floodgate][url-floodgate] `✔️`                                                  | __Modrinth__ |
+| [Let Me Despawn][url-let-me-despawn] `✔️`                             | 1.21.7 | [Almanac][url-almanac] `✔️`                                                      | __Modrinth__ |
+| [Load My F***ing Tags][url-load-my-fucking-tags] `✔️`                 | 1.21.7 |                                                                                  | __Modrinth__ |
+| [NetherPortalFix][url-nether-portal-fix] `✔️`                         | 1.21.7 | [Balm][url-balm] `✔️`                                                            | __Modrinth__ |
+| [Noisium][url-noisium] `❌`                                           | 1.21.7 |                                                                                  | __Modrinth__ |
+| [~~Structure Layout Optimizer~~][url-structure-layout-optimizer] `✔️` | 1.21.7 |                                                                                  | __Modrinth__ |
+| [Veinminer][url-veinminer] `✔️`                                       | 1.21.7 | [Fabric Language Kotlin][url-fabric-language-kotlin] `✔️`, [Silk][url-silk] `✔️` | __Modrinth__ |
+| [Voice Chat Interaction][url-voice-chat-interaction] `✔️`             | 1.21.7 | [Simple Voice Chat][url-simple-voice-chat] `✔️`                                  | __Modrinth__ |
 
 ### Authors
 
